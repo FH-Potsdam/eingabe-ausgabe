@@ -1,0 +1,31 @@
+{
+  "name": "eingabe-ausgabe",
+  "version": "0.1.0",
+  "description": "a microsite for eingabe ausgabe FHP WS 2014/2015",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FH-Potsdam/eingabe-ausgabe.git"
+  },
+  "keywords": [
+    "FHP",
+    "io",
+    "eingabe",
+    "ausgabe"
+  ],
+  "author": "fabiantheblind <fabiantheblind@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FH-Potsdam/eingabe-ausgabe/issues"
+  },
+  "homepage": "https://github.com/FH-Potsdam/eingabe-ausgabe",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-wiredep": "^1.9.0",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}

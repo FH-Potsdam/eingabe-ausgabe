@@ -1,0 +1,29 @@
+{
+  "name": "eingabe-ausgabe",
+  "version": "0.1.0",
+  "authors": [
+    "fabiantheblind <fabiantheblind@gmail.com>"
+  ],
+  "description": "a microsite for eingabe ausgabe FHP WS 2014/2015",
+  "main": "index.html",
+  "keywords": [
+    "FHP",
+    "io",
+    "eingabe",
+    "ausgabe"
+  ],
+  "license": "MIT",
+  "homepage": "https://interface.fh-potsdam.de/eingabe-ausgabe",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "holderjs": "~2.4.1"
+  }
+}

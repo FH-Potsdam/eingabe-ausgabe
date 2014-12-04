@@ -1,0 +1,14 @@
+{
+      "settings":
+    {
+      "trim_trailing_white_space_on_save": false,
+
+    },
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

@@ -1,0 +1,1499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"index",
+				"index"
+			],
+			[
+				"ale",
+				"alert(\"Hello"
+			],
+			[
+				"per",
+				"persons"
+			],
+			[
+				"string",
+				"querystring.stringify"
+			],
+			[
+				"json",
+				"jsonObj"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"PR",
+				"PROJEKTNAME"
+			],
+			[
+				"ans",
+				"anscombe"
+			],
+			[
+				"pbc",
+				"pbcopy"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"obje",
+				"object"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"ass",
+				"assert"
+			],
+			[
+				"requi",
+				"require"
+			],
+			[
+				"code",
+				"codecademy"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"bowe",
+				"bower_components"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pa",
+				"pageWidth"
+			],
+			[
+				"d",
+				"documentPreferences"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"spark",
+				"spark-cli"
+			],
+			[
+				"wir",
+				"writeln"
+			],
+			[
+				"coo",
+				"coordinates"
+			],
+			[
+				"par",
+				"paragraph"
+			],
+			[
+				"Orga",
+				"Organisatorisches"
+			],
+			[
+				"my",
+				"myChart"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"ready",
+				"ready"
+			],
+			[
+				"contr",
+				"controlP5"
+			],
+			[
+				"reac",
+				"reacTIVision"
+			],
+			[
+				"sub",
+				"submitit"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ret",
+				"return_value"
+			],
+			[
+				"re",
+				"return_value"
+			],
+			[
+				"ana",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"dgi",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"el",
+				"elif	keyword"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"get",
+				"getValues"
+			],
+			[
+				"find",
+				"findall	function"
+			],
+			[
+				"ST",
+				"STEP"
+			],
+			[
+				"STEP",
+				"STEPCOUNTER"
+			],
+			[
+				"mapp",
+				"mapped_pulse"
+			],
+			[
+				"time",
+				"timecounter"
+			],
+			[
+				"COUN",
+				"COUNTER"
+			],
+			[
+				"do",
+				"do_every	function"
+			],
+			[
+				"res",
+				"resistance_one"
+			],
+			[
+				"mea",
+				"measure_pin_one"
+			],
+			[
+				"a",
+				"analogRead	Arduino analogRead"
+			],
+			[
+				"se",
+				"setup	Arduino setup"
+			],
+			[
+				"elec",
+				"electrical-engineering"
+			],
+			[
+				"TE",
+				"TESTURL"
+			],
+			[
+				"PUL",
+				"PULS"
+			],
+			[
+				"fri",
+				"fritzing-layout"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ovr",
+				"overlay"
+			],
+			[
+				"P",
+				"Pinokio"
+			],
+			[
+				"geom_a",
+				"geom_area"
+			],
+			[
+				"json_",
+				"json_data"
+			],
+			[
+				"su",
+				"summary"
+			],
+			[
+				"fac",
+				"factor"
+			],
+			[
+				"stat",
+				"stat=\"identity"
+			],
+			[
+				"pars",
+				"parse_date_time"
+			],
+			[
+				"identi",
+				"identify"
+			],
+			[
+				"map",
+				"mapped_pulse"
+			],
+			[
+				"HIGH",
+				"HIGHLOW"
+			],
+			[
+				"HI",
+				"HIGHLOW"
+			],
+			[
+				"C",
+				"COUNTER"
+			],
+			[
+				"dat",
+				"dates"
+			],
+			[
+				"min",
+				"minmax"
+			],
+			[
+				"mint",
+				"minute"
+			],
+			[
+				"color",
+				"colours"
+			],
+			[
+				"colo",
+				"colour"
+			],
+			[
+				"col",
+				"colour"
+			],
+			[
+				"da",
+				"dates"
+			],
+			[
+				"geom",
+				"geom_line"
+			],
+			[
+				"visi",
+				"visits"
+			],
+			[
+				"foramt",
+				"format"
+			],
+			[
+				"v",
+				"visits"
+			],
+			[
+				"y",
+				"ylab=\"Actions"
+			],
+			[
+				"ggplo",
+				"ggplot"
+			],
+			[
+				"ggp",
+				"ggplot"
+			],
+			[
+				"sd",
+				"sdatavis"
+			],
+			[
+				"de",
+				"devtools"
+			],
+			[
+				"in",
+				"install"
+			],
+			[
+				"for",
+				"foreign"
+			],
+			[
+				"mi",
+				"minutes"
+			],
+			[
+				"ab",
+				"abline"
+			],
+			[
+				"ti",
+				"tick"
+			],
+			[
+				"LED",
+				"LEDRIGHT"
+			],
+			[
+				"LE",
+				"LEDLEFT"
+			],
+			[
+				"motor",
+				"motor_stop"
+			],
+			[
+				"doc",
+				"docstring"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"str",
+				"strng"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"labe",
+				"label_max_lat"
+			],
+			[
+				"lae",
+				"label_max_lon"
+			],
+			[
+				"ver",
+				"version"
+			],
+			[
+				"dia",
+				"dialogRows"
+			],
+			[
+				"sta",
+				"staticLabel"
+			],
+			[
+				"new_",
+				"new_text_layer_name"
+			],
+			[
+				"use_",
+				"use_marker"
+			],
+			[
+				"temp_",
+				"temp_txt"
+			],
+			[
+				"dd_",
+				"dd_stringList"
+			],
+			[
+				"strin",
+				"stringList"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"dd",
+				"dd_stringList"
+			],
+			[
+				"geo",
+				"geodata"
+			],
+			[
+				"tem",
+				"temp_lng"
+			],
+			[
+				"ge",
+				"geometricBounds"
+			],
+			[
+				"cen",
+				"centerX"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"wri",
+				"writeln"
+			],
+			[
+				"max",
+				"max_lat"
+			],
+			[
+				"max_",
+				"max_lat"
+			],
+			[
+				"min_",
+				"min_lat"
+			],
+			[
+				"M",
+				"MeasurementUnits"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Processing/Processing 2.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pas",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"mark",
+				"Open in Marked 2"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"foram",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"ext",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"mar",
+				"Open in Marked 2"
+			],
+			[
+				"previe",
+				"Preview Graphviz Snippet"
+			],
+			[
+				"grap",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"pastr",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"graph",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"gra",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"text",
+				"Open in TextEdit"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"marked",
+				"Open in Marked 2"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"mit",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"ticks",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"tick",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"ticj",
+				"Snippet: ftb enclose in jekyll capture"
+			],
+			[
+				"tic",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uu",
+				"Text Pastry: UUID"
+			],
+			[
+				"enclo",
+				"Snippet: enclose in anonymous function"
+			],
+			[
+				"ano",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ae",
+				"Snippet: A simple AE function"
+			],
+			[
+				"ex",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"ma",
+				"Open in Marked 2"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"csv",
+				"Set Syntax: CSV"
+			],
+			[
+				"exte",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"exten",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"linte",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"jab",
+				"Javascript Beautify"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"picker",
+				"Color Picker"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"fora",
+				"Format Code"
+			],
+			[
+				"tag",
+				"Selection: Expand to Tag"
+			],
+			[
+				"expa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"Tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"emmt",
+				"Emmet: Rename Tag"
+			],
+			[
+				"fo",
+				"Format Code"
+			],
+			[
+				"ardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"install P",
+				"Package Control: Install Package"
+			],
+			[
+				"remove P",
+				"Package Control: Remove Package"
+			],
+			[
+				"install Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"marke",
+				"Open in Marked 2"
+			],
+			[
+				"mak",
+				"Open in Marked 2"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"doc",
+				"Snippet: ftb enclose python docstring"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"docs",
+				"Snippet: ftb enclose python docstring"
+			],
+			[
+				"termin",
+				"Open in terminal"
+			],
+			[
+				"finder",
+				"Finder: Open here"
+			],
+			[
+				"merge",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"find",
+				"Find: In Project"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"sublim",
+				"Sublimall: Upload"
+			],
+			[
+				"r",
+				"Set Syntax: R"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"key",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"qu",
+				"ChangeQuotes"
+			],
+			[
+				"sear",
+				"Search through the Internet"
+			],
+			[
+				"sea",
+				"Search through the Internet"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"goo",
+				"Google Spell Check"
+			],
+			[
+				"swa",
+				"Convert Case: Swap Case"
+			],
+			[
+				"keym",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"License",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"min",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"upla",
+				"SFTP: Upload File"
+			],
+			[
+				"ter",
+				"Text Pastry: Command Line"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"dire",
+				"dired"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"MIT",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"past",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"wtf",
+				"Snippet: wtfpl"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"t",
+				"Text Pastry: Command Line"
+			],
+			[
+				"dot",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"pyg",
+				"Snippet: enclose for gollum / pygments syntax highlite bash"
+			],
+			[
+				"pygm",
+				"Snippet: enclose for gollum / pygments syntax highlite bash"
+			],
+			[
+				"goll",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"gollu",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"merg",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"diff",
+				"Modific: Show diff"
+			],
+			[
+				"gollum",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"SublimeREPL: Python"
+			]
+		],
+		"width": 655.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"view.runCommand('increment_selection')",
+			"create_java_accessors",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/icke/Documents/eingabe-ausgabe"
+	],
+	"file_history":
+	[
+		"/Users/icke/Documents/eingabe-ausgabe/Gruntfile.js",
+		"/Users/icke/Documents/eingabe-ausgabe/index.html",
+		"/Users/icke/Documents/eingabe-ausgabe/_includes/io-abstract.md",
+		"/Users/icke/Documents/eingabe-ausgabe/_layouts/default.html",
+		"/Users/icke/Documents/eingabe-ausgabe/crowdsourcing/_index.html",
+		"/Users/icke/Documents/eingabe-ausgabe/crowdsourcing/index.md",
+		"/Users/icke/Documents/eingabe-ausgabe/js/main.js",
+		"/Users/icke/Documents/eingabe-ausgabe/package.json",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/icke/Documents/eingabe-ausgabe/eingabe-ausgabe.sublime-project",
+		"/Users/icke/Documents/eingabe-ausgabe/crowdsourcing/index.html",
+		"/Users/icke/Documents/eingabe-ausgabe/bower.json",
+		"/Users/icke/Dropbox/fhp/interface.fh-potsdam.de - Server/zertifikat/README.md",
+		"/Users/icke/Library/Application Support/MailMate/Attachments/Attachment.txt",
+		"//",
+		"/Users/icke/Desktop/interface.fh-potsdam.de.conf",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/nachbereitung_2014_12_03.md",
+		"/Users/icke/Documents/starter-packs/jquery-readjson-file/main.js",
+		"/Users/icke/Documents/starter-packs/jquery-readjson-file/persons.json",
+		"/Users/icke/Documents/starter-packs/nodejs-csvtojson/main.js",
+		"/Users/icke/Documents/starter-packs/nodejs-csvtojson/README.md",
+		"/Users/icke/Documents/starter-packs/nodejs-csvtojson/index.js",
+		"/Users/icke/Documents/starter-packs/nodejs-csvtojson/csvtojson.js",
+		"/Users/icke/Documents/starter-packs/sheetsee/index.html",
+		"/Library/WebServer/Documents/web-noise/saved/values.txt",
+		"/Users/icke/Desktop/text.csv",
+		"/Users/icke/Desktop/crowdsourcing-projekt.dot",
+		"/Users/icke/Desktop/http header redirect.txt",
+		"/Users/icke/Desktop/VirtualHost _default-setup.txt",
+		"/Users/icke/Desktop/jekylltest/_posts/2014-11-27-welcome-to-jekyll.markdown",
+		"/Users/icke/Desktop/server liste.md",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/142088/message.eml.markdown",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/141908/message.eml.markdown",
+		"/Users/icke/Documents/basiljs/bundle/doc/api/files/includes_core.js.html",
+		"/Users/icke/Documents/basiljs/bundle/includes/core.js",
+		"/Users/icke/Documents/basiljs/bundle/scripts/examples/image/imageMode.jsx",
+		"/Users/icke/Documents/basiljs/bundle/scripts/examples/template.jsx",
+		"/Users/icke/Documents/basiljs/bundle/includes/data.js",
+		"/Users/icke/Dropbox/fhp/Notes/indesin-scripting.md",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/nachbereitung_2014_11_26.md",
+		"/Users/icke/Desktop/untitled.js",
+		"/Users/icke/Desktop/dont-eval.jsx",
+		"/Users/icke/Documents/anscombe-quartet-in-cran/anscombe.R",
+		"/Users/icke/Documents/anscombe-quartet-in-cran/MIT-License.txt",
+		"/Users/icke/Documents/extendscript.wiki/Read-In-JSON-From-File-And-Eval.md",
+		"/Users/icke/Documents/extendscript.wiki/Read-In--JSON-From-File-And-DONT-Eval.md",
+		"/Users/icke/Desktop/roadmap-felix-harle.md",
+		"/Users/icke/Desktop/roadap-felix-harle.md",
+		"/Users/icke/.zshrc",
+		"/Applications/Adobe Illustrator CC 2014/Presets.localized/script.js",
+		"/Users/icke/Desktop/Nachbereitung_2014_11_19.md",
+		"/Users/icke/Documents/P5js/hellop5js/README.md",
+		"/Users/icke/Documents/P5js/open_paths/assets/js/sketch.js",
+		"/Users/icke/Desktop/hellop5js/.git/COMMIT_EDITMSG",
+		"/Users/icke/Desktop/testing-test/test/test.js",
+		"/Users/icke/Desktop/hellop5js/styles.css",
+		"/Users/icke/Desktop/hellop5js/bower_components/jquery/dist/jquery.min.map",
+		"/Users/icke/Desktop/hellop5js/main.js",
+		"/Users/icke/Desktop/hellop5js/index.html",
+		"/Users/icke/Desktop/hellop5js/README.md",
+		"/Users/icke/Desktop/testing_servi/server-exported.js",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/Nachbereitung-2014-11-12.md",
+		"/Users/icke/Library/Application Support/MailMate/Bundles/Get-All-Sender.mmBundle/Commands/get-sender.mmCommand",
+		"/Users/icke/Library/Application Support/MailMate/Bundles/Get-All-Sender.mmBundle/info.plist",
+		"/Users/icke/Library/Application Support/MailMate/Bundles/Get-All-Sender.mmBundle/Support/bin/add_to_list",
+		"/Users/icke/Library/Application Support/MailMate/Bundles/Get-All-Sender.mmBundle/Commands/Add_To_Whitelist.mmCommand",
+		"/Applications/Adobe InDesign CC 2014/Scripts/Scripts Panel/kontaktbogen/kontakbogen.jsx",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/README.md",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-client-side/README.md",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-ajax/README.md",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-client-side/private",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-client-side/main.js",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-client-side/index.html",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/install.sh",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/private",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/.gitignore",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/src/sparkworkshop_publish/sparkworkshop_publish.ino",
+		"/Users/icke/bin/downunder.py",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/.git/COMMIT_EDITMSG",
+		"/Users/icke/bin/downunder.sh",
+		"/Users/icke/Desktop/ERROR.txt",
+		"/Users/icke/Downloads/rd_scripts_20140917/rd_scripts/rd_CompSetter.jsx",
+		"/Users/icke/Desktop/ae-comps-to-graphviz/README.md",
+		"/Users/icke/Desktop/ae-comps-to-graphviz/.git/COMMIT_EDITMSG",
+		"/Users/icke/Desktop/ae-comps-to-graphviz/comp.dot",
+		"/Users/icke/Documents/graphviz-fiddle/branch.dot",
+		"/Users/icke/Desktop/ae-comps-to-graphviz/comps-to-dot.jsx",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/Nachbereitung-2014-11-05.md",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/What is git.md",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/src/sparkworkshop/sparkworkshop.ino",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/src/subscribe/subscribe.ino",
+		"/Users/icke/Documents/Arduino/flipdot-project/README.md",
+		"/Users/icke/.grunt-init/webdev/README.md",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-ajax/index.html",
+		"/Users/icke/.grunt-init/webdev/root/index.html",
+		"/Users/icke/.grunt-init/webdev/root/bower.json",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/spark-client-side/Gruntfile.js",
+		"/Users/icke/.grunt-init/webdev/root/assets/stylus/main.styl",
+		"/Users/icke/.grunt-init/webdev/root/assets/js/main.js",
+		"/Users/icke/.gitignore",
+		"/Users/icke/Documents/2014-2015-WiSe-spark-core-workshop/simple-spark/README.md",
+		"/Users/icke/Desktop/doScriptWithDocsOfBooks.js",
+		"/Users/icke/Desktop/listoffiles/urls.txt",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/92090/message.eml.markdown",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/Nachbereitung-2014-10-29.md",
+		"/Users/icke/Desktop/list to things/list.csv",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/ex6/ex6.pde",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/ex5/ex5.pde",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/ex4/ex4.pde",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/ex3/ex3.pde",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/README.md",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/.git/MERGE_MSG",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/ex1/ex1.pde",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/.gitignore",
+		"/Users/icke/Documents/Processing/Programming-With-Processing/.git/COMMIT_EDITMSG",
+		"/Users/icke/Desktop/students-cards/students-cards.jsx",
+		"/Users/icke/Dropbox/fhp/Kurse/Forschendes Lernen - Service Design for a Connected World/epic-struggle.md",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/Nachruecker.txt",
+		"/Users/icke/Dropbox/fhp/Kurse/epic-struggle.md",
+		"/Users/icke/Dropbox/Apps/Drafts/2014-10-23-07-14-41.txt",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/Hausaufgabe und Organisatorisches.md",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B SS 2014 gestaltungsgrundlagen einfuehrung/2014-SoSe-11EG-B-input-output-abgabe/noten.csv",
+		"/Users/icke/Documents/tombola/shell/tombola.sh",
+		"/Users/icke/Dropbox/fhp/Kurse/11EG-B WiSe 2014 - 2015 gestaltungsgrundlagen/incom/teilnehmer.md",
+		"/Users/icke/Desktop/import-files.jsx",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/90079/message.eml.markdown",
+		"/Users/icke/Desktop/lauren-tan.txt",
+		"/Users/icke/Desktop/clarks-law.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"/Users/icke/Documents/AEMap/src",
+			"/Users/icke/Documents/AEMap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"###",
+			"–",
+			"ECDHE-RSA-AES128-SHA256",
+			"ECDHE-RSA-AES128-SHA256:AES128-GCM-SHA256:RC4:HIGH:!MD5:!aNULL:!EDH",
+			"-",
+			"person",
+			"item",
+			"jsonObj",
+			"->microsite",
+			"Handlungsanweisung",
+			"Handlungsanweisung-1",
+			"--",
+			"01",
+			"~",
+			"home",
+			"USER_FOLDER/Documents/basiljs",
+			"ü",
+			"ä",
+			"pbcopy",
+			"float",
+			"-",
+			"·",
+			"(^\\S.*?)\\n(^h.*?)\\n",
+			"jquery.min.js",
+			") {",
+			"doMethod",
+			"onMethodFailure",
+			"baseURL",
+			"doMethod",
+			"checkSettings",
+			"getVariable1",
+			"GET",
+			"extendscript",
+			" ",
+			"  ",
+			"[IMG] ",
+			"=09",
+			"-",
+			"ex0",
+			"10",
+			"assignment:",
+			"ex",
+			"^",
+			"    Hong Loan Phan\n",
+			"\\d{1,2} {1,2}.{1,3} ",
+			"device",
+			"-",
+			"uppercase",
+			"\n",
+			"static final int VK_.,.*?\\n",
+			"static final int VK_U,",
+			"\">",
+			"\n\n",
+			" <td align=\"right\"><code>(.*?)<.*?\\n</tr>",
+			" <td align=\"right\"><code>(.*?).*?\\n</tr>",
+			"\\n<td align=\"left\"><code><a href=\"java/awt/event/KeyEvent.html#(.*?)<.*?\\n",
+			"(static)&nbsp;(final)&nbsp;(.*?)<(.*?)\\n",
+			"(static).*?;(final).*?;(.*?)(.*?)\\n",
+			"(static).*?(final).*?;(.*?)(.*?)\\n",
+			"(<code>)(public)(.*?)\\;(.*?)(</font></td>)",
+			"<code>public&nbsp;static&nbsp;final&nbsp;char</code></font></td>",
+			"<td align=\"right\"><font size=\"-1\">",
+			"<tr bgcolor=\"white\" class=\"TableRowColor\">",
+			"robot.keyRelease",
+			"robot.keyPress",
+			"robot.keyRelease",
+			"letterpress",
+			"f,",
+			"handwriting",
+			"fshandwriting",
+			"something",
+			",something",
+			" ",
+			"#7f7f7f",
+			"7f",
+			",",
+			"\n",
+			"[](",
+			"osculator",
+			"reactivision",
+			"”",
+			"“",
+			"henrik.nyh.se",
+			"jekyll",
+			"www.example.com",
+			"jekyll",
+			"subdir",
+			"site.com",
+			"fabiantheblind.info",
+			"fabiantheblind",
+			"p",
+			"block",
+			"tasktitle",
+			"elapsedtime",
+			"\"/>\n",
+			"ggf Zoll",
+			"[",
+			"(\\d{1,8})",
+			"Keynotes",
+			">>> ",
+			"physical com",
+			"-",
+			"O",
+			"X",
+			"Werld",
+			"12",
+			"_",
+			"http://www.cyberport.de/apple-mac-mini-2-6-ghz-intel-core-i7-4-gb-ram-1-tb-bto-1005-181_8467.html",
+			"pulse",
+			"Pulse",
+			"pulse",
+			"Pulse",
+			"PULSE",
+			"pulse",
+			"START",
+			"STEPCOUNTER",
+			"TIMECOUNTER",
+			"stepcounter",
+			"timecounter",
+			"step",
+			"Resitance",
+			"two",
+			"one",
+			"TESTURL",
+			"reqeust",
+			"URL",
+			"DONTPULS",
+			"mapped_pulse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"- [$1]($2)\\n",
+			">",
+			"",
+			", $1 ",
+			" $1 ",
+			"$1 ",
+			"$1 $2 $3 \\n",
+			"$1 $2 $3\\n",
+			"$4 ",
+			"$1 ",
+			"},{",
+			"   ",
+			"",
+			"$3, $2,$4",
+			"Geo",
+			" AEMAP.Utilities.createCustomRGBColor",
+			" AEMAP.Utilities.createCustomHSLColor",
+			" AEMAP.Utilities.CustomHSLColorObject",
+			" AEMAP.Utilities.CustomRGBColorObject",
+			"AEMAP.Utilities.CustomRGBColorObject",
+			"AEMAP.Utilities.resetValIfNAN",
+			"AEMAP.Utilities.constrainAndParseTextToInteger",
+			"AEMAP.Utilities.constrainAndParseColorValue",
+			"{$1},",
+			"[$1],",
+			", url: '$1'",
+			"description: '$1'",
+			"##$2\\n$1$2$3$4",
+			"![$1]($1)  ",
+			"[$1]($1) ",
+			"",
+			"$1\\t$2",
+			"if(@selection == $1)",
+			"$1[ ] "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Blink_with_serial":
+	{
+		"height": 112.0
+	},
+	"output.Button":
+	{
+		"height": 146.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.rc-car-controller-01":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 146.0
+	},
+	"project": "eingabe-ausgabe.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
