@@ -1,4 +1,47 @@
-body{
-
-font-family: 'Merriweather', serif;
+body {
+  font-family: 'Merriweather', serif;
+  background-color: none;
+  background: url("../images/1-ps-transparency-light_by-deiby.png") repeat !important;
+}
+.container {
+  font-family: 'Merriweather', serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Merriweather', serif;
+}
+h1#headline {
+  font-weight: 900;
+}
+.hello {
+  font-size: 1.5em;
+}
+#thanks {
+  font-size: 0.8em;
+}
+.jumbotron {
+  background-color: none;
+}
+#chart {
+  padding-bottom: 1em;
+}
+.thumb {
+  min-width: 64px;
+  min-height: 64px;
+}
+#crowd-footer {
+  border-top: 1px solid #e5e5e5;
+  background-color: #fff;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 0.8em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }

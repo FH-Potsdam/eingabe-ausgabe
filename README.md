@@ -8,8 +8,12 @@ Die Übungen bilden einen Querschnitt aus den Themenbereichen:
 - Digitale Kultur. Möglichkeiten des Webs und Einsatz von Web-Technologien  
 - Partizipative Gestaltung. Teilhabe und User Generated Content.  
 
-##License  
+sources and tech:  
 
+- [Photoshop bg](http://deiby.deviantart.com/art/Photoshop-Transparency-Pattern-209127798)  
+- [Font-Awesome](https://fortawesome.github.io/Font-Awesome/)
+- [fontawesome bootstrap cheatset](http://fontawesome.bootstrapcheatsheets.com/)  
+##License  
 
 The MIT License (MIT)
 Copyright © 2014 FH-Potsdam & Fabian Morón Zirfas

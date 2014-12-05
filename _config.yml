@@ -1,4 +1,7 @@
 name: Eingabe Ausgabe
 markdown: redcarpet
-pygments: true
+highlighter: true
 mail: you@example.com
+sass:
+  sass_dir: _sass
+  style: :compressed

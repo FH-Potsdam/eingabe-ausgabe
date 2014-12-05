@@ -2,16 +2,18 @@
 layout: default
 title: Eingabe Ausgabe
 ---
-
-{% for page in site.pages %}
- <p><span>&raquo;&raquo;</span> <a href="{{ page.url }}">{{ page.title }}</a></p>
-{% endfor %}
-<!-- write markdown here -->
-{% capture sidebar %}
+<div class="row well">
+  <div class="col-md-12">
+<h1 class="title"><a href="/">{{ page.title }}</a></h1>
+{% capture readme %}
 {% include io-abstract.md %}
 
 {% endcapture %}
-{{ sidebar | markdownify }}
+{{ readme | markdownify }}
+
+
+  </div>
+</div>
 
 
 <!--

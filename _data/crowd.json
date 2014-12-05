@@ -1,0 +1,117 @@
+{
+  "project-url": "https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing",
+  "projects": [
+    {
+      "url": "http://example.com",
+      "author": "Alvaro garcia",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto odio velit optio, itaque fuga repudiandae, quas dolorem recusandae. Rerum quod non et amet saepe ducimus debitis numquam ipsam maxime vitae!"
+    },
+    {
+      "url": "http://example.com",
+      "author": "Anna Heib",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam similique earum, soluta et doloribus! Sit magnam labore ea, iste modi repudiandae eos libero impedit consectetur. Praesentium dolorum quia, odit aut."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Christian Münch",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo ratione dignissimos possimus voluptate hic quibusdam ut quasi consequatur autem aperiam, magnam veritatis fugiat natus esse temporibus cupiditate dolorum voluptates rem!"
+    },
+    {
+      "url": "http://example.com",
+      "author": "Christin Rothe",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus veniam aspernatur deleniti sequi magnam voluptatibus consequatur molestiae? Temporibus nostrum laboriosam consequatur, atque alias iusto dolor vero suscipit voluptatum commodi distinctio!"
+    },
+    {
+      "url": "http://example.com",
+      "author": "Emil Woop",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi deleniti fuga labore aliquid similique molestiae id ad facere, aperiam rem quos, sapiente suscipit mollitia dolores voluptate itaque nulla optio accusantium."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Fabian Schultz",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quae nam, maxime consequuntur accusamus quas dolores et maiores? Sed velit laborum facilis quasi, ratione mollitia? Adipisci praesentium sunt error iure!"
+    },
+    {
+      "url": "http://example.com",
+      "author": "Felix Harle",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis suscipit ullam unde architecto numquam vero alias atque corporis, soluta quod molestias pariatur velit iusto, nemo mollitia in voluptatum delectus magnam."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Hong Loan Phan",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, vitae ut exercitationem quos odit accusantium. Voluptatibus provident laudantium, enim commodi nesciunt eveniet perferendis alias similique optio nisi, sunt dolore perspiciatis!"
+    },
+    {
+      "url": "http://example.com",
+      "author": "Isabell Herzog",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui repellendus, provident omnis consequatur rerum delectus quo dolorem vitae facere facilis veritatis enim mollitia dolore nam quaerat velit recusandae ipsa dicta."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Jasper Precht",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste labore ipsam accusamus reiciendis consectetur dolores, architecto delectus. Quae assumenda provident, soluta amet maxime consectetur. Architecto suscipit amet aspernatur ex, error."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Jolanta Paliszewska",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque quaerat eos minus! Accusantium alias est, id, unde neque, placeat saepe rem vitae fugit suscipit optio soluta ea illo eius tempora."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Julian Lucas Wohlleber",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis animi provident dignissimos porro similique vitae cupiditate ex in! Porro necessitatibus explicabo assumenda consectetur in autem dolores vitae veniam magni earum."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Kevin Schiffer",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea beatae culpa qui doloremque architecto! Obcaecati cumque blanditiis illo ipsum necessitatibus vel, fuga laudantium, nulla id, rem aliquid non impedit recusandae."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Lilli Tischer",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque eaque natus aliquid quos eum nam quia, tempore libero culpa dolorum, ab aliquam sit vero neque suscipit dolorem, repellat eligendi odit."
+    },
+    {
+      "url": "http://example.com",
+      "author": "Oskar Suslow",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias repudiandae suscipit? Sed dolor quos ratione tenetur quam, repellat voluptatum exercitationem deserunt laboriosam pariatur officiis non nam fuga, obcaecati. Veniam!"
+    },
+    {
+      "url": "http://example.com",
+      "author": "Tino Kanigs",
+      "title": "lorem ipsum",
+      "image":"thumb.png",
+      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae explicabo, repellat. Ut tenetur magni sequi officia, vitae voluptatibus soluta. Dolore quibusdam iure porro molestiae nesciunt officia natus cum. Aperiam, vitae."
+    }
+  ]
+}

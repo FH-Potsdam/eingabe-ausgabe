@@ -22,7 +22,7 @@ module.exports = function(grunt) {
         // Point to the files that should be updated when
         // you run `grunt bower-install`
         src: [
-          '_layouts/default.html' // .html support...
+          '_layouts/default.html','_layouts/crowd.html'
         ],
 
         // Optional:
