@@ -2,7 +2,16 @@
 layout: none
 permalink: .htaccess
 ---
-Options +FollowSymlinks
-RewriteEngine On
-RewriteCond %{http_host} ^https://interface.fh-potsdam.de/eingabe-ausgabe/ [nc]
-RewriteRule ^(.*)$ https://interface.fh-potsdam.de/eingabe-ausgabe/_site/$1 [r=301,nc]
+
+# RewriteEngine On
+# RewriteCond %{http_host} ^https://interface.fh-potsdam.de/eingabe-ausgabe/ [nc]
+# RewriteRule ^(.*)$ https://interface.fh-potsdam.de/eingabe-ausgabe/_site/$1 [r=301,nc]
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?interface.fh-potsdam.de/eingabe-ausgabe$ [NC]
+RewriteCond %{REQUEST_URI} !^/_site/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /_site/$1
+RewriteCond %{HTTP_HOST} ^(www.)?interface.fh-potsdam.de/eingabe-ausgabe$ [NC]
+RewriteRule ^(/)?$ _site/index.html [L]
