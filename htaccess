@@ -4,5 +4,5 @@ permalink: .htaccess
 ---
 Options +FollowSymlinks
 RewriteEngine On
-RewriteCond %{https_host} ^http://interface.fh-potsdam.de/eingabe-ausgabe/ [nc]
-RewriteRule ^(.*)$ http://interface.fh-potsdam.de/eingabe-ausgabe/_site/$1 [r=301,nc]
+RewriteCond %{http_host} ^https://interface.fh-potsdam.de/eingabe-ausgabe/ [nc]
+RewriteRule ^(.*)$ https://interface.fh-potsdam.de/eingabe-ausgabe/_site/$1 [r=301,nc]
