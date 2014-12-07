@@ -1,6 +1,7 @@
 name: Eingabe Ausgabe
 markdown: redcarpet
 highlighter: true
+baseurl: /eingabe-ausgabe
 mail: you@example.com
 sass:
   sass_dir: _sass
