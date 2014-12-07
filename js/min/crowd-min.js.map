@@ -1,1 +1,1 @@
-{"version":3,"file":"crowd-min.js","sources":["../crowd.js"],"names":["$","document","ready","console","log","fitText","shuffle"],"mappings":"AAAAA,EAAEC,UAAUC,MAAM,WAClBC,QAAQC,IAAI,SACZJ,EAAE,aAAaK,UACfL,EAAE,YAAYM"}
+{"version":3,"file":"crowd-min.js","sources":["../crowd.js"],"names":["$","document","ready","console","log","fitText","shuffle"],"mappings":"AAAAA,EAAEC,UAAUC,MAAM,WAClBC,QAAQC,IAAI,SACZJ,EAAE,aAAaK,QAAQ,KACvBL,EAAE,YAAYM"}

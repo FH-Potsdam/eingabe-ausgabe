@@ -3,6 +3,7 @@ markdown: redcarpet
 highlighter: true
 baseurl: /eingabe-ausgabe
 mail: you@example.com
+ignore: [.htaccess]
 sass:
   sass_dir: _sass
   style: :compressed
