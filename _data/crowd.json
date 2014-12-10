@@ -1,117 +1,85 @@
 {
   "project-url": "https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing",
   "projects": [
-    {
-      "url": "http://example.com",
-      "author": "Alvaro garcia",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto odio velit optio, itaque fuga repudiandae, quas dolorem recusandae. Rerum quod non et amet saepe ducimus debitis numquam ipsam maxime vitae!"
-    },
-    {
-      "url": "http://example.com",
-      "author": "Anna Heib",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam similique earum, soluta et doloribus! Sit magnam labore ea, iste modi repudiandae eos libero impedit consectetur. Praesentium dolorum quia, odit aut."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Christian Münch",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo ratione dignissimos possimus voluptate hic quibusdam ut quasi consequatur autem aperiam, magnam veritatis fugiat natus esse temporibus cupiditate dolorum voluptates rem!"
-    },
-    {
-      "url": "http://example.com",
-      "author": "Christin Rothe",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus veniam aspernatur deleniti sequi magnam voluptatibus consequatur molestiae? Temporibus nostrum laboriosam consequatur, atque alias iusto dolor vero suscipit voluptatum commodi distinctio!"
-    },
-    {
-      "url": "http://example.com",
-      "author": "Emil Woop",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi deleniti fuga labore aliquid similique molestiae id ad facere, aperiam rem quos, sapiente suscipit mollitia dolores voluptate itaque nulla optio accusantium."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Fabian Schultz",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quae nam, maxime consequuntur accusamus quas dolores et maiores? Sed velit laborum facilis quasi, ratione mollitia? Adipisci praesentium sunt error iure!"
-    },
-    {
-      "url": "http://example.com",
-      "author": "Felix Harle",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis suscipit ullam unde architecto numquam vero alias atque corporis, soluta quod molestias pariatur velit iusto, nemo mollitia in voluptatum delectus magnam."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Hong Loan Phan",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, vitae ut exercitationem quos odit accusantium. Voluptatibus provident laudantium, enim commodi nesciunt eveniet perferendis alias similique optio nisi, sunt dolore perspiciatis!"
-    },
-    {
-      "url": "http://example.com",
-      "author": "Isabell Herzog",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui repellendus, provident omnis consequatur rerum delectus quo dolorem vitae facere facilis veritatis enim mollitia dolore nam quaerat velit recusandae ipsa dicta."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Jasper Precht",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste labore ipsam accusamus reiciendis consectetur dolores, architecto delectus. Quae assumenda provident, soluta amet maxime consectetur. Architecto suscipit amet aspernatur ex, error."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Jolanta Paliszewska",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque quaerat eos minus! Accusantium alias est, id, unde neque, placeat saepe rem vitae fugit suscipit optio soluta ea illo eius tempora."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Julian Lucas Wohlleber",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis animi provident dignissimos porro similique vitae cupiditate ex in! Porro necessitatibus explicabo assumenda consectetur in autem dolores vitae veniam magni earum."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Kevin Schiffer",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea beatae culpa qui doloremque architecto! Obcaecati cumque blanditiis illo ipsum necessitatibus vel, fuga laudantium, nulla id, rem aliquid non impedit recusandae."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Lilli Tischer",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque eaque natus aliquid quos eum nam quia, tempore libero culpa dolorum, ab aliquam sit vero neque suscipit dolorem, repellat eligendi odit."
-    },
-    {
-      "url": "http://example.com",
-      "author": "Oskar Suslow",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias repudiandae suscipit? Sed dolor quos ratione tenetur quam, repellat voluptatum exercitationem deserunt laboriosam pariatur officiis non nam fuga, obcaecati. Veniam!"
-    },
-    {
-      "url": "http://example.com",
-      "author": "Tino Kanigs",
-      "title": "lorem ipsum",
-      "image":"thumb.png",
-      "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae explicabo, repellat. Ut tenetur magni sequi officia, vitae voluptatibus soluta. Dolore quibusdam iure porro molestiae nesciunt officia natus cum. Aperiam, vitae."
-    }
-  ]
+  {
+    "url": "http://pixelhans.github.io",
+    "author": "Tino Kanigs",
+    "title": "ESCAPE",
+    "image": "ESCAPE.png",
+    "thumb": "ESCAPE-thumb.png",
+    "abstract": "Can you reach the top? Play the flash-game ESCAPE and try to climb as far as possible. You only need one button to play it."
+  },
+  {
+  "url": "https://docs.google.com/forms/d/106hAoTpqAm4hkcIsiiRtSG-Vs3FScr5I6qH6DQ0pO44/viewform?usp=send_form",
+  "author": "Oskar Suslow",
+  "title": "Let's talk about beer",
+  "image":"lets_talk_about_beer.png",
+  "thumb":"lets_talk_about_beer-thumb.png",
+  "abstract": " It started with a simple brewing process and thousands of years later we're still drinking it. The thing we talk about is beer. Some people love it, others don't. What about you?"
+},
+  {
+    "url": "https://docs.google.com/forms/d/1uCsWDVl_q3ic52pFDgDNNnoeq2SNTWygq8Nzc7nv1Q4/viewform?usp=send_form",
+    "author": "Isabell Herzog",
+    "title": "Good Morning, Flat Design!",
+    "image": "Flat_Skeuomorphism Design.png",
+    "thumb": "Flat_Skeuomorphism Design-thumb.png",
+    "abstract": "It came, minimized and won. Criticism, refusal, backbiting - they did not exist. The arrival of the new design movement has been received with enthusiasm. We need to get to the  bottom of this phenomenon. Please help me and set a check mark for a good purpose."
+  },
+  {
+    "url": "http://goo.gl/forms/Fmi0xb2KoJ",
+    "author": "Jolanta Paliszewska",
+    "title": "Vegan oder vegetarisch - der neue Ernährungstrend",
+    "image": "FoodTrends.png",
+    "thumb": "FoodTrends-thumb.png",
+    "abstract": "Ist Vegetarische/ vegan Ernährung schon längst keine Randerscheinung mehr?"
+  },
+  {
+    "url": "http://goo.gl/forms/wQljfrtJCt",
+    "author": "Emil Woop",
+    "title": "TRANSIT",
+    "image": "TRANSIT.png",
+    "thumb": "TRANSIT-thumb.png",
+    "abstract": "Is it normal to spend 2 hours every day to get to your place of work? This Project aims to answer just that and more - with your help!"
+  },
+  {
+    "url": "https://hongpow.typeform.com/to/XOJCZb",
+    "author": "Hong Loan Phan",
+    "title": "Childhood Heroes",
+    "image": "childhoodheroes.png",
+    "thumb": "childhoodheroes-thumb.jpg",
+    "abstract": "Remember when you were a little child? What kind of TV Shows did you watch? Probably most of you have watched at least one cartoon show or have read a comic book! Tell me a little about your childhood memories of  your past hero!"
+  },
+  {
+    "url": "https://docs.google.com/forms/d/1Heg-NjSUGuWUIwppMhFovhhZTdCxK1xuNNJFtHYkUCU/viewform?usp=send_form",
+    "author": "Felix Harle",
+    "title": "Gestalt Images — Optical Illusions",
+    "image": "gestalt.png",
+    "thumb": "gestalt-thumb.png",
+    "abstract": "Gestalt Images are optical illusions that can be interpreted and perceived in two different ways. The following brief survey presents some of these images and aims to identify which 'Gestalt' is commonly seen first by participants."
+  },
+  {
+    "url": "http://goo.gl/forms/yZohKnLOe7",
+    "author": "Fabian Schultz",
+    "title": "10 Questions on Media Consumption",
+    "image": "media-consumption.png",
+    "thumb": "media-consumption-thumb.png",
+    "abstract": "Everybody consumes, uses and sees media in a different way. This survey rises ten related questions and will be a foundation for a student project at the University of Applied Sciences in Potsdam, Germany."
+  },
+  {
+    "url": "https://mondenkind.typeform.com/to/lKiqEE",
+    "author": "Lilli Tischer",
+    "title": "One Step",
+    "image": "onestep.png",
+    "thumb": "onestep-thumb.png",
+    "abstract": "Hi there! I would like to invite you to think about your moving options! Just take a few minutes and reflect on your next step!"
+  },
+  {
+    "url": "https://docs.google.com/document/d/1fqJDChRzAymWw-NYNNFBbgVx2RH858AcqMq7lUf0etU/edit?usp=sharing",
+    "author": "Christian Muench",
+    "title": "urbanNexus",
+    "image": "urbanNexus.png",
+    "thumb": "urbanNexus-thumb.png",
+    "abstract": "urbanNexus experiments with visualizing an individual with geodata. Each person has locations that are important to them. All of these locations tell us something about the person they portray and create room for interpretation."
+  }
+]
 }
