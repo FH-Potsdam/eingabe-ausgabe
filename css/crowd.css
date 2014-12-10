@@ -45,7 +45,7 @@ h1#headline {
   padding-top: 1em;
   padding-bottom: 1em;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
   #crowd-footer {
     font-size: 1.1em;
   }
