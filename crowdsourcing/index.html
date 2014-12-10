@@ -9,7 +9,7 @@ title: Crowdsourcing Data
   <div class="well">
 
 <h1 id="headline">{{ page.title }}</h1>
-<img src="../images/chart.png" alt=" " class="img-responsive" id="chart">
+<img src="{{ site.baseurl }}/images/chart.png" alt=" " class="img-responsive" id="chart">
 <p class="hello">We need your help to gather some data. Please go to some (or all) of these projects and follow the instructions. Each should just take around 3 to 5 minutes. It will be fun. We promise <i class="fa fa-smile-o"></i>.
 </p>
 
@@ -27,8 +27,8 @@ title: Crowdsourcing Data
 
 <div class="media project well">
   <a href="{{ project.url }}" class="media-left">
-    <img alt=" " src="../images/{{ project.image }}" class="image hidden-xs">
-    <img alt=" " src="../images/{{ project.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
+    <img alt=" " src="{{ site.baseurl }}/images/{{ project.image }}" class="image hidden-xs">
+    <img alt=" " src="{{ site.baseurl }}/images/{{ project.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
 
   </a>
   <div class="media-body">
