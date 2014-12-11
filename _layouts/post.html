@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
+
+<div class="row well">
+  <div class="col-md-8 col-md-offset-2">
+<h2 class="title">{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
 {{ content }}
+</div>
+</div>
 </div>

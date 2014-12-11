@@ -7,3 +7,4 @@ ignore: [.htaccess]
 sass:
   sass_dir: _sass
   style: :compressed
+permalink: /blog/:categories/:year/:month/:day/:title.html
