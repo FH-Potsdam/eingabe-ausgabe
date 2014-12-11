@@ -1,6 +1,6 @@
 ##Fundamentals of process-oriented design.
 Design is increasingly dynamic and participatory. Digital, generative and interactive processes can be found in the design of digital media, communication processes and products (in production & use). In the center of the design the focus is planning, anticipating and implementing emergent systems based on natural technological and social processes.
-This course the basic skills and possibilities of process-oriented design are  analyzed and developed in a number of creative exercises. It is a broad overview of facets, methods and tools, as well as insights into the elementary handicraft and technical procedures and concepts of process-oriented design. An artistic and creative engagement with the corresponding technologies takes place.
+In this course the basic skills and possibilities of process-oriented design are analyzed and developed in a number of creative exercises. It is a broad overview of facets, methods and tools, as well as insights into the elementary handicraft and technical procedures and concepts of process-oriented design. An artistic and creative engagement with the corresponding technologies takes place.
 The exercises represent a cross-section of the following topics:
 
 Generative Design. Analog and digital (using the Processing platform)
