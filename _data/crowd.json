@@ -2,6 +2,14 @@
   "project-url": "https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing",
   "projects": [
   {
+  "url": "http://projects.kevinschiffer.de/flag-survey/",
+  "author": "Kevin Schiffer",
+  "title": "The Aesthetics of National Flags",
+  "image":"the_aesthetics_of_national_flags.png",
+  "thumb":"the_aesthetics_of_national_flags-thumb.png",
+  "abstract": "Flags are symbolic visual systems that are often designed based on a nations history and origins and not necessarily on aesthetics. Visual as they are, they often - intended or unintended - create specific sentiments to the viewer. Being the most important visual representation of a state, I want to examine what flags are perceived especially beneficial or unfavorable for its state when viewed by others."
+},
+  {
     "url": "http://pixelhans.github.io",
     "author": "Tino Kanigs",
     "title": "ESCAPE",
