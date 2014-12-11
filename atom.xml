@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Eingabe Ausgabe</title>
+  <link href="https://interface.fh-potsdam.de/eingabe-ausgabe"/>
+  <link type="application/atom+xml" rel="self" href="https://interface.fh-potsdam.de/eingabe-ausgabe/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>https://interface.fh-potsdam.de/eingabe-ausgabe</id>
+  <author>
+    <name>Eingabe Ausgabe</name>
+    <email>moron-zirfas@fh-potsdam.de</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>https://interface.fh-potsdam.de/eingabe-ausgabe/blog{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="https://interface.fh-potsdam.de/eingabe-ausgabe/blog{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Eingabe Ausgabe</name>
+      <uri>https://interface.fh-potsdam.de/eingabe-ausgabe</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+
+</feed>

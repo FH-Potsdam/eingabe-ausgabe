@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eingabe Ausgabe</title>
+    <link>https://interface.fh-potsdam.de/eingabe-ausgabe</link>
+    <atom:link href="https://interface.fh-potsdam.de/eingabe-ausgabe/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Fundamentals of process-oriented design. <br/>
+Design is increasingly dynamic and participatory. Digital, generative and interactive processes can be found in the design of digital media, communication processes and products (in production &amp; use). In the center of the design the focus is planning, anticipating and implementing emergent systems based on natural technological and social processes. This course the basic skills and possibilities of process-oriented design are analyzed and developed in a number of creative exercises. It is a broad overview of facets, methods and tools, as well as insights into the elementary handicraft and technical procedures and concepts of process-oriented design. An artistic and creative engagement with the corresponding technologies takes place. The exercises represent a cross-section of the following topics: <br/>
+
+Generative Design. Analog and digital (using the Processing platform) Physical Computing. (Using the Arduino platform) Digital culture. Possibilities of the Web and use of web technologies Participatory design. Participation and user-generated content. <br/>
+
+A Seminar by Cedirc Kiefer, Jonas Loh and Fabian Morón Zirfas in the wintersemster 2014/2015 at the Interface Design Department of the University of Applied Sciences Potsdam (Germany) based on works by Monika Hoinkis.</description>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>https://interface.fh-potsdam.de/eingabe-ausgabe{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>moron-zirfas@fh-potsdam.de (Fabian Morón Zirfas)</author>
+      <guid>https://interface.fh-potsdam.de/eingabe-ausgabe{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>
