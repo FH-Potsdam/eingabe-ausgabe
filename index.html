@@ -1,27 +1,15 @@
 ---
 layout: default
-title: Eingabe Ausgabe
+title: Eingabe Ausgabe (input output)
 ---
 <div class="row well">
-  <div class="col-md-12">
-<h1 class="title"><a href="/">{{ page.title }}</a></h1>
+  <div class="col-md-10 col-md-offset-1">
+<h1 class="title"><a href="{{site.baseurl}}/">{{ page.title }}</a></h1>
+<img src="{{ site.baseurl }}/images/ldr.png" alt="ldr" id="ldr">
 {% capture readme %}
 {% include io-abstract.md %}
-
 {% endcapture %}
 {{ readme | markdownify }}
 
-
   </div>
 </div>
-
-
-<!--
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div> -->

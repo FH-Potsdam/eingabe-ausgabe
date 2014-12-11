@@ -2808,6 +2808,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/bower_components\/fittext\/example.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/fittext\/example.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/fittext\/fittext.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/fittext\/fittext.js",
+		"outputAbbreviatedPath": "\/bower_components\/fittext\/min\/fittext-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/fittext\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/fittext\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/fittext\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bower_components\/fontawesome\/css\/font-awesome.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -4352,24 +4384,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/crowdsourcing\/_index.html": {
+	"\/crowdsourcing\/about.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/crowdsourcing\/_index.html",
+		"inputAbbreviatedPath": "\/crowdsourcing\/about.html",
 		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/crowdsourcing\/_index.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/crowdsourcing\/_index.md",
-		"outputAbbreviatedPath": "\/crowdsourcing\/_index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -4396,6 +4416,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/crowd.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4451,6 +4480,226 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/childhoodheroes-thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18324,
+		"inputAbbreviatedPath": "\/images\/childhoodheroes-thumb.jpg",
+		"outputAbbreviatedPath": "\/images\/childhoodheroes-thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/childhoodheroes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12076,
+		"inputAbbreviatedPath": "\/images\/childhoodheroes.png",
+		"outputAbbreviatedPath": "\/images\/childhoodheroes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ESCAPE-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19527,
+		"inputAbbreviatedPath": "\/images\/ESCAPE-thumb.png",
+		"outputAbbreviatedPath": "\/images\/ESCAPE-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ESCAPE.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30923,
+		"inputAbbreviatedPath": "\/images\/ESCAPE.png",
+		"outputAbbreviatedPath": "\/images\/ESCAPE.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Flat_Skeuomorphism Design-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1976,
+		"inputAbbreviatedPath": "\/images\/Flat_Skeuomorphism Design-thumb.png",
+		"outputAbbreviatedPath": "\/images\/Flat_Skeuomorphism Design-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Flat_Skeuomorphism Design.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14061,
+		"inputAbbreviatedPath": "\/images\/Flat_Skeuomorphism Design.png",
+		"outputAbbreviatedPath": "\/images\/Flat_Skeuomorphism Design.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/FoodTrends-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5542,
+		"inputAbbreviatedPath": "\/images\/FoodTrends-thumb.png",
+		"outputAbbreviatedPath": "\/images\/FoodTrends-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/FoodTrends.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33393,
+		"inputAbbreviatedPath": "\/images\/FoodTrends.png",
+		"outputAbbreviatedPath": "\/images\/FoodTrends.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gestalt-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10049,
+		"inputAbbreviatedPath": "\/images\/gestalt-thumb.png",
+		"outputAbbreviatedPath": "\/images\/gestalt-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gestalt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 531882,
+		"inputAbbreviatedPath": "\/images\/gestalt.png",
+		"outputAbbreviatedPath": "\/images\/gestalt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ldr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/ldr.png",
+		"outputAbbreviatedPath": "\/images\/ldr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/lets_talk_about_beer-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8339,
+		"inputAbbreviatedPath": "\/images\/lets_talk_about_beer-thumb.png",
+		"outputAbbreviatedPath": "\/images\/lets_talk_about_beer-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/lets_talk_about_beer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 311493,
+		"inputAbbreviatedPath": "\/images\/lets_talk_about_beer.png",
+		"outputAbbreviatedPath": "\/images\/lets_talk_about_beer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/media-consumption-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6156,
+		"inputAbbreviatedPath": "\/images\/media-consumption-thumb.png",
+		"outputAbbreviatedPath": "\/images\/media-consumption-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/media-consumption.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247433,
+		"inputAbbreviatedPath": "\/images\/media-consumption.png",
+		"outputAbbreviatedPath": "\/images\/media-consumption.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/onestep-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19716,
+		"inputAbbreviatedPath": "\/images\/onestep-thumb.png",
+		"outputAbbreviatedPath": "\/images\/onestep-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/onestep.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48839,
+		"inputAbbreviatedPath": "\/images\/onestep.png",
+		"outputAbbreviatedPath": "\/images\/onestep.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/splash-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495987,
+		"inputAbbreviatedPath": "\/images\/splash-image.png",
+		"outputAbbreviatedPath": "\/images\/splash-image.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/the_aesthetics_of_national_flags-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29430,
+		"inputAbbreviatedPath": "\/images\/the_aesthetics_of_national_flags-thumb.png",
+		"outputAbbreviatedPath": "\/images\/the_aesthetics_of_national_flags-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/the_aesthetics_of_national_flags.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 496417,
+		"inputAbbreviatedPath": "\/images\/the_aesthetics_of_national_flags.png",
+		"outputAbbreviatedPath": "\/images\/the_aesthetics_of_national_flags.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4458,6 +4707,50 @@
 		"initialSize": 5950,
 		"inputAbbreviatedPath": "\/images\/thumb.png",
 		"outputAbbreviatedPath": "\/images\/thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/TRANSIT-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2134,
+		"inputAbbreviatedPath": "\/images\/TRANSIT-thumb.png",
+		"outputAbbreviatedPath": "\/images\/TRANSIT-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/TRANSIT.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14995,
+		"inputAbbreviatedPath": "\/images\/TRANSIT.png",
+		"outputAbbreviatedPath": "\/images\/TRANSIT.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/urbanNexus-thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3859,
+		"inputAbbreviatedPath": "\/images\/urbanNexus-thumb.png",
+		"outputAbbreviatedPath": "\/images\/urbanNexus-thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/urbanNexus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15151,
+		"inputAbbreviatedPath": "\/images\/urbanNexus.png",
+		"outputAbbreviatedPath": "\/images\/urbanNexus.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4482,12 +4775,34 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/jquery.fittext.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.fittext.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fittext-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/min\/crowd-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/crowd-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/crowd-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/jquery.fittext-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/jquery.fittext-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.fittext-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4558,6 +4873,17 @@
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/tools\/getnames.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/tools\/getnames.js",
+		"outputAbbreviatedPath": "\/tools\/min\/getnames-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
 		}
 	},
 "hooks": [

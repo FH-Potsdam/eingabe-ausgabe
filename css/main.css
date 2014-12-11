@@ -23,14 +23,18 @@ h1#headline {
 #thanks {
   font-size: 0.8em;
 }
-.projects {
-  background-color: #fff;
-}
 .jumbotron {
   background-color: none;
 }
 #chart {
   padding-bottom: 1em;
+}
+#ldr {
+  width: 100%;
+}
+.image {
+  max-width: 350px;
+  max-height: 350px;
 }
 .thumb {
   min-width: 64px;
@@ -44,7 +48,12 @@ h1#headline {
   padding: 0;
   overflow: hidden;
   text-align: center;
-  font-size: 0.8em;
+  font-size: 0.9em;
   padding-top: 1em;
   padding-bottom: 1em;
+}
+@media screen and (max-width: 400px) {
+  #crowd-footer {
+    font-size: 1.1em;
+  }
 }
