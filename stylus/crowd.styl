@@ -1,5 +1,6 @@
 font_m =  'Merriweather', serif
 // http://getbootstrap.com/examples/sticky-footer/
+// sticky footer start
 html
   position: relative
   min-height: 100%
@@ -12,7 +13,7 @@ body
   bottom: 0
   width: 100%
    height: 100px
-
+// sticky footer end
 
 body
   font-family: font_m
@@ -78,6 +79,12 @@ h1#headline
  // Smartphones (portrait and landscape) -----------
 @media  screen and (min-device-width : 320px) and (max-device-width : 480px)
  // Smartphones (landscape) -----------
+  // sticky footer on mobile
+  body
+    margin-bottom: 210px
+  .footer
+    height: 190px
+
 @media  screen and (min-width : 321px)
 
  // Smartphones (portrait) -----------
