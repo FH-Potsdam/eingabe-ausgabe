@@ -2,6 +2,14 @@
   "project-url": "https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing",
   "projects": [
     {
+      "url": "https://docs.google.com/forms/d/1PAwjxJQz2l65CJPxiWn2zA7Dtr0jKwkhc1Q2Oo37FoQ/viewform",
+      "author": "Alvaro Garcia",
+      "title": "What's Your Guess?",
+      "image": "whatsyourguess.png",
+      "thumb": "whatsyourguess-thumb.png",
+      "What's your guess?": "Many decisions in Life are based on quick guesses. With this survey, we can analyse your guessing capabilities and compare them with the other results."
+    },
+    {
       "url": "http://jasperp.peacock.uberspace.de/",
       "author": "Jasper Precht",
       "title": "Digit of your Widget",
