@@ -14,7 +14,7 @@ How to engage the participant?
 How can we collect data online?  
 What is the right visualisation type for my data?  
 What kind of tool should be used?  
-The aim is to explor the basics of web technologies, user experience and online communication with data visualisation in mind.  
+The aim is to explore the basics of web technologies, user experience and online communication with data visualisation in mind.  
 
 Jump right into our surveys https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing/  
 
@@ -22,7 +22,7 @@ Follow us on Twitter https://twitter.com/EingabeAusgabe or Facebook https://www.
 
 Your help would be highly appreciated.  
 Yours  
-Alvaro, Anna, Christian, Christin, Emil, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.
+Alvaro, Anna, Christian, Christin, Emil, Fabian, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.
 
 
 ------
@@ -41,14 +41,14 @@ In this project we try to create datasets for visualisation on our own. The prob
 - What is the right visualisation type for my data?  
 - What kind of tool should be used?  
 
-The aim is to explor the basics of web technologies, user experience and online communication with data visualisation in mind.  
+The aim is to explore the basics of web technologies, user experience and online communication with data visualisation in mind.  
 
 Jump right [into our surveys](https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing/)  
 Follow us on [Twitter](https://twitter.com/EingabeAusgabe) or [Facebook](https://www.facebook.com/pages/EingabeAusgabe/384989714999374)  
 
 Your help would be highly appreciated.  
 Yours  
-Alvaro, Anna, Christian, Christin, Emil, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.
+Alvaro, Anna, Christian, Christin, Emil, Fabian, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.
 
 ------
 
@@ -69,7 +69,7 @@ In this project we try to create datasets for visualisation on our own. The prob
 - What is the right visualisation type for my data?  
 - What kind of tool should be used?  
 
-The aim is to explor the basics of web technologies, user experience and online communication with data visualisation in mind.  
+The aim is to explore the basics of web technologies, user experience and online communication with data visualisation in mind.  
 
 Jump right [into our surveys](https://interface.fh-potsdam.de/eingabe-ausgabe/crowdsourcing/)  
 Follow us on [Twitter](https://twitter.com/EingabeAusgabe) or [Facebook](https://www.facebook.com/pages/EingabeAusgabe/384989714999374)  
