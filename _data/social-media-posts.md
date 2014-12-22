@@ -48,7 +48,7 @@ Follow us on [Twitter](https://twitter.com/EingabeAusgabe) or [Facebook](https:/
 
 Your help would be highly appreciated.  
 Yours  
-Alvaro, Anna, Christian, Christin, Emil, Fabian, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.
+Alvaro, Anna, Christian, Christin, Emil, Fabian, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.  
 
 ------
 
