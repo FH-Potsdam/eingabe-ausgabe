@@ -18,11 +18,39 @@ title: winter semester 14/15
             Take a closer look at the projects from: <br>
             </p>
             <p>{% for student in site.data.wise-1415.students %}
-            {% if forloop.last == false %} <a href="{{ student.url }}">{{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and <a href="{{ student.url }}">{{ student.author }}</a>.{% endif %}
+            {% if forloop.last == false %} <a href="#{{ student.github }}">{{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and <a href="#{{ student.github }}">{{ student.author }}</a>.{% endif %}
             {% endfor %}</p>
             <p>  It will be fun. We promise <i class="fa fa-smile-o"></i>.
             </p>
         </div>
+    </div>
+</div>
+<!-- people -->
+<div class="row" id="people">
+    <div class="col-md-8 col-md-offset-2" id="projects">
+        {% for student in site.data.wise-1415.students %}
+        <div class="media people well" id="{{ student.github }}">
+            <a href="{{ student.url }}" class="media-left">
+            <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
+              <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="thumb hidden-sm hidden-md hidden-lg avatars-small">
+            </a>
+            <div class="media-body">
+                <h4 class="media-heading">Hi my name is {{ student.author }}</h4>
+                <h5>or <a href="https://github.com/{{ student.github }}">{{ student.github }}</a> on GitHub</h5>
+                <p>I was part of the Input/Output team. See my results of the projects <a href="#{{ student.algorithm.title }}">algorithm</a>, <a href="#{{ student.crowd.title }}">crowdsourcing data</a> and <a href="#{{ student.bits.title }}">physical bits</a> below.
+
+
+                </p>
+
+                You can find all my source code for the projects under these links: <br>
+                <ul>
+                    {% for repo in student.repos %}
+                    <li><a href="https://github.com/{{ student.github }}/{{repo}}">{{ repo }}</li></a>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
     </div>
 </div>
 <!-- ALGO -->
@@ -51,7 +79,7 @@ title: winter semester 14/15
             </a>
             <div class="media-body">
                 <a href="{{ student.algorithm.url }}"><h4 class="media-heading">{{ student.algorithm.title }}</h4></a>
-                <h5>by {{ student.author }}</h5>
+                <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p>{{ student.algorithm.abstract }}
                 </p>
             </div>
@@ -81,7 +109,7 @@ title: winter semester 14/15
             </a>
             <div class="media-body">
                 <a href="{{ student.crowd.result_url }}"><h4 class="media-heading">{{ student.crowd.title }}</h4></a>
-                <h5>by {{ student.author }}</h5>
+                <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p>{{ student.crowd.abstract }}
                 </p>
                 <p>You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
@@ -114,32 +142,9 @@ title: winter semester 14/15
             </a>
             <div class="media-body">
                 <a href="{{ student.bits.video_url }}"><h4 class="media-heading">{{ student.bits.title }}</h4></a>
-                <h5>by {{ student.author }}</h5>
+                <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p>{{ student.bits.abstract }}
                 </p>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-</div>
-<!-- people -->
-<div class="row" id="people">
-    <div class="col-md-8 col-md-offset-2" id="projects">
-        {% for student in site.data.wise-1415.students %}
-        <div class="media people well">
-            <a href="{{ student.url }}" class="media-left">
-            <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
-              <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="thumb hidden-sm hidden-md hidden-lg avatars-small">
-            </a>
-            <div class="media-body">
-                <a href="https://github.com/{{ student.github }}"><h4 class="media-heading">{{ student.github }}</h4></a>
-                <h5>Hi my name is {{ student.author }} and I was part of the Input/Output team.</h5>
-                You can find all my source code for the projects under these links: <br>
-                <ul>
-                    {% for repo in student.repos %}
-                    <li><a href="https://github.com/{{ student.github }}/{{repo}}">{{ repo }}</li></a>
-                    {% endfor %}
-                </ul>
             </div>
         </div>
         {% endfor %}
