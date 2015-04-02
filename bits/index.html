@@ -1,0 +1,46 @@
+---
+layout: default
+title: Bits || Binary states in the physical world
+---
+
+<!-- <div class="jumbotron"> -->
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+  <div class="well">
+
+<h1 id="headline">{{ page.title }}</h1>
+<img src="{{ site.baseurl }}/images/ldr.png" alt=" " class="img-responsive" id="chart">
+<p class="hello">One pixel to show something. A challenge.
+</p>
+
+<p id="thanks" class="hello"> Projects by<br>
+    {% for project in site.data.bits.projects %}
+  {% if forloop.last == false %}{{ project.author }}{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and {{ project.author }}.{% endif %}
+  {% endfor %}</p>
+
+  </div>
+  </div>
+</div>
+<!-- </div> -->
+ <div class="row">
+<div class="col-md-8 col-md-offset-2" id="projects">
+
+{% for project in site.data.bits.projects %}
+
+<div class="media project well">
+  <a href="{{ project.url }}" class="media-left">
+    <img alt=" " src="{{ site.baseurl }}/images/{{ project.image }}" class="image hidden-xs">
+    <img alt=" " src="{{ site.baseurl }}/images/{{ project.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
+
+  </a>
+  <div class="media-body">
+    <a href="{{ project.url }}"><h4 class="media-heading">{{ project.title }}</h4></a>
+    <h5>by {{ project.author }}</h5>
+      <p>{{ project.abstract }}
+      </p>
+
+  </div>
+</div>
+{% endfor %}
+</div>
+</div>

@@ -15,7 +15,9 @@ title: Crowdsourcing Data
 
 <p id="thanks" class="hello">Your help would be highly appreciated. <br>
  Yours<br>
-  Alvaro, Anna, Christian, Christin, Emil, Fabian, Fabian, Felix, Hong, Isabell, Jasper, Jolanta, Julian, Kevin, Lilli, Oskar and Tino.</p>
+    {% for project in site.data.crowd.projects %}
+  {% if forloop.last == false %}{{ project.author }}{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and {{ project.author }}.{% endif %}
+  {% endfor %}</p>
 
   </div>
   </div>

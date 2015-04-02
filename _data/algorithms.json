@@ -1,0 +1,29 @@
+{
+  "project-url": "https://interface.fh-potsdam.de/eingabe-ausgabe/algorithms",
+  "projects": [
+  {
+  "url": "http://example.com",
+  "author": "Nobody",
+  "title": "is the greatest",
+  "image":"ldr.png",
+  "thumb":"thumb.png",
+  "abstract": "These aren't the droids you are looking for."
+},
+  {
+  "url": "http://example.com",
+  "author": "Somebody",
+  "title": "is the greatest",
+  "image":"ldr.png",
+  "thumb":"thumb.png",
+  "abstract": "These aren't the droids you are looking for."
+},
+  {
+  "url": "http://example.com",
+  "author": "Anybody",
+  "title": "is the greatest",
+  "image":"ldr.png",
+  "thumb":"thumb.png",
+  "abstract": "These aren't the droids you are looking for."
+}
+  ]
+}

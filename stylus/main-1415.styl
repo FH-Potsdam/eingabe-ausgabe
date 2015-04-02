@@ -1,0 +1,131 @@
+font_m =  'Merriweather', serif
+// http://getbootstrap.com/examples/sticky-footer/
+// sticky footer start
+html
+  position: relative
+  min-height: 100%
+
+body
+  margin-bottom: 120px
+
+.footer
+  position: absolute
+  bottom: 0
+  width: 100%
+   height: 100px
+// sticky footer end
+
+body
+  font-family: font_m
+  background-color:none
+  background:url("../images/1-ps-transparency-light_by-deiby.png") repeat !important
+
+.container
+  font-family: font_m
+
+h1, h2, h3, h4, h5, h6
+  font-family: font_m
+
+h1#headline
+  font-weight:900
+
+.hello
+  font-size:1.5em
+
+#thanks
+  font-size: 0.8em
+
+#projects
+
+.project
+  // -webkit-border-radius: 5px !important
+  // -moz-border-radius: 5px !important
+  // border-radius: 5px !important
+
+.jumbotron
+  background-color:none
+
+#chart
+  padding-bottom:1em
+
+#ldr
+  width:100%
+
+
+.image
+  max-width:350px
+  max-height:350px
+
+img.img-teaser
+  width:100%
+  max-width:64px !important
+  max-height:64px !important
+  margin:0.2em
+
+img.avatars-large
+  width:100%
+  width:200px
+  height:200px
+
+img.avatars-small
+  max-width:64px
+  max-height:64px
+
+
+.thumb
+  min-width:64px
+  min-height:64px
+  // width:50%
+  // height:auto
+  // height:100%
+
+#crowd-footer
+  border-top:1px solid #e5e5e5
+  background-color:white
+  width:100%
+  margin: 0
+  padding: 0
+  overflow: hidden
+  text-align: center
+  font-size: 0.9em
+  padding-top: 1em
+  padding-bottom:1em
+
+
+ // Smartphones (portrait and landscape) -----------
+@media  screen and (min-device-width : 320px) and (max-device-width : 480px)
+ // Smartphones (landscape) -----------
+  // sticky footer on mobile
+  body
+    margin-bottom: 210px
+  .footer
+    height: 190px
+
+@media  screen and (min-width : 321px)
+ // Smartphones (portrait) -----------
+@media  screen and (max-width : 400px)
+  body
+    margin-bottom: 210px
+  .footer
+    height: 190px
+  #crowd-footer
+    font-size:1.1em
+ // /* iPads (portrait and landscape) -----------
+// @media  screen and (min-device-width : 768px) and (max-device-width : 1024px)
+
+ // /* iPads (landscape) -----------
+// @media  screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape)
+
+ // /* iPads (portrait) -----------
+// @media  screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait)
+
+ // /* Desktops and laptops -----------
+// @media  screen and (min-width : 1224px)
+
+ // /* Large screens -----------
+// @media  screen and (min-width : 1824px)
+
+ // iPhone 4 -----------
+// @media screen and (-webkit-min-device-pixel-ratio : 1.5)
+
+// @media screen and (min-device-pixel-ratio : 1.5)
