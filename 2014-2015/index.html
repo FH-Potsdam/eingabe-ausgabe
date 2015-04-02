@@ -1,0 +1,147 @@
+---
+layout: default
+
+title: winter semester 14/15
+---
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <div class="well">
+            <h1 id="headline">{{ page.title }}</h1>
+            <img src="{{ site.baseurl }}/images/ldr.png" alt=" " class="img-responsive" id="chart">
+            <p class="hello">These are the results from the winter semester 2014/2015. The seminar was splitted into 3 projects.
+            <ol>
+                <li><a href="#algo">algorithmic pattern generator</a></li>
+                <li><a href="#crowd">crowdsourcing data</a></li>
+                <li><a href="#bits">physical bits</a></li>
+            </ol>
+            You can find all the results, videos, links, source code and images below.  <br>
+            Take a closer look at the projects from: <br>
+            </p>
+            <p>{% for student in site.data.wise-1415.students %}
+            {% if forloop.last == false %} <a href="{{ student.url }}">{{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and <a href="{{ student.url }}">{{ student.author }}</a>.{% endif %}
+            {% endfor %}</p>
+            <p>  It will be fun. We promise <i class="fa fa-smile-o"></i>.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- ALGO -->
+<div class="row" id="algo">
+    <div class="col-md-8 col-md-offset-2 intro">
+        <div class="media well">
+            <h2>Algorithm</h2>
+           <p> The task was to create an algorithm for humans and execute it several times. Iterate through the results and refine the pseudo-code. Afterwards the algorithm was ported to the Processing programming language and improved. Finally the students needed to find a use case for their algorithms.</p>
+    {% for student in site.data.wise-1415.students %}
+      {% for thumb in student.algorithm.thumb %}
+      <a href="#{{ student.algorithm.title }}"><img src="{{ site.baseurl }}/images/{{ thumb }}" alt="..." class="img-circle img-teaser"></a>
+      {% endfor %}
+    {% endfor %}
+        </div>
+    </div>
+    <div class="col-md-8 col-md-offset-2 intro">
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" id="projects">
+        {% for student in site.data.wise-1415.students %}
+        <div class="media project-algo well" id="{{ student.algorithm.title }}">
+            <a href="{{ student.algorithm.url }}" class="media-left">
+            <img alt=" " src="{{ site.baseurl }}/images/{{ student.algorithm.images[0] }}" class="image hidden-xs">
+            <img alt=" " src="{{ site.baseurl }}/images/{{ student.algorithm.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg ">
+            </a>
+            <div class="media-body">
+                <a href="{{ student.algorithm.url }}"><h4 class="media-heading">{{ student.algorithm.title }}</h4></a>
+                <h5>by {{ student.author }}</h5>
+                <p>{{ student.algorithm.abstract }}
+                </p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<!-- CROWD -->
+<div class="row" id="crowd">
+    <div class="col-md-8 col-md-offset-2 intro">
+        <div class="media well">
+            <h2>Crowdsourcing Data</h2>
+            <p>For this project the students had to create a online survey to gather some data. This data should then be represented in an interactive graphic.</p>
+              {% for student in site.data.wise-1415.students %}
+      <a href="#{{ student.crowd.title }}"><img src="{{ site.baseurl }}/images/{{ student.crowd.thumb }}" alt="..." class="img-circle img-teaser"></a>
+    {% endfor %}
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" id="projects">
+        {% for student in site.data.wise-1415.students %}
+        <div class="media project-crowd well" id="{{ student.crowd.title }}">
+            <a href="{{ student.crowd.result_url }}" class="media-left">
+            <img alt=" " src="{{ site.baseurl }}/images/{{ student.crowd.image }}" class="image hidden-xs">
+            <img alt=" " src="{{ site.baseurl }}/images/{{ student.crowd.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
+            </a>
+            <div class="media-body">
+                <a href="{{ student.crowd.result_url }}"><h4 class="media-heading">{{ student.crowd.title }}</h4></a>
+                <h5>by {{ student.author }}</h5>
+                <p>{{ student.crowd.abstract }}
+                </p>
+                <p>You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<!-- bits -->
+<div class="row" id="bits">
+    <div class="col-md-8 col-md-offset-2 intro">
+        <div class="media well">
+            <h2>Physical Bits</h2>
+           <p> Finding binary states in the physical world was the first part of this project. The second part was to display this state change with only one flipdot.</p>
+               {% for student in site.data.wise-1415.students %}
+      {% for thumb in student.bits.thumb %}
+      <a href="#{{ student.bits.title }}"><img src="{{ site.baseurl }}/images/{{ thumb }}" alt="..." class="img-circle img-teaser"></a>
+      {% endfor %}
+    {% endfor %}
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" id="projects">
+        {% for student in site.data.wise-1415.students %}
+        <div class="media project-bits well" id="{{ student.bits.title }}">
+            <a href="{{ student.bits.video_url }}" class="media-left">
+            <img alt=" " src="{{ site.baseurl }}/images/{{ student.bits.images[0] }}" class="image hidden-xs">
+            <img alt=" " src="{{ site.baseurl }}/images/{{ student.bits.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg ">
+            </a>
+            <div class="media-body">
+                <a href="{{ student.bits.video_url }}"><h4 class="media-heading">{{ student.bits.title }}</h4></a>
+                <h5>by {{ student.author }}</h5>
+                <p>{{ student.bits.abstract }}
+                </p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<!-- people -->
+<div class="row" id="people">
+    <div class="col-md-8 col-md-offset-2" id="projects">
+        {% for student in site.data.wise-1415.students %}
+        <div class="media people well">
+            <a href="{{ student.url }}" class="media-left">
+            <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
+              <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="thumb hidden-sm hidden-md hidden-lg avatars-small">
+            </a>
+            <div class="media-body">
+                <a href="https://github.com/{{ student.github }}"><h4 class="media-heading">{{ student.github }}</h4></a>
+                <h5>Hi my name is {{ student.author }} and I was part of the Input/Output team.</h5>
+                You can find all my source code for the projects under these links: <br>
+                <ul>
+                    {% for repo in student.repos %}
+                    <li><a href="https://github.com/{{ student.github }}/{{repo}}">{{ repo }}</li></a>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

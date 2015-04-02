@@ -1,0 +1,584 @@
+{"students":[
+{
+  "author": "Alvaro Garcia",
+  "github": "varusgarcia",
+  "url": "http://deine.online.praesenz.de",
+  "repos": [
+    "Input-Output/tree/master/Algorythm",
+    "Input-Output/tree/master/Crowdsourcing",
+    "Input-Output/tree/master/Arduino",
+    "Input-Output"
+
+  ],
+  "algorithm": {
+    "title": "MovingAlgorythm",
+    "url": "https://github.com/varusgarcia/Input-Output/tree/master/Algorythm",
+    "images": [
+      "Algorythm-1.png",
+      "Algorythm-2.png",
+      "Algorythm-3.png"
+    ],
+    "thumb": [
+      "Algorythm-1-thumb.png",
+      "Algorythm-2-thumb.png",
+      "Algorythm-3-thumb.png"
+    ],
+    "abstract": "In this project, we compared the analog and the digital worlds by doing some exercises in which a person had to follow some simple steps. Then we transformed those steps into coding lenguage, so that the computer could understand."
+  },
+  "crowd": {
+    "survey_url": "https://docs.google.com/forms/d/1PAwjxJQz2l65CJPxiWn2zA7Dtr0jKwkhc1Q2Oo37FoQ/edit",
+    "result_url": "http://varusgarcia.github.io",
+    "title": "What's your guess?",
+    "image": "Crowdsourcing.png",
+    "thumb": "Crowdsourcing-thumb.png",
+    "abstract": "In this project, we test someone's ability to guess, it consists on five images with many black points. The user has to try to make a right guess of the number of dots."
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123615966",
+    "title": "WATCH(ED)TOUCH(ED)",
+    "images": [
+      "Arduino-1.png",
+      "Arduino-2.png",
+      "Arduino-3.png"
+    ],
+    "thumb": [
+      "Arduino-1-thumb.png",
+      "Arduino-2-thumb.png",
+      "Arduino-3-thumb.png"
+    ],
+    "abstract": "This Project is based on the game Chinese Whispers. The first time someone plays it, one has to tap a rythm into the cube by touching the capacitive sensor. The next user watches the rythm beeing played by the flipdot an has to try and imitate it by tapping as well. This process repeats indefinetly."
+  }
+}
+,
+{
+  "author": "Christian Münch",
+  "github": "MuenchMan",
+  "url": "https://www.linkedin.com/profile/view?id=259801155",
+  "repos": [
+    "InputOutput_Delta",
+    "InputOutput_urbanNexus",
+    "InputOutput_Staubfaenger"
+  ],
+  "algorithm": {
+    "title": "DELTA",
+    "url": "https://github.com/MuenchMan/InputOutput_Delta",
+    "images": [
+      "deltaAbgabe-01.png",
+      "deltaAbgabe-02.png",
+      "deltaAbgabe-03.png",
+      "deltaAbgabe-04.png",
+      "deltaAbgabe-05.png",
+      "deltaAbgabe-06.png",
+      "deltaAbgabe-07.png",
+      "deltaAbgabe-08.png"
+    ],
+    "thumb": [
+      "deltaAbgabe-01-thumb.png",
+      "deltaAbgabe-02-thumb.png",
+      "deltaAbgabe-03-thumb.png",
+      "deltaAbgabe-04-thumb.png",
+      "deltaAbgabe-05-thumb.png",
+      "deltaAbgabe-06-thumb.png",
+      "deltaAbgabe-07-thumb.png",
+      "deltaAbgabe-08-thumb.png"
+    ],
+    "abstract": "DELTA is inspired by the patterns formed as rivers join the ocean. Natural patterns like these can be inspiring to create visualizations for the digital age. Think of streams of data from multiple locations flowing together."
+  },
+  "crowd": {
+    "survey_url": "https://docs.google.com/document/d/1fqJDChRzAymWw-NYNNFBbgVx2RH858AcqMq7lUf0etU/edit?usp=sharing",
+    "result_url": "https://drive.google.com/folderview?id=0BwaDffLo1GvEdDhuVlc4aGRTRlk&usp=drive_web",
+    "title": "NEXUS",
+    "image": "nexusAbgabe-01.png",
+    "thumb": "nexusAbgabe-01-thumb.png",
+    "abstract": "NEXUS experiments with the visualization of location based data. A network out of important personal locations are abstracted and put into context with each other. The results are abstract forms unique to the person and remind of molecule chains."
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123890836",
+    "title": "Staubfänger",
+    "images": [
+      "staubfaengerAbgabe-01.png",
+      "staubfaengerAbgabe-02.png",
+      "staubfaengerAbgabe-03.png"
+    ],
+    "thumb": [
+      "staubfaengerAbgabe-01-thumb.png",
+      "staubfaengerAbgabe-02-thumb.png",
+      "staubfaengerAbgabe-03.thumb.png"
+    ],
+    "abstract": "Staubfänger is a very egocentric device. If placed inside a shelf for display it demands a clean environment from its owner. If the area should become too dusty it will make sure to remind you of your duties and clean it."
+  }
+},
+{
+    "author": "Jasper Precht",
+    "github": "JasperP",
+    "url": "https://github.com/JasperP",
+    "repos": [
+        "Algorithm-Music-Visualization",
+        "Data-Visualization",
+        "Physical-Computing-Motorpoti-Flipdot"
+    ],
+    "algorithm": {
+        "title": "Fractal Music Visualization",
+        "url": "https://vimeo.com/123751388",
+        "images": [
+            "image-0.png",
+            "image-1.png",
+            "image-2.png",
+            "image-3.png",
+            "image-4.png"
+        ],
+        "thumb": [
+            "image-0-thumb.png",
+            "image-1-thumb.png",
+            "image-2-thumb.png",
+            "image-3-thumb.png",
+            "image-4-thumb.png"
+        ],
+        "abstract": "This is an algorithm, that makes music graspable on a visual level with the help of recursion and iteration. It is based on an analogue algorithm, executed by people other than me, à la Sol LeWitt."
+    },
+    "crowd": {
+        "survey_url": "https://jasperp.peacock.uberspace.de",
+        "result_url": "https://jasperp.peacock.uberspace.de/#pagetwo",
+        "title": "Digit of your Widget",
+        "image": "image-5.png",
+        "thumb": "image-5-thumb.png",
+        "abstract": "A survey, that questions remarkable items you own and analyses their functions from a design critical point of view. The data visualization reveals the result. "
+    },
+    "bits": {
+        "video_url": "https://vimeo.com/123418651",
+        "title": "Das Bild hängt schief",
+        "images": [
+            "image-6.png",
+            "image-7.png",
+            "image-8.png",
+            "image-9.png"
+        ],
+        "thumb": [
+            "image-6-thumb.png",
+            "image-7-thumb.png",
+            "image-8-thumb.png",
+            "image-9-thumb.png"
+        ],
+        "abstract": "This is my arduino project to the topic ‚physical bits’. It reveals not merely a binary state, but rather questions the opinion on it."
+    }
+}
+,
+{
+  "author": "Fabian Schultz",
+  "github": "fabe",
+  "url": "https://fabianschultz.com",
+  "repos": [
+    "https://github.com/fabe/abstract-weather",
+    "https://github.com/fabe/media-consumption",
+    "https://github.com/fabe/zeit-zu-lueften",
+    "https://github.com/fabe/iss-observation"
+  ],
+  "algorithm": {
+    "title": "Abstract Weather",
+    "url": "https://github.com/fabe/abstract-weather",
+    "images": [
+      "algo-01.png",
+      "algo-02.png"
+    ],
+    "thumb": [
+      "algo-01-thumb.png",
+      "algo-02-thumb.png"
+    ],
+    "abstract": "Visualizing temperature abstractly using p5.js."
+  },
+  "crowd": {
+    "survey_url": "http://goo.gl/forms/yZohKnLOe7",
+    "result_url": "https://fabianschultz.com/media-consumption/",
+    "title": "On Media Consumption",
+    "image": "media-01.png",
+    "thumb": "media-01-thumb.png",
+    "abstract": "Visualising a survey on media consuption."
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/118990435",
+    "title": "Zeit zu Lüften",
+    "images": [
+      "air-01.png",
+      "air-02.png",
+      "air-03.png"
+    ],
+    "thumb": [
+      "air-01-thumb.png",
+      "air-02-thumb.png",
+      "air-03-thumb.png"
+    ],
+    "abstract": "If the indoor air quality falls below a certain value, a flip dot shows that the room needs fresh air. The plant and the installation are influencing each other."
+  }
+},
+{
+  "author": "Emil Woop",
+  "github": "e00",
+  "url": "",
+  "repos": [
+    "14-15_IO_polygone",
+    "14-15_IO_datavis",
+    "14-15_IO_hidden_labyrinth",
+	"14-15_minipage"
+  ],
+  "algorithm": {
+    "title": "PentaGone",
+    "url": "https://github.com/e00/14-15_IO_polygone",
+    "images": [
+      "pg-1.png",
+      "pg-2.png",
+      "pg-3.png"
+    ],
+    "thumb": [
+      "pg-1-thumb.png",
+      "pg-2-thumb.png",
+      "pg-3-thumb.png"
+    ],
+    "abstract": "Starting from a single pentagon, the algorithm feeds itself coordinates generated from the pentagons vertices, creating a crystaline structure."
+  },
+  "crowd": {
+    "survey_url": "https://goo.gl/forms/ri92Ltv6OO",
+    "result_url": "http://e00.github.io/",
+    "title": "TRANSIT",
+    "image": "TRANSIT.png",
+    "thumb": "TRANSIT-thumb.png",
+    "abstract": "Is it normal to spend 2 hours every day to get to your place of work? Do your circumstances influence how much time you are spending in transit?"
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/122587435",
+    "title": "Hidden Labyrinth",
+    "images": [
+      "hl-1.png",
+      "hl-2.png",
+      "hl-3.png"
+    ],
+    "thumb": [
+      "hl-1-thumb.png",
+      "hl-2-thumb.png",
+      "hl-3-thumb.png"
+    ],
+    "abstract": "Hidden Labyrinth is a game of memory and sacrifice.\n\nNavigate the Labyrinth to reach the treasure chamber in its center. Avoid the hidden deadly traps and pitfalls.\nOne wrong step and you are lost forever to the labyrinth.\n*Lost but not forgotten!* Your successors will build on your discoveries as you have build on those of your predecessors."
+  }
+},
+{
+  "author": "Hong Loan Phan",
+  "github": "hongpow",
+  "url": "https://github.com/hongpow/",
+  "repos": [
+    "Algorithms",
+    "Crowdsourcing",
+    "Physical-Bits"
+  ],
+  "algorithm": {
+    "title": "Dotted Diamond Pattern",
+    "url": "https://github.com/hongpow/Algorithms.git",
+    "images": [
+      "algorithm.png"
+    ],
+    "thumb": [
+      "algorithm-thumb.png"
+    ],
+    "abstract": "Our first task was to frame an algorithm for people to follow and implement it. It was important to define and use correct words to have the wanted results."
+  },
+  "crowd": {
+    "survey_url": "https://hongpow.typeform.com/to/XOJCZb",
+    "result_url": "http://hongpow.pytalhost.de/",
+    "title": "CHILDHOOD HEROES",
+    "image": "childhoodhero.png",
+    "thumb": "childhoodhero-thumb.png",
+    "abstract": "Everyone grows up but who could possibly deny their own rolemodel at young age? TV showw and cartoon trends come and go. What remains are their respective generations."
+  },
+  "bits": {
+    "video_url": "http://vimeo.com/123774615",
+    "title": "PEEK-A-BOO!",
+    "images": [
+      "peekaboo.png"
+    ],
+    "thumb": [
+      "peekaboo-thumb.png"
+    ],
+    "abstract": "This little guy here playfully shows you whether something blocks his view or not. Play with him peek-a-boo and see how surprised he'll be when you put your hand or something in front of his view."
+  }
+}
+,
+{
+  "author": "Oskar Suslow",
+  "github": "oskar-s",
+  "url": "",
+  "repos": [
+    "beer_project_2",
+    "algorithmus-oskar-s",
+    "smart-letterbox"
+  ],
+  "algorithm": {
+    "title": "Circles",
+    "url": "https://github.com/oskar-s/algorithmus-oskar-s",
+    "images": [
+      "algo_1.png",
+      "algo_2.png"
+    ],
+    "thumb": [
+      "algo_1-thumb.png",
+      "algo_2-thumb.png"
+    ],
+    "abstract": " This Project was made for the 'Input/Output' at the University of applied sciences Potsdam by Oskar Suslow. It is an algorithm made in Processing. In this Project we have learned the basics in Processing and how coding works."
+  },
+  "crowd": {
+    "survey_url": "https://docs.google.com/forms/d/106hAoTpqAm4hkcIsiiRtSG-Vs3FScr5I6qH6DQ0pO44/viewform?c=0&w=1",
+    "result_url": "http://beer.oskarsuslow.com",
+    "title": "Let's talk about beer",
+    "image": "lets_talk_about_beer.png",
+    "thumb": "lets_talk_about_beer-thumb.png",
+    "abstract": " This Project was made for the 'Input/Output' class by Oskar Suslow at the University of applied sciences in Potsdam (Germany). It is a data visualisation website about beer. You can visite the full website at: http://beer.oskarsuslow.com"
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123536570",
+    "title": "Smart Letterbox",
+    "images": [
+      "title_slb.png",
+      "sletter_1.png",
+      "sletter_2.png"
+    ],
+    "thumb": [
+      "title_slb-thumb.png",
+      "sletter_1-thumb.png",
+      "sletter_2-thumb.png"
+    ],
+    "abstract": "It always has been annoying to run down to the letterbox just to check if there is something in it. With the SMART-Letterbox i made in the 'Input/Output' class at the University of applied sciences Potsdam, you will get a notification directly to your desk like it would be an E-Mail. The Project is made with 2 Arduinos (1 Uno, 1 Nano), a flip dot and 2 RF-modules. the Ardunio Uno is inside the box with the flipdot and checks the status of the nano every few minutes. Inside the letterbox there is a light barrier, which sends a signal as long as it is interrupted by a letter or something similar."
+  }
+}
+,
+{
+  "author": "Felix Harle",
+  "github": "pfelixh",
+  "url": "http://www.astronomy.is",
+  "repos": [
+    "https://github.com/pfelixh/io1415_algorithm",
+    "https://github.com/pfelixh/io1415_crowd",
+    "https://github.com/pfelixh/io1415_bit"
+  ],
+  "algorithm": {
+    "title": "Identity",
+    "url": "https://gist.github.com/pfelixh/fbc7372ef05a064f1bcc",
+    "images": [
+      "identity.png",
+      "raw_processing_example.png"
+    ],
+    "thumb": [
+      "identity_thumb.png"
+    ],
+    "abstract": "A simple drawing algorithm was developed and expressed in common language. After a brainstorming and testing period, it was translated into code. Ultimately, the resulting computer based drawing was used as the core theme of a Brand Identity."
+  },
+  "crowd": {
+    "survey_url": "http://goo.gl/LNYEhx",
+    "result_url": "http://www.felixharle.com/gestalt/",
+    "title": "Gestalt",
+    "image": "gestlat.png",
+    "thumb": "gestalt_thumb.png",
+    "abstract": "Gestalt Figures are optical illusions that can be interpreted in two different ways. An online-survey revealed, which »Gestalt« is commonly seen first. The results were visualized using web technologies."
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123819708",
+    "title": "10,000",
+    "images": [
+      "10k.png"
+    ],
+    "thumb": [
+      "10k_thumb.png"
+    ],
+    "abstract": "Physical activity was logged and pushed online with Strava for iOS. A Raspberry Pi application was developed that monitored the status remotely via the Strava API and indicated with a flip dot, if the daily target of 10,000 steps was reached."
+  }
+},
+{
+  "author": "Jolanta Paliszewska",
+  "github": "vispalberlin",
+  "url": "http://vispalberlin.tumblr.com",
+  "repos": [
+    "Projekt1",
+    "Data_Visualization",
+    "SmartHotCup",
+    "vispalberlin.github.io",
+    "JSON"
+  ],
+  "algorithm": {
+    "title": "Stitchtypo",
+    "url": "https://github.com/vispalberlin/Projekt1",
+    "images": [
+      "p1.png"
+    ],
+    "thumb": [
+      "p1-thumb.png"
+    ],
+    "abstract": "Processing is used to explore the creative possibilities of coding, starting from analog algorithms and pattern instructions."
+  },
+  "crowd": {
+    "survey_url": "http://goo.gl/forms/yvDhrNQDrR",
+    "result_url": "vispalberlin.github.io/result.html",
+    "title": "Vegan and vegetarian food nutrition - the new food trends?",
+    "image": "p2.png",
+    "thumb": "p2-thumb.png",
+    "abstract": "I was conducting a survey for vegetarians, vegans and other food groups - aren’t they the new food trends?"
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123508767",
+    "title": "Smart Hot Cup",
+    "images": [
+      "p3.png"
+    ],
+    "thumb": [
+      "p3-thumb.png"
+    ],
+    "abstract": "Will it be bad for your health to drink a hot cup of tea? The question is how to quickly find the perfect, ideal temperature for tea or hot drinks. The Smart Hot Cup will help you identify the best time to drink your tea with its FlipDot mechanism."
+  }
+},
+{
+  "author": "Julian Lucas Wohlleber",
+  "github": "JulianWohlleber",
+  "url": "https://github.com/JulianWohlleber",
+  "repos": [
+    "PRJ1_GrowingLines",
+    "PRJ2_TravelBehaviours",
+    "PRJ3_HumanEffects"
+
+  ],
+  "algorithm": {
+    "title": "GrowingLines",
+    "url": "https://github.com/JulianWohlleber/PJ1_GrowingLines",
+    "images": [
+      "GL-0.png",
+      "GL-1.png",
+      "GL-2.png"
+    ],
+    "thumb": [
+      "GLt-0.png",
+      "GLt-1.png",
+      "GLt-2.png"
+    ],
+    "abstract": "In the first part of the course we learned what algorythms are, and how they are structured. We also learned the basics of the programming language Processing and lerned what generative Design is.\nProcessing Project\nJulian Lucas Wohlleber"
+  },
+  "crowd": {
+    "survey_url": "https://docs.google.com/forms/d/1c1C4VeYMhYuB85N2pcHSz9LSODnzceXqUcMo2GKArtI/viewform?c=0&w=1",
+    "result_url": "http://julianlucas.de/TravelBehaviours/",
+    "title": "TravelBehaviours",
+    "image": "TB.png",
+    "thumb": "TBt.png",
+    "abstract": "In the second part of the course we generated Data and did a Datavisualisation with it, which should later be published on a Webpage online. I dealt with the subject daily distances, and their effects on human.\nCrowdsourcing Project\nJulian Lucas Wohlleber"
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123685335",
+    "title": "HumanEffects",
+    "images": [
+      "HE-0",
+      "HE-1",
+      "HE-2"
+    ],
+    "thumb": [
+      "HEt-0.png",
+      "HEt-1.png",
+      "HEt-2.png"
+    ],
+    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.\nFlipdot Project\nJulian Lucas Wohlleber"
+  }
+}
+,
+{
+  "author": "Kevin Schiffer",
+  "github": "kschiffer",
+  "url": "http://www.kevinschiffer.de",
+  "repos": [
+    "fhp_io_algocircles",
+    "fhp_io_crowdsourcing",
+    "fhp_io_coinflipmachine"
+  ],
+  "algorithm": {
+    "title": "AlgoCircles",
+    "url": "https://github.com/kschiffer/fhp_io_algocircles",
+    "images": [
+      "algo_phenotype_01.jpg",
+      "algo_phenotype_02.jpg",
+      "algo_pattern_circle_01.png",
+      "algo_pattern_circle_02.png",
+      "algo_pattern_circle_03.png",
+      "algo_pattern_circle_04.png",
+      "algo_pattern_circle_05.png",
+      "algo_plakat_01.jpg",
+      "algo_algorythms_01.jpg"
+    ],
+    "thumb": [
+      "algo_phenotype_01-thumb.jpg",
+      "algo_phenotype_02-thumb.jpg",
+      "algo_pattern_circle_01-thumb.jpg",
+      "algo_pattern_circle_02-thumb.jpg",
+      "algo_pattern_circle_03-thumb.jpg",
+      "algo_pattern_circle_04-thumb.jpg",
+      "algo_pattern_circle_05-thumb.jpg",
+      "algo_plakat_01-thumb.jpg",
+      "algo_algorythms_01-thumb.jpg"
+    ],
+    "abstract": "AlgoCircles is a processing project containing my experiments with generative design. Originating from the same analog algorythm (phenotype), I created different modifications, which could be used in different scenarios. The 'grid_circle_visual' is an approach which could be used as a branding tool, generating different variations of the same logo-kind."
+  },
+  "crowd": {
+    "survey_url": "http://projects.kevinschiffer.de/flag-survey/",
+    "result_url": "http://projects.kevinschiffer.de/flag-survey-datavis/",
+    "title": "The Aesthetics of National Flags",
+    "image": "crowd_title.png",
+    "thumb": "crowd_title-thumb.jpg",
+    "abstract": "Flags are symbolic visual systems that are often designed based on a nations history and origins and not necessarily on aesthetics. Visual as they are, they often - intended or unintended - create specific sentiments to the viewer. Being the most important visual representation of a state, I want to examine what flags are perceived especially beneficial or unfavorable for its state when viewed by others."
+  },
+  "bits": {
+    "video_url": "http://vimeo.com/123883583",
+    "title": "The Coinflip Machine",
+    "images": [
+      "bits_coinflipmachine_01.jpg",
+      "bits_coinflipmachine_02.jpg",
+      "bits_coinflipmachine_03.jpg"
+    ],
+    "thumb": [
+      "bits_coinflipmachine_01-thumb.jpg",
+      "bits_coinflipmachine_02-thumb.jpg",
+      "bits_coinflipmachine_03-thumb.jpg"
+    ],
+    "abstract": "The Coinflip Machine is a technical exploration of the most basic decision making principle. The system will reproduce coin flips and output their respective results using the flipdot. The process is started via button press."
+  }
+},
+{
+  "author": "Tino Kanigs",
+  "github": "pixelhans",
+  "url": "http://pxlhns.tumblr.com",
+  "repos": [
+    "algorithm",
+    "ESCAPE",
+    "arduino",
+    "JSON",
+    "pixelhans.github.io"
+  ],
+  "algorithm": {
+    "title": "lines.. or circles?",
+    "url": "https://github.com/pixelhans/algorithm",
+    "images": [
+      "alg.png"
+    ],
+    "thumb": [
+      "alg-thumb.png"
+    ],
+    "abstract": "Translating a simple analog algorithm into code isn't easy at all. I had to make some sacrifice my initial idea and created an all new algortihm digitally."
+  },
+  "crowd": {
+    "survey_url": "http://pixelhans.github.io",
+    "result_url": "http://pixelhans.github.io/results.html",
+    "title": "ESCAPE",
+    "image": "esc.png",
+    "thumb": "esc-thumb.png",
+    "abstract": "People play a little flash game and fill in a form afterwards. With their data a growing dungeon is generated."
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/123837885",
+    "title": "north",
+    "images": [
+      "ard.png",
+      "ard2.png"
+    ],
+    "thumb": [
+      "ard-thumb.png"
+    ],
+    "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."  }
+}]}
