@@ -236,7 +236,7 @@
     "survey_url": "http://goo.gl/LNYEhx",
     "result_url": "http://www.felixharle.com/gestalt/",
     "title": "Gestalt",
-    "image": "gestlat.png",
+    "image": "gestalt.png",
     "thumb": "gestalt_thumb.png",
     "abstract": "Gestalt Figures are optical illusions that can be interpreted in two different ways. An online-survey revealed, which »gestalt« is commonly seen first. The results were visualized using web technologies."
   },
@@ -624,5 +624,4 @@
     ],
     "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."  }
 }
-,
 ]}
