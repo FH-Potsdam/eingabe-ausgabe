@@ -236,7 +236,7 @@
     "survey_url": "http://goo.gl/LNYEhx",
     "result_url": "http://www.felixharle.com/gestalt/",
     "title": "Gestalt",
-    "image": "gestalt.png",
+    "image": "gestlat.png",
     "thumb": "gestalt_thumb.png",
     "abstract": "Gestalt Figures are optical illusions that can be interpreted in two different ways. An online-survey revealed, which »gestalt« is commonly seen first. The results were visualized using web technologies."
   },
@@ -389,48 +389,6 @@
   }
 }
 ,
-{
-  "author": "Jolanta Paliszewska",
-  "github": "vispalberlin",
-  "url": "http://vispalberlin.tumblr.com",
-  "repos": [
-    "Projekt1",
-    "Data_Visualization",
-    "SmartHotCup",
-    "vispalberlin.github.io",
-    "JSON"
-  ],
-  "algorithm": {
-    "title": "Stitchtypo",
-    "url": "https://github.com/vispalberlin/Projekt1",
-    "images": [
-      "p1.png"
-    ],
-    "thumb": [
-      "p1-thumb.png"
-    ],
-    "abstract": "Processing is used to explore the creative possibilities of coding, starting from analog algorithms and pattern instructions."
-  },
-  "crowd": {
-    "survey_url": "http://goo.gl/forms/yvDhrNQDrR",
-    "result_url": "vispalberlin.github.io/result.html",
-    "title": "Vegan and vegetarian food nutrition - the new food trends?",
-    "image": "p2.png",
-    "thumb": "p2-thumb.png",
-    "abstract": "I was conducting a survey for vegetarians, vegans and other food groups - aren’t they the new food trends?"
-  },
-  "bits": {
-    "video_url": "https://vimeo.com/123508767",
-    "title": "Smart Hot Cup",
-    "images": [
-      "p3.png"
-    ],
-    "thumb": [
-      "p3-thumb.png"
-    ],
-    "abstract": "Will it be bad for your health to drink a hot cup of tea? The question is how to quickly find the perfect, ideal temperature for tea or hot drinks. The Smart Hot Cup will help you identify the best time to drink your tea with its FlipDot mechanism."
-  }
-},
 {
   "author": "Jolanta Paliszewska",
   "github": "vispalberlin",
@@ -624,4 +582,5 @@
     ],
     "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."  }
 }
+,
 ]}
