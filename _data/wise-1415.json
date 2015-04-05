@@ -216,9 +216,9 @@
   "github": "pfelixh",
   "url": "http://www.astronomy.is",
   "repos": [
-    "https://github.com/pfelixh/io1415_algorithm",
-    "https://github.com/pfelixh/io1415_crowd",
-    "https://github.com/pfelixh/io1415_bit"
+    "Algorithm",
+    "Crowd",
+    "Bit"
   ],
   "algorithm": {
     "title": "Identity",
@@ -236,7 +236,7 @@
     "survey_url": "http://goo.gl/LNYEhx",
     "result_url": "http://www.felixharle.com/gestalt/",
     "title": "Gestalt",
-    "image": "gestlat.png",
+    "image": "gestalt.png",
     "thumb": "gestalt_thumb.png",
     "abstract": "Gestalt Figures are optical illusions that can be interpreted in two different ways. An online-survey revealed, which »gestalt« is commonly seen first. The results were visualized using web technologies."
   },
