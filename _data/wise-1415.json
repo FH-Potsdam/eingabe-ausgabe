@@ -48,8 +48,7 @@
     ],
     "abstract": "This Project is based on the game Chinese Whispers. The first time someone plays it, one has to tap a rythm into the cube by touching the capacitive sensor. The next user watches the rythm beeing played by the flipdot an has to try and imitate it by tapping as well. This process repeats indefinetly."
   }
-}
-,
+},
 {
   "author": "Christian Münch",
   "github": "MuenchMan",
@@ -393,6 +392,7 @@
   "author": "Jolanta Paliszewska",
   "github": "vispalberlin",
   "url": "http://vispalberlin.tumblr.com",
+  "twitter":"@JooolaPaaal",
   "repos": [
     "Stitchtypo",
     "Data_Visualization",
@@ -581,6 +581,4 @@
       "ard-thumb.png"
     ],
     "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."  }
-}
-,
-]}
+}]}
