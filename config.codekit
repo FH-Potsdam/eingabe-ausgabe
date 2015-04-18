@@ -4576,28 +4576,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/10k.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 522747,
-		"inputAbbreviatedPath": "\/images\/10k.png",
-		"outputAbbreviatedPath": "\/images\/10k.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/10k_thumb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 20154,
-		"inputAbbreviatedPath": "\/images\/10k_thumb.png",
-		"outputAbbreviatedPath": "\/images\/10k_thumb.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/2nox.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5775,28 +5753,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/gestalt.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 531882,
-		"inputAbbreviatedPath": "\/images\/gestalt.png",
-		"outputAbbreviatedPath": "\/images\/gestalt.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/gestalt_thumb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3525,
-		"inputAbbreviatedPath": "\/images\/gestalt_thumb.png",
-		"outputAbbreviatedPath": "\/images\/gestalt_thumb.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/GIF-servocontinu_905.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6057,28 +6013,6 @@
 		"initialSize": 98036,
 		"inputAbbreviatedPath": "\/images\/howTRANSIT.png",
 		"outputAbbreviatedPath": "\/images\/howTRANSIT.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/identity.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 64402,
-		"inputAbbreviatedPath": "\/images\/identity.png",
-		"outputAbbreviatedPath": "\/images\/identity.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/identity_thumb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6454,
-		"inputAbbreviatedPath": "\/images\/identity_thumb.png",
-		"outputAbbreviatedPath": "\/images\/identity_thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6589,17 +6523,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/raw_processing_example.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 62688,
-		"inputAbbreviatedPath": "\/images\/raw_processing_example.png",
-		"outputAbbreviatedPath": "\/images\/raw_processing_example.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/saut_o_905.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7033,6 +6956,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/jquery.fittext-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.fittext-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/main-1415-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/main-1415-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/main-1415-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
