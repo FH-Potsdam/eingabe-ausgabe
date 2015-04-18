@@ -221,7 +221,7 @@
   ],
   "algorithm": {
     "title": "Identity",
-    "url": "https://gist.github.com/pfelixh/fbc7372ef05a064f1bcc",
+    "url": "http://www.felixharle.com/processing_w15/",
     "images": [
       "identity.png",
       "raw_processing_example.png"
@@ -259,20 +259,20 @@
     "14-15_IO_polygone",
     "14-15_IO_datavis",
     "14-15_IO_hidden_labyrinth",
-	"14-15_minipage"
+  "14-15_minipage"
   ],
   "algorithm": {
     "title": "PentaGone",
-    "url": "https://github.com/e00/14-15_IO_polygone",
+    "url": "http://e00.github.io/14-15_IO_polygone/",
     "images": [
-      "pg-1.png",
+      "pg-3.png",
       "pg-2.png",
-      "pg-3.png"
+      "pg-1.png"
     ],
     "thumb": [
-      "pg-1-thumb.png",
+      "pg-3-thumb.png",
       "pg-2-thumb.png",
-      "pg-3-thumb.png"
+      "pg-1-thumb.png"
     ],
     "abstract": "Starting from a single pentagon, the algorithm feeds itself coordinates generated from the pentagons vertices, creating a crystaline structure."
   },
@@ -297,7 +297,7 @@
       "hl-2-thumb.png",
       "hl-3-thumb.png"
     ],
-    "abstract": "Hidden Labyrinth is a game of memory and sacrifice.\n\nNavigate the Labyrinth to reach the treasure chamber in its center. Avoid the hidden deadly traps and pitfalls.\nOne wrong step and you are lost forever to the labyrinth.\n*Lost but not forgotten!* Your successors will build on your discoveries as you have build on those of your predecessors."
+    "abstract": "Hidden Labyrinth is a game of memory and sacrifice.<br><br>Navigate the Labyrinth to reach the treasure chamber in its center. Avoid the hidden deadly traps and pitfalls.<br>One wrong step and you are lost forever to the labyrinth.<br>*Lost but not forgotten!* Your successors will build on your discoveries as you have build on those of your predecessors."
   }
 },
 {
@@ -452,7 +452,7 @@
       "GLt-1.png",
       "GLt-2.png"
     ],
-    "abstract": "In the first part of the course we learned what algorythms are, and how they are structured. We also learned the basics of the programming language Processing and lerned what generative Design is.\nProcessing Project\nJulian Lucas Wohlleber"
+    "abstract": "In the first part of the course we learned what algorythms are, and how they are structured. We also learned the basics of the programming language Processing and lerned what generative Design is.<br>Processing Project<br>Julian Lucas Wohlleber"
   },
   "crowd": {
     "survey_url": "https://docs.google.com/forms/d/1c1C4VeYMhYuB85N2pcHSz9LSODnzceXqUcMo2GKArtI/viewform?c=0&w=1",
@@ -460,7 +460,7 @@
     "title": "TravelBehaviours",
     "image": "TB.png",
     "thumb": "TBt.png",
-    "abstract": "In the second part of the course we generated Data and did a Datavisualisation with it, which should later be published on a Webpage online. I dealt with the subject daily distances, and their effects on human.\nCrowdsourcing Project\nJulian Lucas Wohlleber"
+    "abstract": "In the second part of the course we generated Data and did a Datavisualisation with it, which should later be published on a Webpage online. I dealt with the subject daily distances, and their effects on human.<br>Crowdsourcing Project<br>Julian Lucas Wohlleber"
   },
   "bits": {
     "video_url": "https://vimeo.com/123685335",
@@ -475,7 +475,7 @@
       "HEt-1.png",
       "HEt-2.png"
     ],
-    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.\nFlipdot Project\nJulian Lucas Wohlleber"
+    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.<br>Flipdot Project<br>Julian Lucas Wohlleber"
   }
 }
 ,
