@@ -25,8 +25,8 @@ title: winter semester 14/15
 </div>
 <!-- this is the people section -->
 <div class="row" id="people">
-    <div class="col-md-8 col-md-offset-2" >{% for student in site.data.wise-1415.students %}<div class="media people well" id="{{ student.github  | url_encode }}">
-            <a href="{{ student.url | url_encode }}" class="media-left">
+    <div class="col-md-8 col-md-offset-2" >{% for student in site.data.wise-1415.students %}<div class="media people well" id="{{ student.github }}">
+            <a href="{{ student.url }}" class="media-left">
             <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
               <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="thumb hidden-sm hidden-md hidden-lg avatars-small"></a>
             <div class="media-body">
@@ -52,7 +52,7 @@ title: winter semester 14/15
     <div class="col-md-8 col-md-offset-2" >
         {% for student in site.data.wise-1415.students %}
         <div class="media project-algo well" id="{{ student.algorithm.title  | url_encode }}">
-            <a href="{{ student.algorithm.url | url_encode }}" class="media-left">
+            <a href="{{ student.algorithm.url }}" class="media-left">
             <img alt=" " src="{{ site.baseurl }}/images/{{ student.algorithm.images[0] }}" class="image hidden-xs"><img alt=" " src="{{ site.baseurl }}/images/{{ student.algorithm.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg "></a>
             <div class="media-body">
                 <a href="{{ student.algorithm.url | url_encode }}"><h4 class="media-heading">{{ student.algorithm.title }}</h4></a>
@@ -74,15 +74,15 @@ title: winter semester 14/15
     <div class="col-md-8 col-md-offset-2" >
         {% for student in site.data.wise-1415.students %}
         <div class="media project-crowd well" id="{{ student.crowd.title | url_encode }}">
-            <a href="{{ student.crowd.result_url | url_encode }}" class="media-left">
+            <a href="{{ student.crowd.result_url }}" class="media-left">
             <img alt=" " src="{{ site.baseurl }}/images/{{ student.crowd.image }}" class="image hidden-xs">
             <img alt=" " src="{{ site.baseurl }}/images/{{ student.crowd.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
             </a>
             <div class="media-body">
-                <a href="{{ student.crowd.result_url | url_encode }}"><h4 class="media-heading">{{ student.crowd.title }}</h4></a>
+                <a href="{{ student.crowd.result_url }}"><h4 class="media-heading">{{ student.crowd.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p>{{ student.crowd.abstract }}</p>
-                <p>You can still participate. Take the survey <a href="{{ student.crowd.survey_url | url_encode }}">here</a>.</p>
+                <p>You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
             </div>
         </div>
         {% endfor %}
@@ -101,11 +101,11 @@ title: winter semester 14/15
     <div class="col-md-8 col-md-offset-2" >
         {% for student in site.data.wise-1415.students %}
         <div class="media project-bits well" id="{{ student.bits.title | url_encode }}">
-            <a href="{{ student.bits.video_url | url_encode }}" class="media-left">
+            <a href="{{ student.bits.video_url }}" class="media-left">
             <img alt=" " src="{{ site.baseurl }}/images/{{ student.bits.images[0] }}" class="image hidden-xs">
             <img alt=" " src="{{ site.baseurl }}/images/{{ student.bits.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg "></a>
             <div class="media-body">
-                <a href="{{ student.bits.video_url | url_encode }}"><h4 class="media-heading">{{ student.bits.title }}</h4></a>
+                <a href="{{ student.bits.video_url }}"><h4 class="media-heading">{{ student.bits.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p>{{ student.bits.abstract }}</p>
             </div>
