@@ -55,7 +55,7 @@ title: winter semester 14/15
             <a href="{{ student.algorithm.url }}" class="media-left">
             <img alt=" " src="{{ site.baseurl }}/images/{{ student.algorithm.images[0] }}" class="image hidden-xs"><img alt=" " src="{{ site.baseurl }}/images/{{ student.algorithm.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg "></a>
             <div class="media-body">
-                <a href="{{ student.algorithm.url | make_web_friendly }}"><h4 class="media-heading">{{ student.algorithm.title }}</h4></a>
+                <a href="{{ student.algorithm.url }}"><h4 class="media-heading">{{ student.algorithm.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p>{{ student.algorithm.abstract }}</p>
             </div>
