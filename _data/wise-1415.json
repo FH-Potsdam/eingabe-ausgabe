@@ -433,52 +433,51 @@
   "author": "Julian Lucas Wohlleber",
   "github": "JulianWohlleber",
   "url": "https://github.com/JulianWohlleber",
+  "twitter":"@suparsumo",
   "repos": [
-    "PRJ1_GrowingLines",
-    "PRJ2_TravelBehaviours",
-    "PRJ3_HumanEffects"
-
+    "PJ1_GrowingLines",
+    "PJ2_TravelBehaviours",
+    "PJ3_HumanEffects"
   ],
   "algorithm": {
     "title": "GrowingLines",
-    "url": "https://github.com/JulianWohlleber/PJ1_GrowingLines",
+    "url": "http://julianwohlleber.github.io/PJ1_GrowingLines",
     "images": [
       "GL-0.png",
       "GL-1.png",
       "GL-2.png"
     ],
     "thumb": [
-      "GLt-0.png",
-      "GLt-1.png",
-      "GLt-2.png"
+      "GL-0-thumb.png",
+      "GL-1-thumb.png",
+      "GL-2-thumb.png"
     ],
-    "abstract": "In the first part of the course we learned what algorythms are, and how they are structured. We also learned the basics of the programming language Processing and lerned what generative Design is.<br>Processing Project<br>Julian Lucas Wohlleber"
+    "abstract": "Growing lines is a processing project that disputes with Generative structures and automatic pattern generation. My final work was inspired from my analog algorithms which were realized by persons.\nAt the end the pattern was transferred again into the analog world in form of a product."
   },
   "crowd": {
     "survey_url": "https://docs.google.com/forms/d/1c1C4VeYMhYuB85N2pcHSz9LSODnzceXqUcMo2GKArtI/viewform?c=0&w=1",
-    "result_url": "http://julianlucas.de/TravelBehaviours/",
+    "result_url": "http://julianwohlleber.github.io/PJ2_TravelBehaviours/",
     "title": "TravelBehaviours",
-    "image": "TB.png",
-    "thumb": "TBt.png",
-    "abstract": "In the second part of the course we generated Data and did a Datavisualisation with it, which should later be published on a Webpage online. I dealt with the subject daily distances, and their effects on human.<br>Crowdsourcing Project<br>Julian Lucas Wohlleber"
+    "image": "TB-0.png",
+    "thumb": "TB-1-thumb.png",
+    "abstract": "TravelBehaviours is a crowdsourcing-project that interpretes the impact of traveldistances and the choice of transportation on the participant\nThe Data was generated with a survey and is visualised on a html-page."
   },
   "bits": {
-    "video_url": "https://vimeo.com/123685335",
+    "video_url": "http://julianwohlleber.github.io/PJ3_HumanEffects/",
     "title": "HumanEffects",
     "images": [
-      "HE-0",
-      "HE-1",
-      "HE-2"
+      "HE-0.png",
+      "HE-1.png",
+      "HE-2.png"
     ],
     "thumb": [
-      "HEt-0.png",
-      "HEt-1.png",
-      "HEt-2.png"
+      "HE-0-thumb.png",
+      "HE-1-thumb.png",
+      "HE-2-thumb.png"
     ],
-    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.<br>Flipdot Project<br>Julian Lucas Wohlleber"
+    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.\nThis Project is a technical interpration of this problematic."
   }
-}
-,
+},
 {
   "author": "Kevin Schiffer",
   "github": "kschiffer",
