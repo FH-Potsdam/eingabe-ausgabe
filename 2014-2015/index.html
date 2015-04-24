@@ -64,6 +64,8 @@ title: winter semester 14/15
                 <h5>or <a href="https://github.com/{{ student.github }}">{{ student.github }}</a> on GitHub</h5>
                 <p>I was part of the Input/Output team. See my results of the projects <a href="#{{ student.algorithm.title  | make_web_friendly }}">algorithm</a>, <a href="#{{ student.crowd.title  | make_web_friendly }}">crowdsourcing data</a> and <a href="#{{ student.bits.title  | make_web_friendly }}">physical bits</a> below.</p>
                 <p>You can find all my source code for the projects under these links:</p>
+
+                <!-- begin PDXIII edition -->
                 <ul class="student-repos">
                 {% for repo in student.repos %}
                     <li>
@@ -71,13 +73,16 @@ title: winter semester 14/15
                     </li>
                 {% endfor %}
                 </ul>
-<!--
+                <!-- end PDXIII edition -->
+
+                <!-- original FTB code
                 <p>
                 {% for repo in student.repos %}
                      <a href="https://github.com/{{ student.github }}/{{repo}}"><i class="fa fa-github-alt"></i> {{ repo }}</a><br>
                 {% endfor %}
                 </p>
- -->
+                end original FTB code -->
+                
                 <p>If you like you can contact me <a href="{{ student.url }}">here.</a></p>
             </div>
         </div>
