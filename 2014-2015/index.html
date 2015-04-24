@@ -18,7 +18,7 @@ title: winter semester 14/15
             <p>You can find all the results, videos, links, source code and images below.
             Take a closer look at the projects from:
             </p>
-            <p>{% for student in site.data.wise-1415.students %}{% if forloop.last == false %} <a href="#{{ student.github | make_web_friendly }}">{{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and <a href="#{{ student.github | make_web_friendly }}">{{ student.author }}</a>.{% endif %}{% endfor %}</p>
+            <p>{% for student in site.data.wise-1415.students %}{% if forloop.last == false %} <a href="#{{ student.github }}">{{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %} {% else %} and <a href="#{{ student.github }}">{{ student.author }}</a>.{% endif %}{% endfor %}</p>
             <p>It will be fun. We promise <i class="fa fa-smile-o"></i>.</p>
         </div>
     </div>
@@ -29,12 +29,13 @@ title: winter semester 14/15
             <a href="{{ student.url }}" class="media-left">
             <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
               <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="thumb hidden-sm hidden-md hidden-lg avatars-small"></a>
-            <div class="media-body">
-                <h4 class="media-heading">Hi my name is {{ student.author }}</h4>
+            <div class="media-body break">
+                <p>Hi my name is</p>
+                <h4 class="media-heading fitit">{{ student.author }}</h4>
                 <h5>or <a href="https://github.com/{{ student.github }}">{{ student.github }}</a> on GitHub</h5>
                 <p>I was part of the Input/Output team. See my results of the projects <a href="#{{ student.algorithm.title  | make_web_friendly }}">algorithm</a>, <a href="#{{ student.crowd.title  | make_web_friendly }}">crowdsourcing data</a> and <a href="#{{ student.bits.title  | make_web_friendly }}">physical bits</a> below.</p>
                 <p>You can find all my source code for the projects under these links:</p>
-                <ul>{% for repo in student.repos %}<li><a href="https://github.com/{{ student.github }}/{{repo}}">{{ repo }}</a></li>{% endfor %}</ul>
+                <p>{% for repo in student.repos %}<a href="https://github.com/{{ student.github }}/{{repo}}"><i class="fa fa-github-alt"></i> {{ repo }}</a><br>{% endfor %}</p>
                 <p>If you like you can contact me <a href="{{ student.url }}">here.</a></p>
             </div>
         </div>

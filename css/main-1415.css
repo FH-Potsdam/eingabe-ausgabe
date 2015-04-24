@@ -26,6 +26,7 @@ h4,
 h5,
 h6 {
   font-family: 'Merriweather', serif;
+  line-height: 1.2em;
 }
 h1#headline {
   font-weight: 900;
@@ -37,8 +38,18 @@ h1#headline {
   font-size: 0.8em;
 }
 p {
-  word-wrap: break-word;
+  word-wrap: break-word !important;
   text-wrap: unrestricted;
+}
+ul ol li .break {
+  word-wrap: break-word !important;
+}
+ul ol li {
+  margin-left: 0.6em;
+}
+li {
+  font-size: 0.9em;
+  display: block;
 }
 .jumbotron {
   background-color: none;
