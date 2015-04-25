@@ -1,0 +1,6 @@
+ul.student-repos a {
+  word-break: break-word;
+}
+ul.student-repos {
+  padding-left: 0;
+}
