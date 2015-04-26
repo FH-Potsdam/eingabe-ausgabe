@@ -62,29 +62,13 @@ title: winter semester 14/15
                 <p>Hi my name is</p>
                 <h4 class="media-heading fitit">{{ student.author }}</h4>
                 <h5>or <a href="https://github.com/{{ student.github }}">{{ student.github }}</a> on GitHub</h5>
-                <p>I was part of the Input/Output team. See my results of the projects <a href="#{{ student.algorithm.title  | make_web_friendly }}">algorithm</a>, <a href="#{{ student.crowd.title  | make_web_friendly }}">crowdsourcing data</a> and <a href="#{{ student.bits.title  | make_web_friendly }}">physical bits</a> below.</p>
-                <p>You can find all my source code for the projects under these links:</p>
-
-                <!-- begin PDXIII edition -->
-                <ul class="student-repos">
-                {% for repo in student.repos %}
-                    <li>
-                        <a href="https://github.com/{{ student.github }}/{{repo}}"><i class="fa fa-github-alt"></i> {{ repo }}</a>
-                    </li>
-                {% endfor %}
-                </ul>
-                <!-- end PDXIII edition -->
-
-                <!-- original FTB code
-                <p>
-                {% for repo in student.repos %}
-                     <a href="https://github.com/{{ student.github }}/{{repo}}"><i class="fa fa-github-alt"></i> {{ repo }}</a><br>
-                {% endfor %}
-                </p>
-                end original FTB code -->
-
-                <p>If you like you can contact me <a href="{{ student.url }}">here.</a></p>
+                <div class="hidden-xs">
+                {% include person.html %}
+                </div>
             </div>
+                <div class="hidden-sm hidden-md hidden-lg">
+                {% include person.html %}
+                </div>
         </div>
     {% endfor %}
     </div>
@@ -114,7 +98,7 @@ title: winter semester 14/15
         <div class="media project-algo well" id="{{ student.algorithm.title  | make_web_friendly }}">
             <a href="{{ student.algorithm.url }}" class="media-left">
                 <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.algorithm.images[0] }}" class="image hidden-xs">
-                <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.algorithm.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg ">
+                <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.algorithm.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg">
             </a>
             <div class="media-body">
                 <a href="{{ student.algorithm.url }}">
@@ -125,10 +109,13 @@ title: winter semester 14/15
                 <h5>by <a href="#{{ student.github }}">
                     {{ student.author }}
                 </a></h5>
-                <p>
+                <p class="abstracts hidden-xs">
                     {{ student.algorithm.abstract }}
                 </p>
             </div>
+              <p class="abstracts hidden-sm hidden-md hidden-lg">
+                {{ student.algorithm.abstract }}
+                </p>
         </div>
     {% endfor %}
     </div>
@@ -153,9 +140,11 @@ title: winter semester 14/15
             <div class="media-body">
                 <a href="{{ student.crowd.result_url }}"><h4 class="media-heading">{{ student.crowd.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
-                <p>{{ student.crowd.abstract }}</p>
-                <p>You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
+                <p class="abstracts hidden-xs">{{ student.crowd.abstract }}</p>
+                <p class="abstracts hidden-xs">You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
             </div>
+            <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.crowd.abstract }}</p>
+                <p class="abstracts hidden-sm hidden-md hidden-lg">You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
         </div>
         {% endfor %}
     </div>
@@ -179,9 +168,13 @@ title: winter semester 14/15
             <div class="media-body">
                 <a href="{{ student.bits.video_url }}"><h4 class="media-heading">{{ student.bits.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
-                <p>{{ student.bits.abstract }}</p>
+                <p class="abstracts hidden-xs">{{ student.bits.abstract }}</p>
             </div>
+                <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.bits.abstract }}</p>
+
+
         </div>
+
         {% endfor %}
     </div>
 </div>

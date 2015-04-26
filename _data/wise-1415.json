@@ -297,7 +297,7 @@
       "hl-2-thumb.png",
       "hl-3-thumb.png"
     ],
-    "abstract": "Hidden Labyrinth is a game of memory and sacrifice.<br><br>Navigate the Labyrinth to reach the treasure chamber in its center. Avoid the hidden deadly traps and pitfalls.<br>One wrong step and you are lost forever to the labyrinth.<br>*Lost but not forgotten!* Your successors will build on your discoveries as you have build on those of your predecessors."
+    "abstract": "Hidden Labyrinth is a game of memory and sacrifice. Navigate the Labyrinth to reach the treasure chamber in its center. Avoid the hidden deadly traps and pitfalls. One wrong step and you are lost forever to the labyrinth. *Lost but not forgotten!* Your successors will build on your discoveries as you have build on those of your predecessors."
   }
 },
 {
@@ -452,7 +452,7 @@
       "GL-1-thumb.png",
       "GL-2-thumb.png"
     ],
-    "abstract": "Growing lines is a processing project that disputes with Generative structures and automatic pattern generation. My final work was inspired from my analog algorithms which were realized by persons.<br>At the end the pattern was transferred again into the analog world in form of a product."
+    "abstract": "Growing lines is a processing project that disputes with Generative structures and automatic pattern generation. My final work was inspired from my analog algorithms which were realized by persons.At the end the pattern was transferred again into the analog world in form of a product."
   },
   "crowd": {
     "survey_url": "https://docs.google.com/forms/d/1c1C4VeYMhYuB85N2pcHSz9LSODnzceXqUcMo2GKArtI/viewform?c=0&w=1",
@@ -460,7 +460,7 @@
     "title": "TravelBehaviours",
     "image": "TB-0.png",
     "thumb": "TB-1-thumb.png",
-    "abstract": "TravelBehaviours is a crowdsourcing-project that interpretes the impact of traveldistances and the choice of transportation on the participant<br>The Data was generated with a survey and is visualised on a html-page."
+    "abstract": "TravelBehaviours is a crowdsourcing-project that interpretes the impact of traveldistances and the choice of transportation on the participant The Data was generated with a survey and is visualised on a html-page."
   },
   "bits": {
     "video_url": "http://julianwohlleber.github.io/PJ3_HumanEffects/",
@@ -475,7 +475,7 @@
       "HE-1-thumb.png",
       "HE-2-thumb.png"
     ],
-    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.<br>This Project is a technical interpration of this problematic."
+    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct. This Project is a technical interpration of this problematic."
   }
 },
 {
