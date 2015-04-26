@@ -2,17 +2,17 @@
 {
   "author": "Alvaro Garcia",
   "github": "varusgarcia",
-  "url": "http://deine.online.praesenz.de",
+  "url": "https://github.com/varusgarcia",
   "repos": [
-    "Input-Output/tree/master/Algorythm",
-    "Input-Output/tree/master/Crowdsourcing",
-    "Input-Output/tree/master/Arduino",
+    "https://github.com/varusgarcia/Algorithm",
+    "https://github.com/varusgarcia/Crowdsourcing_data",
+    "https://github.com/varusgarcia/Physical_bits",
     "Input-Output"
 
   ],
   "algorithm": {
     "title": "MovingAlgorythm",
-    "url": "https://github.com/varusgarcia/Input-Output/tree/master/Algorythm",
+    "url": "https://github.com/varusgarcia/Algorithm",
     "images": [
       "Algorythm-1.png",
       "Algorythm-2.png",
@@ -102,7 +102,7 @@
     "thumb": [
       "staubfaengerAbgabe-01-thumb.png",
       "staubfaengerAbgabe-02-thumb.png",
-      "staubfaengerAbgabe-03.thumb.png"
+      "staubfaengerAbgabe-03-thumb.png"
     ],
     "abstract": "Staubfänger is a very egocentric device. If placed inside a shelf for display it demands a clean environment from its owner. If the area should become too dusty it will make sure to remind you of your duties and clean it."
   }
@@ -452,7 +452,7 @@
       "GL-1-thumb.png",
       "GL-2-thumb.png"
     ],
-    "abstract": "Growing lines is a processing project that disputes with Generative structures and automatic pattern generation. My final work was inspired from my analog algorithms which were realized by persons.\nAt the end the pattern was transferred again into the analog world in form of a product."
+    "abstract": "Growing lines is a processing project that disputes with Generative structures and automatic pattern generation. My final work was inspired from my analog algorithms which were realized by persons.<br>At the end the pattern was transferred again into the analog world in form of a product."
   },
   "crowd": {
     "survey_url": "https://docs.google.com/forms/d/1c1C4VeYMhYuB85N2pcHSz9LSODnzceXqUcMo2GKArtI/viewform?c=0&w=1",
@@ -460,7 +460,7 @@
     "title": "TravelBehaviours",
     "image": "TB-0.png",
     "thumb": "TB-1-thumb.png",
-    "abstract": "TravelBehaviours is a crowdsourcing-project that interpretes the impact of traveldistances and the choice of transportation on the participant\nThe Data was generated with a survey and is visualised on a html-page."
+    "abstract": "TravelBehaviours is a crowdsourcing-project that interpretes the impact of traveldistances and the choice of transportation on the participant<br>The Data was generated with a survey and is visualised on a html-page."
   },
   "bits": {
     "video_url": "http://julianwohlleber.github.io/PJ3_HumanEffects/",
@@ -475,7 +475,7 @@
       "HE-1-thumb.png",
       "HE-2-thumb.png"
     ],
-    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.\nThis Project is a technical interpration of this problematic."
+    "abstract": "Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.<br>This Project is a technical interpration of this problematic."
   }
 },
 {
