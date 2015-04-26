@@ -31,13 +31,7 @@ title: winter semester 14/15
             <p>
             {% for student in site.data.wise-1415.students %}{% if forloop.last == false %}
                 <a href="#{{ student.github }}">
-                    {{ student.author }}
-                </a>{% if forloop.rindex0 != 1 %},
-                {% endif %}
-                {% else %}
-                    and <a href="#{{ student.github }}">
-                        {{ student.author }}
-                    </a>.
+                    {{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %}{% else %} and <a href="#{{ student.github }}">{{ student.author }}</a>.
                 {% endif %}
             {% endfor %}
             </p>
