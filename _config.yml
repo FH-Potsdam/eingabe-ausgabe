@@ -3,7 +3,6 @@ markdown: redcarpet
 highlighter: true
 baseurl: /eingabe-ausgabe
 mail: you@example.com
-# ignore: [.htaccess]
 exclude: [".htaccess","bin","blog","bits","crowdsourcing","node_modules","algorithms","MIT-License.txt", "package.json","bower.json","config.codekit","Gruntfile.js","eingabe-ausgabe.sublime-project","eingabe-ausgabe.sublime-workspace","README.md",".codekit-cache","stylus"]
 sass:
   sass_dir: _sass
