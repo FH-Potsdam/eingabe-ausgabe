@@ -136,7 +136,6 @@ title: summer semester 15
                 <a href="{{ student.slime.result_url }}"><h4 class="media-heading">{{ student.slime.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p class="abstracts hidden-xs">{{ student.slime.abstract }}</p>
-                <p class="abstracts hidden-xs">You can still participate. Take the survey <a href="{{ student.slime.survey_url }}">here</a>.</p>
             </div>
             <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.slime.abstract }}</p>
         </div>
@@ -163,10 +162,10 @@ title: summer semester 15
                 <a href="{{ student.motor-poster.video-url }}"><h4 class="media-heading">{{ student.motor-poster.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p class="abstracts hidden-xs">{{ student.motor-poster.abstract }}</p>
+                <p class="abstracts hidden-xs">You can see a video of my project <a href="{{ student.motor-poster.video-url }}">here</a>. If you want you can also watch the video prototype <a href="{{ student.motor-poster.video-prototyp-url }}">here</a></p>
             </div>
                 <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.motor-poster.abstract }}</p>
-
-
+                <p class="abstracts hidden-sm hidden-md hidden-lg">You can see a video of my project <a href="{{ student.motor-poster.video-url }}">here</a>. If you want you can also watch the video prototype <a href="{{ student.motor-poster.video-prototyp-url }}">here</a></p>
         </div>
 
         {% endfor %}
