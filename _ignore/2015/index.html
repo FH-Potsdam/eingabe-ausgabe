@@ -1,0 +1,175 @@
+---
+layout: default
+title: summer semester 15
+---
+
+<!-- This is the intor section -->
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <div class="well">
+            <h1 id="headline">
+                {{ page.title }}
+            </h1>
+            <img src="{{ site.baseurl }}/images/ldr.png" alt=" " class="img-responsive" id="chart">
+            <p class="hello">
+                These are the results from the summer semester 2015. The seminar was split into 3 projects.
+            </p>
+            <ol>
+                <li>
+                    <a href="#algo">algorithmic pattern generator</a>
+                </li>
+                <li>
+                    <a href="#crowd">slime mold</a>
+                </li>
+                <li>
+                    <a href="#bits">motor poster</a>
+                </li>
+            </ol>
+            <p>
+                You can find all the results, videos, links, source code and images below.Take a closer look at the projects from:
+            </p>
+            <p>
+            {% for student in site.data.sose-15.students %}{% if forloop.last == false %}
+                <a href="#{{ student.github }}">
+                    {{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %}{% else %} and <a href="#{{ student.github }}">{{ student.author }}</a>.
+                {% endif %}
+            {% endfor %}
+            </p>
+            <p>
+                It will be fun. We promise <i class="fa fa-smile-o"></i>.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- this is the people section -->
+<div class="row" id="people">
+    <div class="col-md-8 col-md-offset-2" >
+    {% for student in site.data.sose-15.students %}
+        <div class="media people well" id="{{ student.github }}">
+            <a href="{{ student.url }}" class="media-left">
+                <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
+                <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="thumb hidden-sm hidden-md hidden-lg avatars-small">
+            </a>
+            <div class="media-body break">
+                <p>Hi my name is</p>
+                <h4 class="media-heading headline">{{ student.author }}</h4>
+                <h5>or <a href="https://github.com/{{ student.github }}">{{ student.github }}</a> on GitHub</h5>
+                <div class="hidden-xs">
+                {% include person.html %}
+                </div>
+            </div>
+                <div class="hidden-sm hidden-md hidden-lg">
+                {% include person.html %}
+                </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+<!-- this is the ALGO section -->
+<div class="row" id="algo">
+    <div class="col-md-8 col-md-offset-2 intro">
+        <div class="media well">
+            <h2>
+                Algorithm
+            </h2>
+            <p>
+                The task was to create an algorithm for humans and execute it several times. Iterate through the results and refine the pseudo-code. Afterwards the algorithm was ported to the Processing programming language and improved. Finally the students needed to find a use case for their algorithms.
+            </p>
+            {% for student in site.data.sose-15.students %}
+                {% for thumb in student.algorithm.thumb %}
+                <a href="#{{ student.algorithm.title | make_web_friendly }}">
+                    <img src="{{ site.baseurl }}/images/sose-15/{{ thumb }}" alt="..." class="img-circle img-teaser">
+                </a>{% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" >
+    {% for student in site.data.sose-15.students %}
+        <div class="media project-algo well" id="{{ student.algorithm.title  | make_web_friendly }}">
+            <a href="{{ student.algorithm.url }}" class="media-left">
+                <img alt=" " src="{{ site.baseurl }}/images/sose-15/{{ student.algorithm.image }}" class="image hidden-xs">
+                <img alt=" " src="{{ site.baseurl }}/images/sose-15/{{ student.algorithm.thumb }}" class="thumb hidden-sm hidden-md hidden-lg">
+            </a>
+            <div class="media-body">
+                <a href="{{ student.algorithm.url }}">
+                    <h4 class="media-heading">
+                        {{ student.algorithm.title }}
+                    </h4>
+                </a>
+                <h5>by <a href="#{{ student.github }}">
+                    {{ student.author }}
+                </a></h5>
+                <p class="abstracts hidden-xs">
+                    {{ student.algorithm.abstract }}
+                </p>
+            </div>
+              <p class="abstracts hidden-sm hidden-md hidden-lg">
+                {{ student.algorithm.abstract }}
+                </p>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+{% comment %}
+
+<!-- this is the CROWD section -->
+<div class="row" id="crowd">
+    <div class="col-md-8 col-md-offset-2 intro">
+        <div class="media well">
+            <h2>Crowdsourcing Data</h2>
+            <p>For this project the students had to create a online survey to gather some data. This data should then be represented in an interactive graphic.</p>{% for student in site.data.sose-15.students %}<a href="#{{ student.slime.title | make_web_friendly }}"><img src="{{ site.baseurl }}/images/sose-15/{{ student.slime.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" >
+        {% for student in site.data.sose-15.students %}
+        <div class="media project-crowd well" id="{{ student.slime.title | make_web_friendly }}">
+            <a href="{{ student.slime.result_url }}" class="media-left">
+            <img alt=" " src="{{ site.baseurl }}/images/sose-15/{{ student.slime.image }}" class="image hidden-xs">
+            <img alt=" " src="{{ site.baseurl }}/images/sose-15/{{ student.slime.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
+            </a>
+            <div class="media-body">
+                <a href="{{ student.slime.result_url }}"><h4 class="media-heading">{{ student.slime.title }}</h4></a>
+                <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
+                <p class="abstracts hidden-xs">{{ student.slime.abstract }}</p>
+                <p class="abstracts hidden-xs">You can still participate. Take the survey <a href="{{ student.slime.survey_url }}">here</a>.</p>
+            </div>
+            <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.slime.abstract }}</p>
+                <p class="abstracts hidden-sm hidden-md hidden-lg">You can still participate. Take the survey <a href="{{ student.slime.survey_url }}">here</a>.</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<!-- this is the bits section -->
+<div class="row" id="bits">
+    <div class="col-md-8 col-md-offset-2 intro">
+        <div class="media well">
+            <h2>Physical Bits</h2>
+           <p> Finding binary states in the physical world was the first part of this project. The second part was to display this state change with only one flipdot.</p>
+               {% for student in site.data.sose-15.students %}{% for thumb in student.motor-poster.thumb %}<a href="#{{ student.motor-poster.title  | make_web_friendly }}"><img src="{{ site.baseurl }}/images/sose-15/{{ thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}{% endfor %}</div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" >
+        {% for student in site.data.sose-15.students %}
+        <div class="media project-bits well" id="{{ student.motor-poster.title | make_web_friendly }}">
+            <a href="{{ student.motor-poster.video_url }}" class="media-left">
+            <img alt=" " src="{{ site.baseurl }}/images/sose-15/{{ student.motor-poster.image }}" class="image hidden-xs">
+            <img alt=" " src="{{ site.baseurl }}/images/sose-15/{{ student.motor-poster.thumb }}" class="thumb hidden-sm hidden-md hidden-lg "></a>
+            <div class="media-body">
+                <a href="{{ student.motor-poster.video_url }}"><h4 class="media-heading">{{ student.motor-poster.title }}</h4></a>
+                <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
+                <p class="abstracts hidden-xs">{{ student.motor-poster.abstract }}</p>
+            </div>
+                <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.motor-poster.abstract }}</p>
+
+
+        </div>
+
+        {% endfor %}
+    </div>
+</div>
+
+{% endcomment %}
