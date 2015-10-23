@@ -1,6 +1,40 @@
 {
-  "comments":"Abgegeben haben Christopher, Fabian, Johannes, Joseph, Lukas, Jonas und Paul, davon sind nicht valide Johannes & Lukas. Fabian hat doofe Bildernamen",
+  "comments": "Abgegeben haben Christopher, Fabian, Johannes, Joseph, Lukas, Jonas und Paul, davon sind nicht valide Johannes & Lukas. Fabian hat doofe Bildernamen",
   "students": [
+    {
+      "author": "Laura Russ",
+      "github": "deefruoydaeh",
+      "url": "https://github.com/deefruoydaeh",
+      "contact": "laura@russ-art.net",
+      "repos": [
+        "algorithmus_randomcircles",
+        "slime_mold_bob",
+        "motor_poster_adaptingpicture"
+      ],
+      "algorithm": {
+        "title": "randomcircles",
+        "image": "algo.png",
+        "thumb": "algo-thumb.png",
+        "repo-url": "https://github.com/deefruoydaeh/algorithmus_randomcircles",
+        "abstract": "It was all about creating an algorithm. So I chose to try out the programming language Processing and tried to recieve an interesting and beautiful result. I arranged rhombuslines and six bubbles with random but harmonic colors on a light grey background. The sizes and alignments are also varied by chance. "
+      },
+      "slime": {
+        "title": "slime mild bob",
+        "image": "bob.png",
+        "thumb": "bob-thumb.png",
+        "repo-url": "https://github.com/deefruoydaeh/slime_mold_bob",
+        "abstract": "I tried to edit an timelaps video of my growing Slime mold Bob with Processing and OpenCV and was be thwarted at every turn."
+      },
+      "motor-poster": {
+        "title": "adapting picture",
+        "image": "ap.png",
+        "thumb": "ap-thumb.png",
+        "repo-url": "https://github.com/deefruoydaeh/motor_poster_adaptingpicture",
+        "video-prototyp-url": "#",
+        "video-url": "https://vimeo.com/142999076",
+        "abstract": "I was curious about the idea to construct a moving painting, adjusted to parameters of the room or the people like noise, light and movement. So I created a semi three dimensional on purpose kitschig and classic landscape in romantic style. The ocean moves slower or faster through an 12V engine depending on the distance of the observer by the input of an distance sensor in the front of the frame."
+      }
+    },
     {
       "author": "Christopher Klement",
       "github": "chrisklement",
@@ -67,6 +101,40 @@
         "video-prototyp-url": "https://vimeo.com/131745694",
         "video-url": "https://vimeo.com/134408546",
         "abstract": "The drawing machine realized the idea of transforming the earlier computer generated elliptic patterns into the analog world with using classic tools like pen and paper."
+      }
+    },
+    {
+      "author": "Johannes Leick",
+      "github": "Johannesproximo",
+      "url": "https://www.facebook.com/johannes.leick",
+      "contact": "Johannes.Leick@gmx.de",
+      "repos": [
+        "Masken",
+        "Das-Blutende-Plakat",
+        "Pille-der-Schleimpilz"
+      ],
+      "algorithm": {
+        "title": "Masken",
+        "image": "Masken-1.png",
+        "thumb": "Masken-1-thumb.png",
+        "repo-url": "https://github.com/Johannesproximo/Masken",
+        "abstract": "The projekt Mask(masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks."
+      },
+      "slime": {
+        "title": "Pille-der-Schleimpilz",
+        "image": "Pille-2.png",
+        "thumb": "Pille-2-thumb.png",
+        "repo-url": "https://github.com/Johannesproximo/Pille-der-Schleimpilz",
+        "abstract": "Pille the slim mold (Physarum polycephalum) is a project. There I try to influent the growing of a slim mold (shape, color), to create sign with help of the mushroom and record the process in a time laps. After that we try to edit the time Lapps Clip with Processing, OpenCV and try to work out a nice growing visualization."
+      },
+      "motor-poster": {
+        "title": "Das-Blutende-Plakat",
+        "image": "Blut-3.png",
+        "thumb": "Blut-3-thumb.png",
+        "video-prototyp-url": "http://vimeo.com/1234567",
+        "video-url": "http://vimeo.com/1234567",
+        "repo-url": "https: //github.com/Johannesproximo/Das-Blutende-Plakat",
+        "abstract": "The bleeding Poster change is view if someone receive an short message or a call next to the poster. The increasing of electromagnetic waves trigger the poster and it is going to start bleeding and reveals a pictogram."
       }
     },
     {
