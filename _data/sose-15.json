@@ -1,7 +1,7 @@
 {
-  "comments": "Abgegeben haben Christopher, Fabian, Johannes, Joseph, Lukas, Jonas und Paul, davon sind nicht valide Johannes & Lukas. Fabian hat doofe Bildernamen",
-  "students": [
-    {
+    "comments": "Abgegeben haben Christopher, Fabian, Johannes, Joseph, Lukas, Jonas und Paul, davon sind nicht valide Lukas.",
+    "students": [
+        {
       "author": "Laura Russ",
       "github": "deefruoydaeh",
       "url": "https://github.com/deefruoydaeh",
@@ -35,210 +35,210 @@
         "abstract": "I was curious about the idea to construct a moving painting, adjusted to parameters of the room or the people like noise, light and movement. So I created a semi three dimensional on purpose kitschig and classic landscape in romantic style. The ocean moves slower or faster through an 12V engine depending on the distance of the observer by the input of an distance sensor in the front of the frame."
       }
     },
-    {
-      "author": "Christopher Klement",
-      "github": "chrisklement",
-      "url": "http://chrisklement.com",
-      "contact": "hello@chrisklement.com",
-      "repos": [
-        "algorithm",
-        "project-slime-mold",
-        "project-motor-poster"
-      ],
-      "algorithm": {
-        "title": "Project Algorithm",
-        "image": "circle-algorithm.png",
-        "thumb": "circle-algorithm-thumb.png",
-        "repo-url": "https://github.com/chrisklement/algorithm",
-        "abstract": "My first confrontation and encounter with algorithms. Initially in an analog form and afterwards into digital conversion by Processing."
-      },
-      "slime": {
-        "title": "Project Slime Mold",
-        "image": "slime-mold-ck.png",
-        "thumb": "slime-mold-ck-thumb.png",
-        "repo-url": "https://github.com/chrisklement/project-slime-mold",
-        "abstract": "My first confrontation and encounter with computer vision, based on the behavior of slime mold and the first steps with Raspberry Pi 2."
-      },
-      "motor-poster": {
-        "title": "As chance would have it",
-        "image": "interactive-game.png",
-        "thumb": "interactive-game-thumb.png",
-        "repo-url": "https://github.com/chrisklement/project-motor-poster",
-        "video-prototyp-url": "https://vimeo.com/140432923",
-        "video-url": "https://vimeo.com/140699908",
-        "abstract": "The idea of the project was to generate a random based game, in which one has the possibility to passively challenge one’s luck to win a smile.\n\nThe quote \"To play is to experiment with chance\" by Georg Philipp Friedrich von Hardenberg (1772-1801), reflects not only the basic principle of the game but also my approach to the project and the final result."
-      }
-    },
-    {
-      "author": "Fabian Dinklage",
-      "github": "fdnklg",
-      "url": "fabiandinklage.com",
-      "contact": "mail@fabiandinklage.com",
-      "repos": [
-        "projectAlgorithm",
-        "projectSlimeMold",
-        "projectMotorPoster"
-      ],
-      "algorithm": {
-        "title": "algorithm heat wax",
-        "image": "ldr-1.png",
-        "thumb": "ldr-1-thumb.png",
-        "repo-url": "https://github.com/fdnklg/projectAlgorithm",
-        "abstract": "The core of the analog version of the algorithm is the generation of random wax drops on paper based on the age of the executing person. The digital result is a realized with python in processing and the openCV library. OpenCV’s blob detection is counting every blob and draws some scaled contours around it."
-      },
-      "slime": {
-        "title": "slime mold emma",
-        "image": "ldr-2.png",
-        "thumb": "ldr-2-thumb.png",
-        "repo-url": "https://github.com/fdnklg/projectSlimeMold",
-        "abstract": "The Idea is influenced by the organic shapes which resulted in the first project. The analysis of the video material ist based on the number of bright pixels counted in every taken picture of the slime mold. The collected data affects the dimensions of the animation in the final result. The geometric elliptical shape is based on the superformula, which was invented 1997. The purpose is the generalization all kinds of elliptical forms. The dataset transforms the ellipsis over time and thus visualizes the growth of the slime mold."
-      },
-      "motor-poster": {
-        "title": "draw me a guiloché",
-        "image": "ldr-3.png",
-        "thumb": "ldr-3-thumb.png",
-        "repo-url": "https://github.com/fdnklg/projectMotorPoster",
-        "video-prototyp-url": "https://vimeo.com/131745694",
-        "video-url": "https://vimeo.com/134408546",
-        "abstract": "The drawing machine realized the idea of transforming the earlier computer generated elliptic patterns into the analog world with using classic tools like pen and paper."
-      }
-    },
-    {
-      "author": "Johannes Leick",
-      "github": "Johannesproximo",
-      "url": "https://www.facebook.com/johannes.leick",
-      "contact": "Johannes.Leick@gmx.de",
-      "repos": [
-        "Masken",
-        "Das-Blutende-Plakat",
-        "Pille-der-Schleimpilz"
-      ],
-      "algorithm": {
-        "title": "Masken",
-        "image": "Masken-1.png",
-        "thumb": "Masken-1-thumb.png",
-        "repo-url": "https://github.com/Johannesproximo/Masken",
-        "abstract": "The projekt Mask(masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks."
-      },
-      "slime": {
-        "title": "Pille-der-Schleimpilz",
-        "image": "Pille-2.png",
-        "thumb": "Pille-2-thumb.png",
-        "repo-url": "https://github.com/Johannesproximo/Pille-der-Schleimpilz",
-        "abstract": "Pille the slim mold (Physarum polycephalum) is a project. There I try to influent the growing of a slim mold (shape, color), to create sign with help of the mushroom and record the process in a time laps. After that we try to edit the time Lapps Clip with Processing, OpenCV and try to work out a nice growing visualization."
-      },
-      "motor-poster": {
-        "title": "Das-Blutende-Plakat",
-        "image": "Blut-3.png",
-        "thumb": "Blut-3-thumb.png",
-        "video-prototyp-url": "http://vimeo.com/1234567",
-        "video-url": "http://vimeo.com/1234567",
-        "repo-url": "https: //github.com/Johannesproximo/Das-Blutende-Plakat",
-        "abstract": "The bleeding Poster change is view if someone receive an short message or a call next to the poster. The increasing of electromagnetic waves trigger the poster and it is going to start bleeding and reveals a pictogram."
-      }
-    },
-    {
-      "author": "Jonas Köpfer",
-      "github": "topada",
-      "url": "http://twitter.com/topada",
-      "contact": "info@topada.de",
-      "repos": [
-        "FHP-IO-topolade-algorithm",
-        "FHP-IO-galton-board-physarum",
-        "FHP-IO-motor-poster-schau"
-      ],
-      "algorithm": {
-        "title": "topolade algorithm",
-        "image": "io_1_visual.png",
-        "thumb": "io_1_visual-thumb.png",
-        "repo-url": "https://github.com/topada/FHP-IO-topolade-algorithm",
-        "abstract": "topolade is a minimalistic algorithm for processing, developed from a pen and paper algorithm, with a sweet secret."
-      },
-      "slime": {
-        "title": "galton board physarum",
-        "image": "io_2_visual.png",
-        "thumb": "io_2_visual-thumb.png",
-        "repo-url": "https://github.com/topada/FHP-IO-galton-board-physarum",
-        "abstract": "the galton board physarum experiment deals with an exceptional entity in a petri dish, probability distribution, DSLRs controlled by raspberriPis and maybe the next bitcoin casino?"
-      },
-      "motor-poster": {
-        "title": "motor poster schau",
-        "image": "io_3_visual.png",
-        "thumb": "io_3_visual-thumb.png",
-        "repo-url": "https://github.com/topada/FHP-IO-motor-poster-schau",
-        "video-prototyp-url": "https://vimeo.com/130937774",
-        "video-url": "https://vimeo.com/140973301",
-        "abstract": "The Look in the mirror as a rule reflects a mirrored selection of reality. The view of one's reflection is a concentrated and focused moment of affinity. In my installation the relationship between affinity and distance is put to the test and a familiar selection of reality is disturbed."
-      }
-    },
-    {
-      "author": "Joseph Ribbe",
-      "github": "Coderwelsch",
-      "url": "https://www.coderwelsch.com",
-      "contact": "social@coderwelsch.com",
-      "repos": [
-        "IO-Facebook-Analyser",
-        "IO-Zombie-Mould",
-        "IO-Motor-Poster"
-      ],
-      "algorithm": {
-        "title": "Facebook Analyser",
-        "image": "fba.png",
-        "thumb": "fba-thumb.png",
-        "repo-url": "https://github.com/Coderwelsch/IO-Facebook-Analyser/",
-        "abstract": "Browser Userscript for an experimental new element on your fb timeline."
-      },
-      "slime": {
-        "title": "Zombie Mould",
-        "image": "zm.png",
-        "thumb": "zm-thumb.png",
-        "repo-url": "https://github.com/Coderwelsch/IO-Zombie-Mould",
-        "abstract": "Storytelling of a mutated slime mould which attack the humanity."
-      },
-      "motor-poster": {
-        "title": "Slenderman Motor Poster",
-        "image": "mp.png",
-        "thumb": "mp-thumb.png",
-        "repo-url": "https://github.com/Coderwelsch/IO-Motor-Poster",
-        "video-prototyp-url": "https://vimeo.com/140646572",
-        "video-url": "https://vimeo.com/140646572",
-        "abstract": "An analogue wallpaper animation inspired by slenderman."
-      }
-    },
-    {
-      "author": "Paul Roemer",
-      "github": "back280",
-      "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-      "contact": "emile80@gmx.de",
-      "repos": [
-        "Algorithm",
-        "Fox Moulder",
-        "Flip Board"
-      ],
-      "algorithm": {
-        "title": "Algorithm",
-        "image": "algorithm.png",
-        "thumb": "algorithm-thumb.png",
-        "repo-url": "https://github.com/back280/IO-SoSe-2015-algorithm",
-        "abstract": "Our first challenge was to create a written instruction precise as much as possible, executed by ten different people, in order to generate an analog visual output."
-      },
-      "slime": {
-        "title": "Fox Moulder",
-        "image": "fox_moulder.png",
-        "thumb": "fox_moulder-thumb.png",
-        "repo-url": "https://github.com/back280/IO-SoSe-2015-fox-moulder",
-        "video-url": "https://vimeo.com/140404801",
-        "abstract": "As a result of our project we had to create a time lapse video of a slime mold, analyzed with OpenCv and generate a visual output."
-      },
-      "motor-poster": {
-        "title": "Flip Board",
-        "image": "flip_board.png",
-        "thumb": "flip_board-thumb.png",
-        "repo-url": "https://github.com/back280/IO-SoSe-2015-flip-board",
-        "video-prototyp-url": "https://vimeo.com/140693150",
-        "video-url": "https://vimeo.com/140819453",
-        "abstract": "Devise a motor poster made of electronic scrap, that reacts on the viewers passive behavior."
-      }
-    }
-  ]
+        {
+            "author": "Christopher Klement",
+            "github": "chrisklement",
+            "url": "http://chrisklement.com",
+            "contact": "hello@chrisklement.com",
+            "repos": [
+                "algorithm",
+                "project-slime-mold",
+                "project-motor-poster"
+            ],
+            "algorithm": {
+                "title": "Project Algorithm",
+                "image": "circle-algorithm.png",
+                "thumb": "circle-algorithm-thumb.png",
+                "repo-url": "https://github.com/chrisklement/algorithm",
+                "abstract": "My first confrontation and encounter with algorithms. Initially in an analog form and afterwards into digital conversion by Processing."
+            },
+            "slime": {
+                "title": "Project Slime Mold",
+                "image": "slime-mold-ck.png",
+                "thumb": "slime-mold-ck-thumb.png",
+                "repo-url": "https://github.com/chrisklement/project-slime-mold",
+                "abstract": "My first confrontation and encounter with computer vision, based on the behavior of slime mold and the first steps with Raspberry Pi 2."
+            },
+            "motor-poster": {
+                "title": "As chance would have it",
+                "image": "interactive-game.png",
+                "thumb": "interactive-game-thumb.png",
+                "repo-url": "https://github.com/chrisklement/project-motor-poster",
+                "video-prototyp-url": "https://vimeo.com/140432923",
+                "video-url": "https://vimeo.com/140699908",
+                "abstract": "The idea of the project was to generate a random based game, in which one has the possibility to passively challenge one’s luck to win a smile.\n\nThe quote \"To play is to experiment with chance\" by Georg Philipp Friedrich von Hardenberg (1772-1801), reflects not only the basic principle of the game but also my approach to the project and the final result."
+            }
+        },
+        {
+            "author": "Fabian Dinklage",
+            "github": "fdnklg",
+            "url": "fabiandinklage.com",
+            "contact": "mail@fabiandinklage.com",
+            "repos": [
+                "projectAlgorithm",
+                "projectSlimeMold",
+                "projectMotorPoster"
+            ],
+            "algorithm": {
+                "title": "algorithm heat wax",
+                "image": "ldr-1.png",
+                "thumb": "ldr-1-thumb.png",
+                "repo-url": "https://github.com/fdnklg/projectAlgorithm",
+                "abstract": "The core of the analog version of the algorithm is the generation of random wax drops on paper based on the age of the executing person. The digital result is a realized with python in processing and the openCV library. OpenCV’s blob detection is counting every blob and draws some scaled contours around it."
+            },
+            "slime": {
+                "title": "slime mold emma",
+                "image": "ldr-2.png",
+                "thumb": "ldr-2-thumb.png",
+                "repo-url": "https://github.com/fdnklg/projectSlimeMold",
+                "abstract": "The Idea is influenced by the organic shapes which resulted in the first project. The analysis of the video material ist based on the number of bright pixels counted in every taken picture of the slime mold. The collected data affects the dimensions of the animation in the final result. The geometric elliptical shape is based on the superformula, which was invented 1997. The purpose is the generalization all kinds of elliptical forms. The dataset transforms the ellipsis over time and thus visualizes the growth of the slime mold."
+            },
+            "motor-poster": {
+                "title": "draw me a guiloché",
+                "image": "ldr-3.png",
+                "thumb": "ldr-3-thumb.png",
+                "repo-url": "https://github.com/fdnklg/projectMotorPoster",
+                "video-prototyp-url": "https://vimeo.com/131745694",
+                "video-url": "https://vimeo.com/134408546",
+                "abstract": "The drawing machine realized the idea of transforming the earlier computer generated elliptic patterns into the analog world with using classic tools like pen and paper."
+            }
+        },
+        {
+            "author": "Johannes Leick",
+            "github": "Johannesproximo",
+            "url": "https://www.facebook.com/johannes.leick",
+            "contact": "Johannes.Leick@gmx.de",
+            "repos": [
+                "Masken",
+                "Das-Blutende-Plakat",
+                "Pille-der-Schleimpilz"
+            ],
+            "algorithm": {
+                "title": "Masken",
+                "image": "Masken-1.png",
+                "thumb": "Masken-1-thumb.png",
+                "repo-url": "https://github.com/Johannesproximo/Masken",
+                "abstract": "The projekt \"Mask\" (masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks."
+            },
+            "slime": {
+                "title": "Pille-der-Schleimpilz",
+                "image": "Pille-2.png",
+                "thumb": "Pille-2-thumb.png",
+                "repo-url": "https://github.com/Johannesproximo/Pille-der-Schleimpilz",
+                "abstract": "Pille the slim mold (Physarum polycephalum) is a project. There I try to influent the growing of a slim mold (shape, color), to create sign with help of the mushroom and record the process in a time laps. After that we try to edit the time Lapps Clip with Processing, OpenCV and try to work out a nice growing visualization."
+            },
+            "motor-poster": {
+                "title": "Das-Blutende-Plakat",
+                "image": "Blut-3.png",
+                "thumb": "Blut-3-thumb.png",
+                "video-prototyp-url": "https://youtu.be/S5B_It3qDpU",
+                "video-url": "https://youtu.be/S5B_It3qDpU",
+                "repo-url": "https: //github.com/Johannesproximo/Das-Blutende-Plakat",
+                "abstract": "The bleeding Poster change is view if someone receive an short message or a call next to the poster. The increasing of electromagnetic waves trigger the poster and it is going to start bleeding and reveals a pictogram."
+            }
+        },
+        {
+            "author": "Jonas Köpfer",
+            "github": "topada",
+            "url": "http://twitter.com/topada",
+            "contact": "info@topada.de",
+            "repos": [
+                "FHP-IO-topolade-algorithm",
+                "FHP-IO-galton-board-physarum",
+                "FHP-IO-motor-poster-schau"
+            ],
+            "algorithm": {
+                "title": "topolade algorithm",
+                "image": "io_1_visual.png",
+                "thumb": "io_1_visual-thumb.png",
+                "repo-url": "https://github.com/topada/FHP-IO-topolade-algorithm",
+                "abstract": "topolade is a minimalistic algorithm for processing, developed from a pen and paper algorithm, with a sweet secret."
+            },
+            "slime": {
+                "title": "galton board physarum",
+                "image": "io_2_visual.png",
+                "thumb": "io_2_visual-thumb.png",
+                "repo-url": "https://github.com/topada/FHP-IO-galton-board-physarum",
+                "abstract": "the galton board physarum experiment deals with an exceptional entity in a petri dish, probability distribution, DSLRs controlled by raspberriPis and maybe the next bitcoin casino?"
+            },
+            "motor-poster": {
+                "title": "motor poster schau",
+                "image": "io_3_visual.png",
+                "thumb": "io_3_visual-thumb.png",
+                "repo-url": "https://github.com/topada/FHP-IO-motor-poster-schau",
+                "video-prototyp-url": "https://vimeo.com/130937774",
+                "video-url": "https://vimeo.com/140973301",
+                "abstract": "The Look in the mirror as a rule reflects a mirrored selection of reality. The view of one's reflection is a concentrated and focused moment of affinity. In my installation the relationship between affinity and distance is put to the test and a familiar selection of reality is disturbed."
+            }
+        },
+        {
+            "author": "Joseph Ribbe",
+            "github": "Coderwelsch",
+            "url": "https://www.coderwelsch.com",
+            "contact": "social@coderwelsch.com",
+            "repos": [
+                "IO-Facebook-Analyser",
+                "IO-Zombie-Mould",
+                "IO-Motor-Poster"
+            ],
+            "algorithm": {
+                "title": "Facebook Analyser",
+                "image": "fba.png",
+                "thumb": "fba-thumb.png",
+                "repo-url": "https://github.com/Coderwelsch/IO-Facebook-Analyser/",
+                "abstract": "Browser Userscript for an experimental new element on your fb timeline."
+            },
+            "slime": {
+                "title": "Zombie Mould",
+                "image": "zm.png",
+                "thumb": "zm-thumb.png",
+                "repo-url": "https://github.com/Coderwelsch/IO-Zombie-Mould",
+                "abstract": "Storytelling of a mutated slime mould which attack the humanity."
+            },
+            "motor-poster": {
+                "title": "Slenderman Motor Poster",
+                "image": "mp.png",
+                "thumb": "mp-thumb.png",
+                "repo-url": "https://github.com/Coderwelsch/IO-Motor-Poster",
+                "video-prototyp-url": "https://vimeo.com/140646572",
+                "video-url": "https://vimeo.com/140646572",
+                "abstract": "An analogue wallpaper animation inspired by slenderman."
+            }
+        },
+        {
+            "author": "Paul Roemer",
+            "github": "back280",
+            "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
+            "contact": "emile80@gmx.de",
+            "repos": [
+                "Algorithm",
+                "Fox Moulder",
+                "Flip Board"
+            ],
+            "algorithm": {
+                "title": "Algorithm",
+                "image": "algorithm.png",
+                "thumb": "algorithm-thumb.png",
+                "repo-url": "https://github.com/back280/IO-SoSe-2015-algorithm",
+                "abstract": "Our first challenge was to create a written instruction precise as much as possible, executed by ten different people, in order to generate an analog visual output."
+            },
+            "slime": {
+                "title": "Fox Moulder",
+                "image": "fox_moulder.png",
+                "thumb": "fox_moulder-thumb.png",
+                "repo-url": "https://github.com/back280/IO-SoSe-2015-fox-moulder",
+                "video-url": "https://vimeo.com/140404801",
+                "abstract": "As a result of our project we had to create a time lapse video of a slime mold, analyzed with OpenCv and generate a visual output."
+            },
+            "motor-poster": {
+                "title": "Flip Board",
+                "image": "flip_board.png",
+                "thumb": "flip_board-thumb.png",
+                "repo-url": "https://github.com/back280/IO-SoSe-2015-flip-board",
+                "video-prototyp-url": "https://vimeo.com/140693150",
+                "video-url": "https://vimeo.com/140819453",
+                "abstract": "Devise a motor poster made of electronic scrap, that reacts on the viewers passive behavior."
+            }
+        }
+    ]
 }
