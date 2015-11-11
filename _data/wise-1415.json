@@ -1,5 +1,59 @@
 {"students":[
 {
+  "author": "Christin Rothe",
+  "github": "christinrothe",
+  "url": "https://gist.github.com/christinrothe",
+  "repos": [
+    "https://github.com/christinrothe/Genotyp",
+    "https://github.com/christinrothe/hometownexodus",
+    "https://github.com/christinrothe/color_detect"
+  ],
+  "algorithm": {
+    "title": "harmonograph",
+    "url": "http://gist.github.com/1234567",
+    "images": [
+      "frame17943129-01.png",
+      "frame17403038240-01.png",
+      "frame17403240236-01.png",
+"frame17403543238-01.png",
+"frame17403644239-01.png"
+
+    ],
+   "thumb": [
+      "frame17943129-01-thumb.png",
+      "frame17403038240-01-thumb.png",
+"frame17403543238-01-thumb.png",
+"frame17403644239-01-thumb.png"
+    ],
+    "abstract": "The program draws patterns based on the equations of two coupled harmonic oscilators for each axis many times per second. While it draws, it changes the parameters of the harmonic oscilator, so there are complex images created out of a single line."
+  },
+  "crowd": {
+    "survey_url": "https://christinrothe.typeform.com/to/gaj8RQ",
+    "result_url": "https://a.tiles.mapbox.com/v4/christinrothe.m9o44heo/page.html?access_token=pk.eyJ1IjoiY2hyaXN0aW5yb3RoZSIsImEiOiJjeWlIcTVrIn0.VAfTo2IntMYBMcy_AmrJ8Q#2/46.0/36.6",
+    "title": "Hometown Exodus",
+    "image": [
+      "HometownExodus.png"
+    ],
+    "thumb": [
+      "HometownExodus-thumb.png"
+    ],
+    "abstract": "'Most of the young people that go to college go away, and then they don't come back[...]' - Lee Bianchi. Why do they leave, where do they go & do they come back?"
+  },
+  "bits": {
+    "video_url": "https://vimeo.com/143515553",
+    "title": "Tt155",
+    "images": [
+      "IMG_0932.png",
+      "DSC00920.2.png"
+    ],
+    "thumb": [
+      "IMG_0932-thumb.png",
+      "DSC00920.2-thumb.png"
+    ],
+    "abstract": "The Tt155 decides, based on its own taste, to whom it wants to show attention"
+  }
+},
+{
   "author": "Alvaro Garcia",
   "github": "varusgarcia",
   "url": "https://github.com/varusgarcia",
