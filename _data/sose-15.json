@@ -266,8 +266,8 @@
           },
           "motor-poster": {
             "title": "selective candy machine",
-            "image": "io-candy.png",
-            "thumb": "io-candy-thumb.png",
+            "image": "io-candymachine.png",
+            "thumb": "io-candymachine-thumb.png",
             "repo-url": "https://github.com/Rosaplankton/selective-candy-machine",
             "video-prototyp-url": "https://vimeo.com/143316854",
             "video-url": "https://vimeo.com/143266239",
