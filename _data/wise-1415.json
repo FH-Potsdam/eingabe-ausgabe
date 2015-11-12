@@ -111,15 +111,15 @@
 {
   "author": "Christin Rothe",
   "github": "christinrothe",
-  "url": "https://gist.github.com/christinrothe",
+  "url": "https://github.com/christinrothe",
   "repos": [
-    "https://github.com/christinrothe/Genotyp",
-    "https://github.com/christinrothe/hometownexodus",
-    "https://github.com/christinrothe/color_detect"
+    "Genotyp",
+    "hometownexodus",
+    "color_detect"
   ],
   "algorithm": {
     "title": "harmonograph",
-    "url": "http://gist.github.com/1234567",
+    "url": "https://github.com/christinrothe/harmonograph",
     "images": [
       "frame17943129-01.png",
       "frame17403038240-01.png",
