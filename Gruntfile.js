@@ -41,7 +41,30 @@ module.exports = function(grunt) {
         files: '<%= jshint.gruntfile.src %>',
         tasks: ['jshint:gruntfile']
       },
+    },
+
+    cssmin: {
+  options: {
+    shorthandCompacting: false,
+    roundingPrecision: -1
+  },
+  target: {
+    files: {
+      'css/main.min.css': ['bower_components/bootstrap/dist/css/bootstrap.css','bower_components/bootstrap-material-design/dist/css/material.css','bower_components/bootstrap-material-design/dist/css/ripples.css','bower_components/fontawesome/css/font-awesome.css','css/main-1415.css','css/pdxiii.css']
     }
+  }
+},
+ uglify: {
+    options: {
+      mangle: false
+    },
+    my_target: {
+      files: {
+        'js/main.min.js': ['bower_components/jquery/dist/jquery.js', 'bower_components/bootstrap/dist/js/bootstrap.js', 'bower_components/holderjs/holder.js', 'bower_components/bootstrap-material-design/dist/js/material.js', 'bower_components/bootstrap-material-design/dist/js/ripples.js', 'js/jquery.fittext.js', 'js/shuffle.js', 'js/main-1415.js']
+      }
+    }
+  }
+
   });
 
   grunt.registerTask('bower-install', ['wiredep']);
