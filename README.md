@@ -1,22 +1,26 @@
-##Grundlagen der Prozessorientierten Gestaltung.
-Gestaltung wird zunehmend dynamisch-partizipativ. Digitale, generative und interaktive Prozesse finden sich bei der Gestaltung von digitalen Medien, Kommunikationsprozessen und Produkten (in Produktion &amp; Nutzung). Im Zentrum der Gestaltung steht dabei das Planen, Antizipieren und Implementieren emergenter Systeme basierend auf natürlichen technologischen und sozialen Prozessen.  
-In diesem Kurs werden die grundlegenden Kompetenzen und Möglichkeiten der prozessorientierten Gestaltung in einer Reihe von gestalterischen Übungen und Analysen vermittelt und gemeinsam erarbeitet. Es gibt einen breiten Überblick über Facetten, Methoden und Werkzeuge sowie Einblicke in die elementaren handwerklich-technischen Verfahren und Konzepte der prozessorientierten Gestaltung. Dabei findet eine künstlerisch-gestalterische Auseinandersetzung mit den entsprechenden Technologien statt.  
-Die Übungen bilden einen Querschnitt aus den Themenbereichen:
-  
-- Generative Gestaltung. Analog und digital (Einsatz der Processing Plattform)  
-- Physical Computing. (Einsatz der Arduino Plattform)  
-- Digitale Kultur. Möglichkeiten des Webs und Einsatz von Web-Technologien  
-- Partizipative Gestaltung. Teilhabe und User Generated Content.  
+Input Output (Eingabe Ausgabe)
+=============================
 
-sources and tech:  
+Fundamentals of process-oriented design.
+Design is increasingly dynamic and participatory. Digital, generative and interactive processes can be found in the design of digital media, communication processes and products (in production & use). In the center of the design the focus is planning, anticipating and implementing emergent systems based on natural technological and social processes. In this course the basic skills and possibilities of process-oriented design are analyzed and developed in a number of creative exercises. It is a broad overview of facets, methods and tools, as well as insights into the elementary handicraft and technical procedures and concepts of process-oriented design. An artistic and creative engagement with the corresponding technologies takes place.
 
-- [Photoshop bg](http://deiby.deviantart.com/art/Photoshop-Transparency-Pattern-209127798)  
-- [Font-Awesome](https://fortawesome.github.io/Font-Awesome/)
-- [fontawesome bootstrap cheatset](http://fontawesome.bootstrapcheatsheets.com/)  
+The exercises represent a cross-section of the following topics:
+
+Generative Design. Analog and digital using the Processing platform
+Physical Computing. Using the Arduino & Raspberry Pi platforms
+Digital culture. Possibilities of the Web and use of web technologies
+Participatory design. Participation and user-generated content.
+Bio design. Designing with living organisms.
+A Seminar by Mey Lean Konemann, Lisa Charlotte Rost, Cedirc Kiefer, Jonas Loh, Benedikt Groß and Fabian Morón Zirfas from the wintersemster 2014/2015 till summersemester 2015/2016 at the Interface Design Department of the University of Applied Sciences Potsdam (Germany) based on works by Monika Hoinkis.
+
+### What is in here?  
+
+This is the source for the jekyll powerd site. See [https://interface.fh-potsdam.de/eingabe-ausgabe](https://interface.fh-potsdam.de/eingabe-ausgabe/) for all the results.  
+
 ##License  
 
 The MIT License (MIT)
-Copyright © 2014 FH-Potsdam & Fabian Morón Zirfas
+Copyright © 2014 - 2015 FH-Potsdam & Fabian Morón Zirfas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
