@@ -273,6 +273,43 @@
             "video-url": "https://vimeo.com/143266239",
             "abstract": "This candy machine is different. Not everyone will get a sweet. Instead of a coin slot there are 2 infrared sensors and a little bit of code. So the machine decides whom to offer something. The human input is passive. But once you know which parameters are important, the input can become active. Playfully people will lern, that candies will be given to children and denied to adults. Since everyone of us should preserve its inner child, the machine can be outsmarted :) Just put yourselve to the same eye level as a child... "
           }
-        }
+        },
+           {
+      "author": "Frederic Haase",
+      "github": "Barcula",
+      "url": "https://www.facebook.com/frederic.haase",
+      "contact": "frederic.haase1@gmx.de",
+      "repos": [
+        "orderlychaos",
+        "analog-algorithm",
+        "digital-algorithm",
+        "generative-Logo",
+        "Colour-Picker",
+        "Keep Movin"
+      ],
+      "algorithm": {
+        "title": "orderlychaos",
+        "image": "janalog.png",
+        "thumb": "janalog-thumb.png",
+        "repo-url": "https://github.com/barcula/orderlychaos",
+        "abstract": " I was realy satisfied with the results i receved. The algorithm was explicated mostly right and looked like the images i had in mind. I could manage that the images do not all look the same but it is still clear that all the people who put the alorithm into execution had the same task."
+      },
+      "slime": {
+        "title": "Color picker",
+        "image": "jasonpilz.png",
+        "thumb": "jasonpilz-thumb.png",
+        "repo-url": "https://github.com/barcula/Slimemould",
+        "abstract": " This experiment did not work as i wanted but i still could extract some information. The food colour might not was the right colour. In both experiments the blue coulor was not really attractive for the slime mold. It was more like he was avoiding it instead. The red coulor was quite similar.It did not destroy him, but the slime mold wanted to go to an other source of food which was much far away. As you can see in the movie the only coulor was yellow (witch is actualy it`s own colour)witch was not avoided. I think it was realy interesting to work with this remarkable living thing. If i had more time for experiments like this i might have had results with more force of expression. All in all it was real fun. Thanks to Fabian Morón Zirfas for this innovative idea."
+      },
+      "motor-poster": {
+        "title": "Keep movin",
+        "image": "jasonmotor.png",
+        "thumb": "jasonmotor-thumb.png",
+        "repro-url": "https://github.com/barcula/Motorposter",
+        "video-prototyp-url": "https://vimeo.com/140432914",
+        "video-url": "https://vimeo.com/145441502",
+        "abstract": "The idea of my project was to surprise the viewer with the help of an illusion. For this i used the morales effekt (6 frame anmitaion) especially because it works with movement. wich is a central topic in the modern society. Everything is getting faster, more precise and effektive. The human beeing always has to work  directly like a machine  at it`s best 24 hours a day. The human is in movement everytime to follow his aims. The question is if people still have the ability to follow their realy dreams and if they run after something with never had existed."
+      }
+    }
     ]
 }
