@@ -310,6 +310,38 @@
         "video-url": "https://vimeo.com/145441502",
         "abstract": "The idea of my project was to surprise the viewer with the help of an illusion. For this i used the morales effekt (6 frame anmitaion) especially because it works with movement. wich is a central topic in the modern society. Everything is getting faster, more precise and effektive. The human beeing always has to work  directly like a machine  at it`s best 24 hours a day. The human is in movement everytime to follow his aims. The question is if people still have the ability to follow their realy dreams and if they run after something with never had existed."
       }
+    },{   "author": "Lukas Schmidt-Wiegand",
+    "github": "lukasLump",
+    "url": "-",
+    "contact": "lukas.schmidt.wiegand@gmail.com",
+    "repos": [
+        "project_algorithm_BlockParty",
+        "project_slime_mold_Schleimer",
+        "project_motorPoster_creepyEyes"
+    ],
+    "algorithm": {
+        "title": "project_algorithm_BlockParty",
+        "image": "Blockz.png",
+        "thumb": "Blockz-thumb.png",
+        "repo-url": "https://github.com/lukasLump/project_algorithm_BlockParty",
+        "abstract": "This is an algorithm for Rhino 3D. The Model can be rendered as a lamp with light sources inside."
+    },
+    "slime": {
+        "title": "project_slime_mold_Schleimer",
+        "image": "schleim.png",
+        "thumb": "schleim-thumb.png",
+        "repo-url": "https://github.com/lukasLump/project_slime_mold_Schleimer",
+        "abstract": "The result shows the path the slime mold goes in many small lines"
+    },
+    "motor-poster": {
+        "title": "project_motorPoster_creepyEyes",
+        "image": "creepy.png",
+        "thumb": "creepy-thumb.png",
+        "repo-url": "https://github.com/lukasLump/project_motorPoster_creepyEyes",
+        "video-prototyp-url": "https://vimeo.com/137488397",
+        "video-url": "https://vimeo.com/143317630",
+        "abstract": "The first idea that i followed in this project was to built a machine which uses a webcam and open_CV as the input sensor.  The second idea was to build something and hide the camera, somthing like a drawing. It should be somehow mystical and creepy, like a drawing with lots of eyes, and one of them allways focusing on you."
     }
+}
     ]
 }
