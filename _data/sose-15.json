@@ -342,6 +342,40 @@
         "video-url": "https://vimeo.com/143317630",
         "abstract": "The first idea that i followed in this project was to built a machine which uses a webcam and open_CV as the input sensor.  The second idea was to build something and hide the camera, somthing like a drawing. It should be somehow mystical and creepy, like a drawing with lots of eyes, and one of them allways focusing on you."
     }
+},{
+  "author": "Christian Pflug",
+  "github": "Wetterprophet",
+  "url": "http://www.design-research-lab.org/persons/christian-pflug/",
+  "contact":"christian.pflug@fh-potsdam.de",
+  "repos": [
+    "1-zickzack_algorithm",
+    "2-raspi_slime",
+    "3-time"
+  ],
+  "algorithm": {
+    "title": "1-zickzack_algorithm",
+    "image": "1-zickzack_algorithm.png",
+    "thumb": "1-zickzack_algorithm_thumb.png",
+    "repo-url": "http://github.com/Wetterprophet/1-zickzack_algorithm",
+    "abstract": "Learning how to use people as machines and machines for people"
+  },
+  "slime": {
+    "title": "2-raspi_slime",
+    "image": "2-raspi_slime.jpg",
+    "thumb": "2-raspi_slime_thumb.jpg",
+    "repo-url": "http://github.com/Wetterprophet/2-raspi_slime",
+    "abstract": "Caring for moldy slime while making machines move and see"
+  },
+  "motor-poster": {
+    "title": "3-time",
+    "image": "3-time.jpg",
+    "thumb": "3-time_thumb.jpg",
+    "repo-url": "http://github.com/Wetterprophet/3-time",
+    "video-prototyp-url": "https://youtu.be/PPYRvcvhrKY",
+    "video-url": "https://youtu.be/W7kSvQBic5w",
+    "abstract": "Kill your darlings: Sometimes, when there's no time left, you just have to take your time and start all over."
+  }
 }
+
     ]
 }
