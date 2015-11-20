@@ -166,7 +166,7 @@
 {
   "author": "Fabian Schultz",
   "github": "fabe",
-  "url": "https://fabianschultz.com",
+  "url": "http://fabianschultz.com",
   "twitter":"@fschultz_",
   "repos": [
     "abstract-weather",
@@ -189,7 +189,7 @@
   },
   "crowd": {
     "survey_url": "http://goo.gl/forms/yZohKnLOe7",
-    "result_url": "https://fabianschultz.com/media-consumption/",
+    "result_url": "http://fabianschultz.com/media-consumption/",
     "title": "On Media Consumption",
     "image": "media-01.png",
     "thumb": "media-01-thumb.png",
