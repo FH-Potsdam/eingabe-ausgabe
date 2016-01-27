@@ -1,21 +1,30 @@
 ---
 layout: default
-title: winter semester 14/15
+title: winter semester 15/16
 ---
 
 <!-- This is the intor section -->
 <div class="row">
     <div class="col-md-8 col-md-offset-2">
         <div class="well">
-                {% include home.html %}
-
+        {% include home.html %}
             <h1 id="headline">
                 {{ page.title }}
             </h1>
             <img src="{{ site.baseurl }}/images/ldr.png" alt=" " class="img-responsive" id="chart">
             <p class="hello">
-                These are the results from the winter semester 2014/2015. The seminar was split into 3 projects.
+                This semester is still in progress. The results should be here around mid of April 2016. Until then you can browse the older projects:
+            <ul>
+                <li>
+                    the winter semester 2014/2015 <a href="{{ site.baseurl }}/2014-2015">here <i class="fa fa-arrow-circle-right"></i></a>
+                </li>
+                <li>
+                    the summer semester 2015 <a href="{{ site.baseurl }}/2015">here <i class="fa fa-arrow-circle-right"></i></a>
+                </li>
+            </ul>
+                <!-- These are the results from the winter semester 2014/2015. The seminar was split into 3 projects. -->
             </p>
+{% comment %}
             <ol>
                 <li>
                     <a href="#algo">algorithmic pattern generator</a>
@@ -40,9 +49,13 @@ title: winter semester 14/15
             <p>
                 It will be fun. We promise <i class="fa fa-smile-o"></i>.
             </p>
+{% endcomment %}
+
         </div>
     </div>
 </div>
+{% comment %}
+
 <!-- this is the people section -->
 <div class="row" id="people">
     <div class="col-md-8 col-md-offset-2" >
@@ -172,3 +185,5 @@ title: winter semester 14/15
         {% endfor %}
     </div>
 </div>
+
+{% endcomment %}
