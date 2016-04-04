@@ -62,7 +62,7 @@ title: winter semester 15/16
                 </div>
             </div>
                 <div class="hidden-sm hidden-md hidden-lg">
-                {% include person.html %}
+                {% include person1516.html %}
                 </div>
         </div>
     {% endfor %}
@@ -120,8 +120,8 @@ title: winter semester 15/16
 <div class="row" id="crowd">
     <div class="col-md-8 col-md-offset-2 intro">
         <div class="media well">
-            <h2>Crowdsourcing Data</h2>
-            <p>For this project the students had to create a online survey to gather some data. This data should then be represented in an interactive graphic.</p>{% for student in site.data.wise-1516.students %}<a href="#{{ student.iss.title | make_web_friendly }}"><img src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
+            <h2>International Space Station</h2>
+            <p>For this project the students had to create a data visualization about the ISS.</p>{% for student in site.data.wise-1516.students %}<a href="#{{ student.iss.title | make_web_friendly }}"><img src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
     </div>
 </div>
 <div class="row">
