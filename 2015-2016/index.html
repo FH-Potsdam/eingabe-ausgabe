@@ -3,7 +3,7 @@ layout: default
 title: winter semester 15/16
 ---
 
-<!-- This is the intor section -->
+<!-- This is the intro section -->
 <div class="row">
     <div class="col-md-8 col-md-offset-2">
         <div class="well">
@@ -11,26 +11,16 @@ title: winter semester 15/16
             <h1 id="headline">
                 {{ page.title }}
             </h1>
-            <img src="{{ site.baseurl }}/images/ldr.png" alt=" " class="img-responsive" id="chart">
+            <img src="{{ site.baseurl }}/images/ldr/ldr-800w.png" alt=" " class="img-responsive" id="chart">
             <p class="hello">
-                This semester is still in progress. The results should be here around mid of April 2016. Until then you can browse the older projects:
-            <ul>
-                <li>
-                    the winter semester 2014/2015 <a href="{{ site.baseurl }}/2014-2015">here <i class="fa fa-arrow-circle-right"></i></a>
-                </li>
-                <li>
-                    the summer semester 2015 <a href="{{ site.baseurl }}/2015">here <i class="fa fa-arrow-circle-right"></i></a>
-                </li>
-            </ul>
-                <!-- These are the results from the winter semester 2014/2015. The seminar was split into 3 projects. -->
+                 These are the results from the winter semester 2015/2016. The seminar was split into 3 projects.
             </p>
-{% comment %}
             <ol>
                 <li>
                     <a href="#algo">algorithmic pattern generator</a>
                 </li>
                 <li>
-                    <a href="#crowd">crowdsourcing data</a>
+                    <a href="#crowd">international space station</a>
                 </li>
                 <li>
                     <a href="#bits">physical bits</a>
@@ -40,7 +30,7 @@ title: winter semester 15/16
                 You can find all the results, videos, links, source code and images below.Take a closer look at the projects from:
             </p>
             <p>
-            {% for student in site.data.wise-1415.students %}{% if forloop.last == false %}
+            {% for student in site.data.wise-1516.students %}{% if forloop.last == false %}
                 <a href="#{{ student.github }}">
                     {{ student.author }}</a>{% if forloop.rindex0 != 1 %},{% endif %}{% else %} and <a href="#{{ student.github }}">{{ student.author }}</a>.
                 {% endif %}
@@ -49,17 +39,15 @@ title: winter semester 15/16
             <p>
                 It will be fun. We promise <i class="fa fa-smile-o"></i>.
             </p>
-{% endcomment %}
-
         </div>
     </div>
 </div>
-{% comment %}
+
 
 <!-- this is the people section -->
 <div class="row" id="people">
     <div class="col-md-8 col-md-offset-2" >
-    {% for student in site.data.wise-1415.students %}
+    {% for student in site.data.wise-1516.students %}
         <div class="media people well" id="{{ student.github }}">
             <a href="{{ student.url }}" class="media-left">
                 <img alt=" " src="https://avatars.githubusercontent.com/{{ student.github }}" class="hidden-xs avatars-large">
@@ -90,10 +78,10 @@ title: winter semester 15/16
             <p>
                 The task was to create an algorithm for humans and execute it several times. Iterate through the results and refine the pseudo-code. Afterwards the algorithm was ported to the Processing programming language and improved. Finally the students needed to find a use case for their algorithms.
             </p>
-            {% for student in site.data.wise-1415.students %}
+            {% for student in site.data.wise-1516.students %}
                 {% for thumb in student.algorithm.thumb %}
                 <a href="#{{ student.algorithm.title | make_web_friendly }}">
-                    <img src="{{ site.baseurl }}/images/wise-1415/{{ thumb }}" alt="..." class="img-circle img-teaser">
+                    <img src="{{ site.baseurl }}/images/wise-1516/{{ thumb }}" alt="..." class="img-circle img-teaser">
                 </a>{% endfor %}
             {% endfor %}
         </div>
@@ -101,11 +89,11 @@ title: winter semester 15/16
 </div>
 <div class="row">
     <div class="col-md-8 col-md-offset-2" >
-    {% for student in site.data.wise-1415.students %}
+    {% for student in site.data.wise-1516.students %}
         <div class="media project-algo well" id="{{ student.algorithm.title  | make_web_friendly }}">
             <a href="{{ student.algorithm.url }}" class="media-left">
-                <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.algorithm.images[0] }}" class="image hidden-xs">
-                <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.algorithm.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg">
+                <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.image }}" class="image hidden-xs">
+                <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.thumb }}" class="thumb hidden-sm hidden-md hidden-lg">
             </a>
             <div class="media-body">
                 <a href="{{ student.algorithm.url }}">
@@ -133,57 +121,35 @@ title: winter semester 15/16
     <div class="col-md-8 col-md-offset-2 intro">
         <div class="media well">
             <h2>Crowdsourcing Data</h2>
-            <p>For this project the students had to create a online survey to gather some data. This data should then be represented in an interactive graphic.</p>{% for student in site.data.wise-1415.students %}<a href="#{{ student.crowd.title | make_web_friendly }}"><img src="{{ site.baseurl }}/images/wise-1415/{{ student.crowd.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
+            <p>For this project the students had to create a online survey to gather some data. This data should then be represented in an interactive graphic.</p>{% for student in site.data.wise-1516.students %}<a href="#{{ student.iss.title | make_web_friendly }}"><img src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
     </div>
 </div>
 <div class="row">
     <div class="col-md-8 col-md-offset-2" >
-        {% for student in site.data.wise-1415.students %}
-        <div class="media project-crowd well" id="{{ student.crowd.title | make_web_friendly }}">
-            <a href="{{ student.crowd.result_url }}" class="media-left">
-            <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.crowd.image }}" class="image hidden-xs">
-            <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.crowd.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
+        {% for student in site.data.wise-1516.students %}
+        <div class="media project-crowd well" id="{{ student.iss.title | make_web_friendly }}">
+            <a href="{{ student.iss.result_url }}" class="media-left">
+            <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.image }}" class="image hidden-xs">
+            <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
             </a>
             <div class="media-body">
-                <a href="{{ student.crowd.result_url }}"><h4 class="media-heading">{{ student.crowd.title }}</h4></a>
+                <a href="{{ student.iss.result_url }}"><h4 class="media-heading">{{ student.iss.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
-                <p class="abstracts hidden-xs">{{ student.crowd.abstract }}</p>
-                <p class="abstracts hidden-xs">You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
+                <p class="abstracts hidden-xs">{{ student.iss.abstract }}</p>
             </div>
-            <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.crowd.abstract }}</p>
-                <p class="abstracts hidden-sm hidden-md hidden-lg">You can still participate. Take the survey <a href="{{ student.crowd.survey_url }}">here</a>.</p>
+            <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.iss.abstract }}</p>
         </div>
         {% endfor %}
     </div>
 </div>
-<!-- this is the bits section -->
+
+<!-- this is the transl8tr section -->
 <div class="row" id="bits">
     <div class="col-md-8 col-md-offset-2 intro">
         <div class="media well">
-            <h2>Physical Bits</h2>
-           <p> Finding binary states in the physical world was the first part of this project. The second part was to display this state change with only one flipdot.</p>
-               {% for student in site.data.wise-1415.students %}{% for thumb in student.bits.thumb %}<a href="#{{ student.bits.title  | make_web_friendly }}"><img src="{{ site.baseurl }}/images/wise-1415/{{ thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}{% endfor %}</div>
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-8 col-md-offset-2" >
-        {% for student in site.data.wise-1415.students %}
-        <div class="media project-bits well" id="{{ student.bits.title | make_web_friendly }}">
-            <a href="{{ student.bits.video_url }}" class="media-left">
-            <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.bits.images[0] }}" class="image hidden-xs">
-            <img alt=" " src="{{ site.baseurl }}/images/wise-1415/{{ student.bits.thumb[0] }}" class="thumb hidden-sm hidden-md hidden-lg "></a>
-            <div class="media-body">
-                <a href="{{ student.bits.video_url }}"><h4 class="media-heading">{{ student.bits.title }}</h4></a>
-                <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
-                <p class="abstracts hidden-xs">{{ student.bits.abstract }}</p>
-            </div>
-                <p class="abstracts hidden-sm hidden-md hidden-lg">{{ student.bits.abstract }}</p>
-
-
+            <h2>Transl8tr</h2>
+           <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
-
-        {% endfor %}
     </div>
 </div>
 
-{% endcomment %}

@@ -1,5 +1,5 @@
 name: Eingabe Ausgabe
-markdown: redcarpet
+markdown: kramdown
 highlighter: true
 baseurl: /eingabe-ausgabe
 mail: you@example.com
