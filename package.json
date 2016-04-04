@@ -28,6 +28,7 @@
     "grunt-contrib-uglify": "^0.10.1",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-wiredep": "^1.9.0",
-    "load-grunt-tasks": "^0.6.0"
+    "load-grunt-tasks": "^0.6.0",
+    "steel-ant-io-data.json": "git+https://github.com/FH-Potsdam/steel-ant-io-data.json.git"
   }
 }
