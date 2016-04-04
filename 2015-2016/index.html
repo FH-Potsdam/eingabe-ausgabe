@@ -91,12 +91,12 @@ title: winter semester 15/16
     <div class="col-md-8 col-md-offset-2" >
     {% for student in site.data.wise-1516.students %}
         <div class="media project-algo well" id="{{ student.algorithm.title  | make_web_friendly }}">
-            <a href="{{ student.algorithm.url }}" class="media-left">
+            <a href="{{ student.algorithm.repo-url }}" class="media-left">
                 <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.image }}" class="image hidden-xs">
                 <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.thumb }}" class="thumb hidden-sm hidden-md hidden-lg">
             </a>
             <div class="media-body">
-                <a href="{{ student.algorithm.url }}">
+                <a href="{{ student.algorithm.repo-url }}">
                     <h4 class="media-heading">
                         {{ student.algorithm.title }}
                     </h4>
@@ -128,12 +128,12 @@ title: winter semester 15/16
     <div class="col-md-8 col-md-offset-2" >
         {% for student in site.data.wise-1516.students %}
         <div class="media project-crowd well" id="{{ student.iss.title | make_web_friendly }}">
-            <a href="{{ student.iss.result_url }}" class="media-left">
+            <a href="{{ student.iss.repo-url }}" class="media-left">
             <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.image }}" class="image hidden-xs">
             <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
             </a>
             <div class="media-body">
-                <a href="{{ student.iss.result_url }}"><h4 class="media-heading">{{ student.iss.title }}</h4></a>
+                <a href="{{ student.iss.repo-url }}"><h4 class="media-heading">{{ student.iss.title }}</h4></a>
                 <h5>by <a href="#{{ student.github }}">{{ student.author }}</a></h5>
                 <p class="abstracts hidden-xs">{{ student.iss.abstract }}</p>
             </div>
