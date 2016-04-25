@@ -1,373 +1,367 @@
-{"students":[
-  {
-    "author": "Nikolas Ripka",
-    "github": "nikoripka",
-    "contact": "https://twitter.com/nikoripka",
-    "repos": [
-      "Einflusspunkt",
-      "ISS info",
-      "TRANSL8R"
-    ],
-    "algorithm": {
-      "title": "Einflusspunkt",
-      "image": "einflusspunkt.png",
-      "thumb": "einflusspunkt-thumb.png",
-      "repo-url": "http://github.com/nikoripka/einflusspunkt",
-      "abstract": "Lines feel attracted to dots. From analogue to digital to print."
+{
+  "students": [
+    {
+      "author": "Nikolas Ripka",
+      "github": "nikoripka",
+      "contact": "https://twitter.com/nikoripka",
+      "url": "http://github.com/nikoripka",
+      "repos": [
+        "Einflusspunkt",
+        "ISS info",
+        "TRANSL8R"
+      ],
+      "algorithm": {
+        "title": "Einflusspunkt",
+        "image": "einflusspunkt.png",
+        "thumb": "einflusspunkt-thumb.png",
+        "repo-url": "http://github.com/nikoripka/einflusspunkt",
+        "abstract": "Lines feel attracted to dots. From analogue to digital to print."
+      },
+      "iss": {
+        "title": "ISS info",
+        "image": "iss-info.png",
+        "thumb": "iss-info-thumb.png",
+        "repo-url": "http://github.com/nikoripka/iss-info",
+        "abstract": "A simple infographic with some interesting facts about the International Space Station."
+      }
     },
-    "iss": {
-      "title": "ISS info",
-      "image": "iss-info.png",
-      "thumb": "iss-info-thumb.png",
-      "repo-url": "http://github.com/nikoripka/iss-info",
-      "abstract": "A simple infographic with some interesting facts about the International Space Station."
+    {
+      "author": "Marta Carlesso",
+      "github": "martakarta",
+      "url": "https://www.facebook.com/marta.k.carlesso",
+      "contact": "marta.carlesso@gmail.com",
+      "repos": [
+        "LineLights",
+        "LookUp",
+        "TRANSL8TR"
+      ],
+      "algorithm": {
+        "title": "LineLights",
+        "image": "Lines.png",
+        "thumb": "Lines-thumb.png",
+        "repo-url": "https://github.com/martakarta/LineLights",
+        "abstract": " One line, unlimited ways to connect neighbour points and create a pattern."
+      },
+      "iss": {
+        "title": "LookUp",
+        "image": "Look.png",
+        "thumb": "Lookthumb.png",
+        "repo-url": "https://github.com/martakarta/LookUp",
+        "abstract": " The ISS is actually visible with naked eyes from the earth. But do we know when and where is the right spot of sighting."
+      }
+    },
+    {
+      "author": "LauraPauBielsa",
+      "github": "lpaubielsa",
+      "url": "https://github.com/lpaubielsa",
+      "contact": "pau.bielsa@gmail.com",
+      "repos": [
+        "FadeAway",
+        "HereComesTheSun",
+        "connecting-bits"
+      ],
+      "algorithm": {
+        "title": "FadeAway",
+        "image": "beautyShotFadeAway.png",
+        "thumb": "thumbnailFadeAway.png",
+        "repo-url": "https://github.com/lpaubielsa/FadeAway",
+        "abstract": "An analog algorithm converted digital realized with P5js"
+      },
+      "iss": {
+        "title": "HereComesTheSun",
+        "image": "beautyshotISS.png",
+        "thumb": "thumbnailISS.png",
+        "repo-url": "https://github.com/lpaubielsa/HereComesTheSun",
+        "abstract": "A data visualization that compares the hours of sun and Lux-values between the Earth and the ISS."
+      },
+      "TRANSL8R": {
+        "title": "TRANSL8R",
+        "image": "hardware-.4.jpg",
+        "repo-url": "https://github.com/FH-Potsdam/connecting-bits",
+        "abstract": "Machines playing the Chinese whispers game in four different languages "
+      }
+    },
+    {
+      "author": "YOUR NAME",
+      "github": "dariaDunkelbier",
+      "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
+      "contact": "e-mail oder social network",
+      "repos": [
+        "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
+        "AND ANOTHER PROJECT 2",
+        "AND ANOTHER PROJECT 3",
+        "AND MORE",
+        "AND MORE"
+      ],
+      "algorithm": {
+        "title": "YOUR TITLE FOR THE ALGORITHM",
+        "image": ".png",
+        "thumb": "ldr-thumb.png",
+        "repo-url": "http://github.com/user/repo",
+        "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      },
+      "iss": {
+        "title": "YOUR TITLE FOR ISS",
+        "image": "ldr.png",
+        "thumb": "ldr-thumb.png",
+        "repo-url": "http://github.com/user/repo",
+        "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      }
+    },
+    {
+      "author": "YOUR NAME",
+      "github": "Ourelius",
+      "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
+      "contact": "e-mail oder social network",
+      "repos": [
+        "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
+        "AND ANOTHER PROJECT 2",
+        "AND ANOTHER PROJECT 3",
+        "AND MORE",
+        "AND MORE"
+      ],
+      "algorithm": {
+        "title": "YOUR TITLE FOR THE ALGORITHM",
+        "image": ".png",
+        "thumb": "ldr-thumb.png",
+        "repo-url": "http://github.com/user/repo",
+        "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      },
+      "iss": {
+        "title": "YOUR TITLE FOR ISS",
+        "image": "ldr.png",
+        "thumb": "ldr-thumb.png",
+        "repo-url": "http://github.com/user/repo",
+        "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      }
+    },
+    {
+      "author": "Paul Max Klinski",
+      "github": "Logetcrea",
+      "url": "http://github.com/Logetcrea",
+      "contact": "klinskipaul@gmail.com",
+      "repos": [
+        "from-letter-to-picture",
+        "research-matters"
+      ],
+      "algorithm": {
+        "title": "from-letter-to-picture",
+        "image": "letter.png",
+        "thumb": "letter-thumb.png",
+        "repo-url": "http://github.com/Logetcrea/from-letter-to-picture",
+        "abstract": "In this project I am trying to translate the different layout types of letters to artificial coded pictures. I created this project in 2015 as part part of the course 'Steel Ant - Input/Output' at the University of Applied Science in Potsdam (Germany). We dealed with the topic generative design and became acquainted with P5.js supported by Fabian Morón Zirfas 'fabiantheblind' and also influenced by Mey Lean Kronemann."
+      },
+      "iss": {
+        "title": "research-matters",
+        "image": "ldr.png",
+        "thumb": "ldr-thumb.png",
+        "repo-url": "http://github.com/Logetcrea/research-matters",
+        "abstract": "In this project I am showing how many different research projects have been executed on the ISS and which countries are involved."
+      }
+    },
+    {
+      "author": "Bela Kurek",
+      "github": "Q-rec",
+      "url": "https://incom.org/profil/7123",
+      "contact": "bela.kurek@berlin.de",
+      "repos": [
+        "mitte-zur-mitte",
+        "iss-money",
+        "TRANSL8R"
+      ],
+      "algorithm": {
+        "title": "mitte-zur-mitte",
+        "image": "mittealgorithm500.png",
+        "thumb": "mitteresultalgorithmtumb64.png",
+        "repo-url": "https://github.com/Q-rec/Mitte-zur-Mitte",
+        "abstract": "a line goes from one side to another, and chose a different part every time"
+      },
+      "iss": {
+        "title": "iss-money",
+        "image": "issmoney-algorithm.png",
+        "thumb": "issmoney-algorithmthumb.png",
+        "repo-url": "https://github.com/Q-rec/ISS-money",
+        "abstract": "an data visualisation of the ISS expenses "
+      }
+    },
+    {
+      "author": "Julia Freyhoff",
+      "github": "antsteelmule",
+      "url": "https://incom.org/profil/7019",
+      "contact": "julia-freyhoff@web.de",
+      "repos": [
+        "Lifelines",
+        "Encounters-In-Space",
+        "TRANSL8R"
+      ],
+      "algorithm": {
+        "title": "Lifelines",
+        "image": "lifelines.png",
+        "thumb": "lifelines-thumb.png",
+        "repo-url": "https://github.com/antsteelmule/lifelines",
+        "abstract": "Analog, Digital or Real? Lifelines is a series of various experiments with analog and digital algorithms and their adaption to an application."
+      },
+      "iss": {
+        "title": "Encounters In Space",
+        "image": "encountersinspace.png",
+        "thumb": "encountersinspace-thumb.png",
+        "repo-url": "https://github.com/antsteelmule/encounters-in-space",
+        "abstract": " Space shuttles regualarly fly to the ISS (International Space Station) to exchange team-members of the nasa's expeditions. This continous fluctuation of people results that some of them only met in space. Encounters In Space is a collection of graphics which highlighting the fact that a small amount of human beeings met eachother in cosmic space..."
+      }
+    },
+    {
+      "author": "Joshua Pacheco",
+      "github": "josues",
+      "url": "https://incom.org/profil/7029",
+      "contact": "joshua.pacheco@fh-potsdam.de",
+      "repos": [
+        "Time Deconstruction",
+        "Relativity and the ISS",
+        "TRANSL8R"
+      ],
+      "algorithm": {
+        "title": "Time Deconstruction",
+        "image": "time.png",
+        "thumb": "time-thumb.png",
+        "repo-url": "https://github.com/josues/time-deconstruction",
+        "abstract": "Exploration of a new way to display time."
+      },
+      "iss": {
+        "title": "Relativity and the ISS",
+        "image": "relativity.png",
+        "thumb": "relativity-thumb.png",
+        "repo-url": "https://github.com/josues/relativity-and-iss",
+        "abstract": "Visualization of how the effects of relativity affect the crew members in the ISS."
+      }
+    },
+    {
+      "author": "Nina Komarova-Zelinskaya",
+      "github": "Ninotschka",
+      "url": "https://fhp.incom.org/profil/7163",
+      "contact": "ninotschka@bk.ru",
+      "repos": [
+        "outlines",
+        "numbered parts"
+      ],
+      "algorithm": {
+        "title": "outlines",
+        "image": "outlines.png",
+        "thumb": "outlines-tumb.png",
+        "repo-url": "https://github.com/Ninotschka/outlines",
+        "abstract": " My goal was to create repetitive patterns,I liked that the patterns could tell something about a person by showing me some part of the world they are surrounded by, as if seen in a distorted mirror."
+      },
+      "iss": {
+        "title": "ISS:numbered parts",
+        "image": "Beautyshot-numbered-parts.png",
+        "thumb": "Beautyshot-numbered-part-thumb.png",
+        "repo-url": "https://github.com/Ninotschka/ISS-numbered-parts",
+        "abstract": " A poster where you can learn about the current parts of the ISS ad about their history, with the visual inspirations of retro-futurism, as in 2001: A Space Odyssey and Barbarella."
+      }
+    },
+    {
+      "author": "Jo Swarzynska",
+      "github": "swjo",
+      "url": "http://jopicture.com",
+      "contact": "j.swarzynska@gmx.de",
+      "repos": [
+        "PenDots",
+        "hisstory-",
+        "Laundry"
+      ],
+      "algorithm": {
+        "title": "pendots",
+        "image": "pen.png",
+        "thumb": "pen-thumb.png",
+        "repo-url": "https://github.com/swjo/PenDots",
+        "abstract": "Pen Dots is an algorythm created through a process based on several experiments executed by humans and transcripted in p5js forming individual pens."
+      },
+      "iss": {
+        "title": "hisstory",
+        "image": "astro.png",
+        "thumb": "astro-thumb.png",
+        "repo-url": "https://github.com/swjo/hisstory-",
+        "abstract": "hISStory is the visualisation of the history of the International Space Station."
+      }
+    },
+    {
+      "author": "Lucas Vogel",
+      "github": "vogelino",
+      "url": "http://www.vogelino.com",
+      "contact": "contact@vogelino.com",
+      "repos": [
+        "molecular-networks-p5-algorithm",
+        "explore-with-iss",
+        "periodic-table-data-visualization"
+      ],
+      "algorithm": {
+        "title": "Molecular networks: Uniques generated patterns",
+        "image": "images/vogelino/algorithm/cover.png",
+        "thumb": "images/vogelino/algorithm/cover-thumb.png",
+        "repo-url": "https://github.com/vogelino/molecular-networks-p5-algorithm",
+        "abstract": "The molecular networks algorithm is a javascript written algorithm that generates a unique molecular-like pattern using the library p5js."
+      },
+      "iss": {
+        "title": "Explore with the International Space Station",
+        "image": "images/vogelino/iss/cover.png",
+        "thumb": "images/vogelino/iss/cover-thumb.png",
+        "repo-url": "https://github.com/vogelino/explore-with-iss",
+        "abstract": "The ISS travels fast around the globe, visiting numerous countries more often than you will never be able to. Follow the ISS and learn about the countries it flies over."
+      },
+      "exercise": {
+        "title": "A visual representation (data visualization) of the chimical elements periodic table",
+        "image": "images/vogelino/tableOfElements/cover.png",
+        "thumb": "images/vogelino/tableOfElements/cover-thumb.png",
+        "repo-url": "https://github.com/vogelino/periodic-table-data-visualization",
+        "abstract": "How to represent something that has been represented a thousend times already? This periodic table of the chemical element is the result of an exercise intended to introduce students to the field of data visualization. I recieved a list of all chemical elements as a json dataset and the visualization is what I've done with it."
+      }
+    },
+    {
+      "author": "Wolfgang Albrecht",
+      "github": "wollemannone",
+      "url": "",
+      "contact": "wolfgang.albrecht@ok.de",
+      "repos": [
+        "veggieManiacc-",
+        "AND MORE"
+      ],
+      "algorithm": {
+        "title": "flags-raising-from-zero",
+        "image": "images/Flag500x500.png",
+        "thumb": "images/Flag500x500thumb.png",
+        "repo-url": "https://github.com/wollemannone/flags-raising-from-zero",
+        "abstract": "Diffrent flags can have the same visual language. With this little program you can create flags having a unique style."
+      },
+      "iss": {
+        "title": "ISS-as-far-away",
+        "image": "images/Dist_Home.png",
+        "thumb": "images/Dist_Homethumb.png",
+        "repo-url": "https://github.com/wollemannone/ISS-as-far-away",
+        "abstract": "A visual interpretation of the individual distance between each ISS crew member and the belonging place of home"
+      }
+    },
+    {
+      "author": "Dustin Kummer",
+      "github": "miduku",
+      "url": "http://dustinkummer.com",
+      "contact": "miduku11@gmail.com",
+      "repos": [
+        "bounce-algorithm",
+        "i-see-streams"
+      ],
+      "algorithm": {
+        "title": "Bounce Algorithm",
+        "image": "bounce-algorithm.png",
+        "thumb": "bounce-algorithm-thumb.png",
+        "repo-url": "https://github.com/miduku/bounce-algorithm",
+        "abstract": "Bounce Algorithm is an algorithm written in JavaScript which creates a pattern by letting lines bounce off a canvas."
+      },
+      "iss": {
+        "title": "I See Streams",
+        "image": "i-see-streams.png",
+        "thumb": "i-see-streams-thumb.png",
+        "repo-url": "https://github.com/miduku/i-see-streams",
+        "abstract": "I See Streams tries to capture the current position of the International Spacestation in combination with tweets being written right under it."
+      }
     }
-  },
-  {
-    "author": "YOUR NAME",
-    "github": "martakarta",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-    "author": "YOUR NAME",
-    "github": "lpaubielsa",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-    "author": "YOUR NAME",
-    "github": "dariaDunkelbier",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-    "author": "YOUR NAME",
-    "github": "Ourelius",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-    "author": "Paul Max Klinski",
-    "github": "Logetcrea",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "klinskipaul@gmail.com",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "from-letter-to-picture",
-      "image": "letter.png",
-      "thumb": "letter-thumb.png",
-      "repo-url": "http://logetcrea.github.io/from-letter-to-picture/index.html",
-      "abstract": "In this project I am trying to translate the different layout types of letters to artificial coded pictures. I created this project in 2015 as part part of the course 'Steel Ant - Input/Output' at the University of Applied Science in Potsdam (Germany). We dealed with the topic generative design and became acquainted with P5.js supported by Fabian Morón Zirfas 'fabiantheblind' and also influenced by Mey Lean Kronemann."
-    },
-    "iss": {
-      "title": "research-matters",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-  "author": "Bela Kurek",
-  "github": "Q-rec",
-  "url": "https://incom.org/profil/7123",
-  "contact":"bela.kurek@berlin.de",
-  "repos": [
-    "mitte-zur-mitte",
-    "iss-money",
-    "TRANSL8R"
-  ],
-  "algorithm": {
-    "title": "mitte-zur-mitte",
-    "image": "mittealgorithm500.png",
-    "thumb": "mitteresultalgorithmtumb64.png",
-    "repo-url": "https://github.com/Q-rec/Mitte-zur-Mitte",
-    "abstract": "a line goes from one side to another, and chose a different part every time"  },
-  "iss": {
-    "title": "iss-money",
-    "image": "issmoney-algorithm.png",
-    "thumb": "issmoney-algorithmthumb.png",
-    "repo-url": "https://github.com/Q-rec/ISS-money",
-    "abstract": "an data visualisation of the ISS expenses "
-}
-  },
-  {
-    "author": "Julia Freyhoff",
-    "github": "antsteelmule",
-    "url": "https://incom.org/profil/7019",
-    "contact": "julia-freyhoff@web.de",
-    "repos": [
-      "Lifelines",
-      "Encounters-In-Space",
-      "TRANSL8R"
-    ],
-    "algorithm": {
-      "title": "Lifelines",
-      "image": "lifelines.png",
-      "thumb": "lifelines-thumb.png",
-      "repo-url": "https://github.com/antsteelmule/lifelines",
-      "abstract": "Analog, Digital or Real? Lifelines is a series of various experiments with analog and digital algorithms and their adaption to an application."
-    },
-    "iss": {
-      "title": "Encounters In Space",
-      "image": "encountersinspace.png",
-      "thumb": "encountersinspace-thumb.png",
-      "repo-url": "https://github.com/antsteelmule/encounters-in-space",
-      "abstract": " Space shuttles regualarly fly to the ISS (International Space Station) to exchange team-members of the nasa's expeditions. This continous fluctuation of people results that some of them only met in space. Encounters In Space is a collection of graphics which highlighting the fact that a small amount of human beeings met eachother in cosmic space..."
-    }
-  },
-  {
-    "author": "Joshua Pacheco",
-    "github": "josues",
-    "url": "https://incom.org/profil/7029",
-    "contact": "joshua.pacheco@fh-potsdam.de",
-    "repos": [
-      "Time Deconstruction",
-      "Relativity and the ISS",
-      "TRANSL8R"
-    ],
-    "algorithm": {
-      "title": "Time Deconstruction",
-      "image": "time.png",
-      "thumb": "time-thumb.png",
-      "repo-url": "https://github.com/josues/time-deconstruction",
-      "abstract": "Exploration of a new way to display time"
-    },
-    "iss": {
-      "title": "Relativity and the ISS",
-      "image": "relativity.png",
-      "thumb": "relativity-thumb.png",
-      "repo-url": "https://github.com/josues/relativity-and-iss",
-      "abstract": "Visualization of how the effects of relativity affect the crew members in the ISS"
-    }
-  },
-  {
-    "author": "YOUR NAME",
-    "github": "Ninotschka",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-    "author": "Jo Swarzynska",
-    "github": "swjo",
-    "url": "http://jopicture.com",
-    "contact": "j.swarzynska@gmx.de",
-    "repos": [
-      "https://github.com/swjo/PenDots",
-      "https://github.com/swjo/hisstory-",
-      "https://github.com/swjo/Laundry"
-
-    ],
-    "algorithm": {
-      "title": "pendots",
-      "image": "https://github.com/swjo/PenDots/raw/master/images/pen.png",
-      "thumb": "https://github.com/swjo/PenDots/raw/master/images/pen-thumb.png",
-      "repo-url": "https://github.com/swjo/PenDots",
-      "abstract": "Pen Dots is an algorythm created through a process based on several experiments executed by humans and transcripted in p5js forming individual pens."
-    },
-    "iss": {
-      "title": "hisstory",
-      "image": "https://github.com/swjo/hisstory-/raw/master/images/astro.png",
-      "thumb": "https://github.com/swjo/hisstory-/raw/master/images/astro-thumb.png",
-      "repo-url": "https://github.com/swjo/hisstory-",
-      "abstract": "hISStory is the visualisation of the history of the International Space Station."
-    }
-  },
-  {
-    "author": "Lucas Vogel",
-    "github": "vogelino",
-    "url": "http://www.vogelino.com",
-    "contact":"contact@vogelino.com",
-    "repos": [
-      "molecular-networks-p5-algorithm",
-      "explore-with-iss",
-      "periodic-table-data-visualization"
-    ],
-    "algorithm": {
-      "title": "Molecular networks: Uniques generated patterns",
-      "image": "documentation/images/cover.png",
-      "thumb": "documentation/images/cover-thumb.png",
-      "repo-url": "https://github.com/vogelino/molecular-networks-p5-algorithm",
-      "abstract": "The molecular networks algorithm is a javascript written algorithm that generates a unique molecular-like pattern using the library p5js."
-    },
-    "iss": {
-      "title": "Explore with the International Space Station",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "https://github.com/vogelino/explore-with-iss",
-      "abstract": "The ISS travels fast around the globe, visiting numerous countries more often than you will never be able to. Follow the ISS and learn about the countries it flies over."
-    },
-    "exercise": {
-      "title": "A visual representation (data visualization) of the chimical elements periodic table",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "https://github.com/vogelino/periodic-table-data-visualization",
-      "abstract": "How to represent something that has been represented a thousend times already? This periodic table of the chemical element is the result of an exercise intended to introduce students to the field of data visualization. I recieved a list of all chemical elements as a json dataset and the visualization is what I've done with it."
-    }
-  },
-  {
-    "author": "YOUR NAME",
-    "github": "wollemannone",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
-  },
-  {
-    "author": "Dustin Kummer",
-    "github": "miduku",
-    "url": "http://dustinkummer.com",
-    "contact": "miduku11@gmail.com",
-    "repos": [
-      "Bounce Algorithm",
-      "I See Streams",
-      "TRANSL8R"
-    ],
-    "algorithm": {
-      "title": "Bounce Algorithm",
-      "image": "bounce-algorithm.png",
-      "thumb": "bounce-algorithm-thumb.png",
-      "repo-url": "https://github.com/miduku/bounce-algorithm",
-      "abstract": "Bounce Algorithm is an algorithm written in JavaScript which creates a pattern by letting lines bounce off a canvas."
-    },
-    "iss": {
-      "title": "I See Streams",
-      "image": "i-see-streams.png",
-      "thumb": "i-see-streams-thumb.png",
-      "repo-url": "https://github.com/miduku/i-see-streams",
-      "abstract": "I See Streams tries to capture the current position of the International Spacestation in combination with tweets being written right under it."
-    }
-  }
-]
+  ]
 }
