@@ -102,7 +102,7 @@
         "image": "space.png",
         "thumb": "space-thumb.png",
         "repo-url": "https://github.com/dariaDunkelbier/Spacejunk",
-        "abstract": "Three infovis posters about spacejunk in earth orbit."
+        "abstract": "Three infovis posters about spacejunk in earth orbit. They were created with basil.js. Each junk pieces is represented by a circle and its name is written inside the circle."
       }
     },
     {
