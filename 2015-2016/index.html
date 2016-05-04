@@ -76,12 +76,12 @@ title: winter semester 15/16
                 Algorithm
             </h2>
             <p>
-                The task was to create an algorithm for humans and execute it several times. Iterate through the results and refine the pseudo-code. Afterwards the algorithm was ported to the Processing programming language and improved. Finally the students needed to find a use case for their algorithms.
+                The task was to create an algorithm for humans and execute it several times. Iterate through the results and refine the pseudo-code. Afterwards the algorithm was ported to the P5.js programming framework and improved. Finally the students needed to find a use case for their algorithms.
             </p>
             {% for student in site.data.wise-1516.students %}
                 {% for thumb in student.algorithm.thumb %}
                 <a href="#{{ student.algorithm.title | make_web_friendly }}">
-                    <img src="{{ site.baseurl }}/images/wise-1516/{{ thumb }}" alt="..." class="img-circle img-teaser">
+                    <img onerror="this.src='{{ site.baseurl }}/images/wise-1516/ldr-thumb.png'" src="{{ site.baseurl }}/images/wise-1516/{{ thumb }}" alt="..." class="img-circle img-teaser">
                 </a>{% endfor %}
             {% endfor %}
         </div>
@@ -92,8 +92,8 @@ title: winter semester 15/16
     {% for student in site.data.wise-1516.students %}
         <div class="media project-algo well" id="{{ student.algorithm.title  | make_web_friendly }}">
             <a href="{{ student.algorithm.repo-url }}" class="media-left">
-                <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.image }}" class="image hidden-xs">
-                <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.thumb }}" class="thumb hidden-sm hidden-md hidden-lg">
+                <img alt=" " onerror="this.src='{{ site.baseurl }}/images/wise-1516/ldr.png'" src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.image }}" class="image hidden-xs">
+                <img alt=" " onerror="this.src='{{ site.baseurl }}/images/wise-1516/ldr-thumb.png'" src="{{ site.baseurl }}/images/wise-1516/{{ student.algorithm.thumb }}" class="thumb hidden-sm hidden-md hidden-lg">
             </a>
             <div class="media-body">
                 <a href="{{ student.algorithm.repo-url }}">
@@ -121,7 +121,7 @@ title: winter semester 15/16
     <div class="col-md-8 col-md-offset-2 intro">
         <div class="media well">
             <h2>International Space Station</h2>
-            <p>For this project the students had to create a data visualization about the ISS.</p>{% for student in site.data.wise-1516.students %}<a href="#{{ student.iss.title | make_web_friendly }}"><img src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
+            <p>For this project the students had to create a data visualization about the ISS.</p>{% for student in site.data.wise-1516.students %}<a href="#{{ student.iss.title | make_web_friendly }}"><img onerror="this.src='{{ site.baseurl }}/images/wise-1516/ldr-thumb.png'" src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" alt="..." class="img-circle img-teaser"></a>{% endfor %}</div>
     </div>
 </div>
 <div class="row">
@@ -129,8 +129,8 @@ title: winter semester 15/16
         {% for student in site.data.wise-1516.students %}
         <div class="media project-crowd well" id="{{ student.iss.title | make_web_friendly }}">
             <a href="{{ student.iss.repo-url }}" class="media-left">
-            <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.image }}" class="image hidden-xs">
-            <img alt=" " src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
+            <img alt=" " onerror="this.src='{{ site.baseurl }}/images/wise-1516/ldr.png'" src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.image }}" class="image hidden-xs">
+            <img alt=" " onerror="this.src='{{ site.baseurl }}/images/wise-1516/ldr-thumb.png'" src="{{ site.baseurl }}/images/wise-1516/{{ student.iss.thumb }}" class="thumb hidden-sm hidden-md hidden-lg ">
             </a>
             <div class="media-body">
                 <a href="{{ student.iss.repo-url }}"><h4 class="media-heading">{{ student.iss.title }}</h4></a>
