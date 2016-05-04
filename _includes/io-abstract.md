@@ -4,13 +4,13 @@ In this course the basic skills and possibilities of process-oriented design are
 
 The exercises represent a cross-section of the following topics:  
 
-- Generative Design. Analog and digital using the Processing platform  
-- Physical Computing. Using the Arduino & Raspberry Pi platforms  
-- Digital culture. Possibilities of the Web and use of web technologies  
-- Participatory design. Participation and user-generated content.  
+- Generative Design. Analog and digital using the Processing platform and the P5.js framework  
+- Physical Computing. Using the Arduino, Raspberry Pi and Particle Photon prototyping platforms  
+- Digital culture. Possibilities of the Web and use of web technologies and services  
+- Participatory design. Participation and user-generated content  
 - Bio design. Designing with living organisms.  
 
-A Seminar by [Mey Lean Konemann](http://www.meyleankronemann.de/), [Lisa Charlotte Rost](https://twitter.com/lisacrost), [Cedirc Kiefer](https://twitter.com/CedricKiefer), [Jonas Loh](https://twitter.com/jonas_loh), [Benedikt Groß](https://twitter.com/bndktgrs) and [Fabian Morón Zirfas](https://twitter.com/fabiantheblind) from the winter semster 2014/2015 till winter 2015/2016 at the [Interface Design Department](https://twitter.com/idpotsdam) of the [University of Applied Sciences Potsdam (Germany)](http://www.fh-potsdam.de/) based on works by [Monika Hoinkis](http://www.fh-potsdam.de/person/person-action/monika-hoinkis/show/Person/).  
+A Seminar by [Mey Lean Konemann](http://www.meyleankronemann.de/), [Lisa Charlotte Rost](https://twitter.com/lisacrost), [Cedric Kiefer](https://twitter.com/CedricKiefer), [Jonas Loh](https://twitter.com/jonas_loh), [Benedikt Groß](https://twitter.com/bndktgrs) and [Fabian Morón Zirfas](https://twitter.com/fabiantheblind) from the winter semster 2014/2015 till winter 2015/2016 at the [Interface Design Department](https://twitter.com/idpotsdam) of the [University of Applied Sciences Potsdam (Germany)](http://www.fh-potsdam.de/) based on works by [Monika Hoinkis](http://www.fh-potsdam.de/person/person-action/monika-hoinkis/show/Person/).  
 
 
 {% comment %}
