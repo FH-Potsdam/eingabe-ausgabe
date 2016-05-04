@@ -31,9 +31,7 @@
       "contact": "marta.carlesso@gmail.com",
       "repos": [
         "LineLights",
-        "LookUp",
-        "TRANSL8TR"
-      ],
+        "LookUp"      ],
       "algorithm": {
         "title": "LineLights",
         "image": "Lines.png",
@@ -135,8 +133,7 @@
       "contact": "bela.kurek@berlin.de",
       "repos": [
         "mitte-zur-mitte",
-        "iss-money",
-        "TRANSL8R"
+        "iss-money"
       ],
       "algorithm": {
         "title": "mitte-zur-mitte",
@@ -160,8 +157,7 @@
       "contact": "julia-freyhoff@web.de",
       "repos": [
         "Lifelines",
-        "Encounters-In-Space",
-        "TRANSL8R"
+        "Encounters-In-Space"
       ],
       "algorithm": {
         "title": "Lifelines",
@@ -185,8 +181,7 @@
       "contact": "joshua.pacheco@fh-potsdam.de",
       "repos": [
         "Time Deconstruction",
-        "Relativity and the ISS",
-        "TRANSL8R"
+        "Relativity and the ISS"
       ],
       "algorithm": {
         "title": "Time Deconstruction",
