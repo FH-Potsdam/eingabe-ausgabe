@@ -6,7 +6,7 @@ The exercises represent a cross-section of the following topics:
 
 - Generative Design. Analog and digital using the Processing platform and the P5.js framework  
 - Physical Computing. Using the Arduino, Raspberry Pi and Particle Photon prototyping platforms  
-- Digital culture. Possibilities of the Web and use of web technologies and services  
+- Digital culture. Possibilities of and use of web technologies and services  
 - Participatory design. Participation and user-generated content  
 - Bio design. Designing with living organisms.  
 
