@@ -123,8 +123,8 @@
       },
       "iss": {
         "title": "research-matters",
-        "image": "ldr.png",
-        "thumb": "ldr-thumb.png",
+        "image": "researchMatters.png",
+        "thumb": "researchMatters-thumb.png",
         "repo-url": "http://github.com/Logetcrea/research-matters",
         "abstract": "In this project I am showing how many different research projects have been executed on the ISS and which countries are involved."
       }
@@ -241,7 +241,7 @@
       "algorithm": {
         "title": "pendots",
         "image": "pen.png",
-        "thumb": "pen-thumb.png",
+        "thumb": "pen-thmub.png",
         "repo-url": "https://github.com/swjo/PenDots",
         "abstract": "Pen Dots is an algorythm created through a process based on several experiments executed by humans and transcripted in p5js forming individual pens."
       },
