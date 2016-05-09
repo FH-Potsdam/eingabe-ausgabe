@@ -65,7 +65,7 @@
         "abstract": "An analog algorithm converted digital realized with P5js"
       },
       "iss": {
-        "title": "Here Comes The Sun",
+        "title": "Here Comes the Sun",
         "image": "here-comes-the-sun.png",
         "thumb": "thumbnailISS.png",
         "repo-url": "https://github.com/lpaubielsa/HereComesTheSun",
@@ -88,7 +88,7 @@
         "Spacejunk"
       ],
       "algorithm": {
-        "title": "what-goes-around-comes-around",
+        "title": "What Goes Around Comes Around",
         "image": "what.png",
         "thumb": "what-thumb.png",
         "repo-url": "https://github.com/dariaDunkelbier/what-goes-around-comes-around",
@@ -112,14 +112,14 @@
         "research-matters"
       ],
       "algorithm": {
-        "title": "from-letter-to-picture",
+        "title": "From Letter to Picture",
         "image": "letter.png",
         "thumb": "letter-thumb.png",
         "repo-url": "http://github.com/Logetcrea/from-letter-to-picture",
         "abstract": "In this project I am trying to translate the different layout types of letters to artificial coded pictures. I created this project in 2015 as part part of the course 'Steel Ant - Input/Output' at the University of Applied Science in Potsdam (Germany). We dealed with the topic generative design and became acquainted with P5.js supported by Fabian Morón Zirfas 'fabiantheblind' and also influenced by Mey Lean Kronemann."
       },
       "iss": {
-        "title": "research-matters",
+        "title": "Research Matters",
         "image": "researchMatters.png",
         "thumb": "researchMatters-thumb.png",
         "repo-url": "http://github.com/Logetcrea/research-matters",
@@ -136,14 +136,14 @@
         "iss-money"
       ],
       "algorithm": {
-        "title": "mitte-zur-mitte",
+        "title": "Mitte Zur Mitte",
         "image": "mittealgorithm500.png",
         "thumb": "mitteresultalgorithmtumb64.png",
         "repo-url": "https://github.com/Q-rec/Mitte-zur-Mitte",
         "abstract": "a line goes from one side to another, and chose a different part every time"
       },
       "iss": {
-        "title": "iss-money",
+        "title": "ISS Money",
         "image": "issmoney-algorithm.png",
         "thumb": "issmoney-algorithmthumb.png",
         "repo-url": "https://github.com/Q-rec/ISS-money",
@@ -167,7 +167,7 @@
         "abstract": "Analog, Digital or Real? Lifelines is a series of various experiments with analog and digital algorithms and their adaption to an application."
       },
       "iss": {
-        "title": "Encounters In Space",
+        "title": "Encounters in Space",
         "image": "encountersinspace.png",
         "thumb": "encountersinspace-thumb.png",
         "repo-url": "https://github.com/antsteelmule/encounters-in-space",
@@ -180,8 +180,8 @@
       "url": "https://incom.org/profil/7029",
       "contact": "joshua.pacheco@fh-potsdam.de",
       "repos": [
-        "Time Deconstruction",
-        "Relativity and the ISS"
+        "Time-Deconstruction",
+        "Relativity-and-ISS"
       ],
       "algorithm": {
         "title": "Time Deconstruction",
@@ -208,14 +208,14 @@
         "numbered parts"
       ],
       "algorithm": {
-        "title": "outlines",
+        "title": "Outlines",
         "image": "outlines-algorythm.png",
         "thumb": "outlines-tumb.png",
         "repo-url": "https://github.com/Ninotschka/outlines",
         "abstract": " My goal was to create repetitive patterns,I liked that the patterns could tell something about a person by showing me some part of the world they are surrounded by, as if seen in a distorted mirror."
       },
       "iss": {
-        "title": "ISS:numbered parts",
+        "title": "ISS:Numbered Parts",
         "image": "Beautyshot-numbered-parts.png",
         "thumb": "Beautyshot-numbered-part-thumb.png",
         "repo-url": "https://github.com/Ninotschka/ISS-numbered-parts",
@@ -233,14 +233,14 @@
         "Laundry"
       ],
       "algorithm": {
-        "title": "pendots",
+        "title": "Pendots",
         "image": "pen.png",
-        "thumb": "pen-thmub.png",
+        "thumb": "pen-thumb.png",
         "repo-url": "https://github.com/swjo/PenDots",
         "abstract": "Pen Dots is an algorythm created through a process based on several experiments executed by humans and transcripted in p5js forming individual pens."
       },
       "iss": {
-        "title": "hisstory",
+        "title": "Hisstory",
         "image": "astro.png",
         "thumb": "astro-thumb.png",
         "repo-url": "https://github.com/swjo/hisstory-",
@@ -258,7 +258,7 @@
         "periodic-table-data-visualization"
       ],
       "algorithm": {
-        "title": "Molecular networks: Uniques generated patterns",
+        "title": "Molecular Networks: Uniques Generated Patterns",
         "image": "vogelino-algorithm-cover.png",
         "thumb": "vogelino-algorithm-cover-thumb.png",
         "repo-url": "https://github.com/vogelino/molecular-networks-p5-algorithm",
@@ -288,14 +288,14 @@
         "veggieManiacc-"
         ],
       "algorithm": {
-        "title": "flags-raising-from-zero",
+        "title": "Flags Raising from Zero",
         "image": "Flag500x500.png",
         "thumb": "Flag500x500thumb.png",
         "repo-url": "https://github.com/wollemannone/flags-raising-from-zero",
         "abstract": "Diffrent flags can have the same visual language. With this little program you can create flags having a unique style."
       },
       "iss": {
-        "title": "ISS-as-far-away",
+        "title": "ISS as Far Away",
         "image": "Dist_Home.png",
         "thumb": "Dist_Homethumb.png",
         "repo-url": "https://github.com/wollemannone/ISS-as-far-away",
