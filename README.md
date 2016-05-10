@@ -17,10 +17,14 @@ A Seminar by Mey Lean Konemann, Lisa Charlotte Rost, Cedirc Kiefer, Jonas Loh, B
 
 This is the source for the jekyll powerd site. See [https://interface.fh-potsdam.de/eingabe-ausgabe](https://interface.fh-potsdam.de/eingabe-ausgabe/) for all the results.  
 
+### Chat with us
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/FH-Potsdam/eingabe-ausgabe)  
+
 ##License  
 
 The MIT License (MIT)
-Copyright © 2014 - 2015 FH-Potsdam & Fabian Morón Zirfas
+Copyright © 2014 - 2016 FH-Potsdam & Fabian Morón Zirfas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
