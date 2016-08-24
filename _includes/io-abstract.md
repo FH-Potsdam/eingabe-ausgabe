@@ -13,7 +13,7 @@ In this course the basic skills and possibilities of process-oriented design are
 - Participatory design. Participation and user-generated content  
 - Bio design. Designing with living organisms  
 
-A Seminar by [Mey Lean Konemann](http://www.meyleankronemann.de/), [Lisa Charlotte Rost](https://twitter.com/lisacrost), [Cedric Kiefer](https://twitter.com/CedricKiefer), [Jonas Loh](https://twitter.com/jonas_loh), [Benedikt Groß](https://twitter.com/bndktgrs) and [Fabian Morón Zirfas](https://twitter.com/fabiantheblind) from the winter semster 2014/2015 till winter 2015/2016 at the [Interface Design Department](https://twitter.com/idpotsdam) of the [University of Applied Sciences Potsdam (Germany)](http://www.fh-potsdam.de/) based on works by [Monika Hoinkis](http://www.fh-potsdam.de/person/person-action/monika-hoinkis/show/Person/).  
+A Seminar by [Fabian Morón Zirfas](https://twitter.com/fabiantheblind) with contributions from [Mey Lean Konemann](http://www.meyleankronemann.de/), [Lisa Charlotte Rost](https://twitter.com/lisacrost), [Cedric Kiefer](https://twitter.com/CedricKiefer), [Jonas Loh](https://twitter.com/jonas_loh) and [Benedikt Groß](https://twitter.com/bndktgrs). It took place starting in the winter semster 2014/2015 untill winter 2015/2016 at the [Interface Design Department](https://twitter.com/idpotsdam) of the [University of Applied Sciences Potsdam (Germany)](http://www.fh-potsdam.de/) based on works by [Monika Hoinkis](http://www.fh-potsdam.de/person/person-action/monika-hoinkis/show/Person/).  
 
 
 {% comment %}
