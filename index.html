@@ -6,10 +6,12 @@ title: Input Output (Eingabe Ausgabe)
   <div class="col-md-10 col-md-offset-1">
     <h1 class="title"><a href="{{site.baseurl}}/">{{ page.title }}</a></h1>
     <img src="{{ site.baseurl }}/images/ldr/ldr-950w.png" alt="ldr" id="ldr">
-    {% capture readme %}
-    {% include io-abstract.md %}
-  {% endcapture %}
-  {{ readme | markdownify }}
+
+{% capture readme %}
+{% include io-abstract.md %}
+{% endcapture %}
+{{ readme | markdownify }}
+
 </div>
 <div class="col-md-10 col-md-offset-1">
   <p>
